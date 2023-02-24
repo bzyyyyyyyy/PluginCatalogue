@@ -1,0 +1,24 @@
+{
+  "id": "qq_chat",
+  "name": "QQChat",
+  "version": "1.0.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "labels": [
+    "information",
+    "management"
+  ],
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {
+    "qq_api": "^1.0.0",
+    "online_player_api": "^1.0.0"
+  },
+  "requirements": [
+    "aiocqhttp"
+  ],
+  "description": {
+    "en_us": "Useful Functions with QQ",
+    "zh_cn": "QQ 相关实用功能"
+  }
+}

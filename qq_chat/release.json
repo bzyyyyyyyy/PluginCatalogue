@@ -1,0 +1,51 @@
+{
+  "schema_version": 4,
+  "id": "qq_chat",
+  "latest_version": "1.0.0",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v1.0.0",
+      "name": "qq_chat: v1.0.0",
+      "tag_name": "qq_chat-v1.0.0",
+      "created_at": "2023-02-03T22:35:44Z",
+      "assets": [
+        {
+          "name": "QQChat-v1.0.0.mcdr",
+          "size": 3443,
+          "download_count": 52,
+          "created_at": "2023-02-03T22:36:22Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_chat-v1.0.0/QQChat-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## 1.0.0 (2023-02-03)\n\n\n### Features\n\n* **qq_chat:** ✨ compatible with MCDR 2.0 ([32bcc63](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/32bcc63a6581742688d80b496d23de065f1d4586))\n* **qq_chat:** ✨ compatible with MCDR 2.0 ([d60e2a9](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/d60e2a9faa0d8b4a0d685d99c8164bf6d4535ff9))",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ],
+  "release_meta": {
+    "qq_chat-v1.0.0": {
+      "id": "qq_chat",
+      "name": "QQChat",
+      "version": "1.0.0",
+      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "labels": [
+        "information",
+        "management"
+      ],
+      "authors": [
+        "Andy Zhang"
+      ],
+      "dependencies": {
+        "qq_api": "^1.0.0",
+        "online_player_api": "^1.0.0"
+      },
+      "requirements": [
+        "aiocqhttp"
+      ],
+      "description": {
+        "en_us": "Useful Functions with QQ",
+        "zh_cn": "QQ 相关实用功能"
+      }
+    }
+  }
+}

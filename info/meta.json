@@ -1,0 +1,21 @@
+{
+  "id": "info",
+  "name": "Info",
+  "version": "0.2.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "labels": [
+    "information"
+  ],
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [
+    "psutil",
+    "py-cpuinfo"
+  ],
+  "description": {
+    "en_us": "Get server info",
+    "zh_cn": "获取服务器信息"
+  }
+}

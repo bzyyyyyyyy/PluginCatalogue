@@ -1,0 +1,19 @@
+{
+  "id": "todolist",
+  "name": "ToDoList",
+  "version": "1.0.4",
+  "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+  "labels": [
+    "tool",
+    "information"
+  ],
+  "authors": [
+    "Flash-Z"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "ToDoList",
+    "zh_cn": "ToDoList，待办清单"
+  }
+}
