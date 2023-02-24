@@ -8,9 +8,9 @@
 
 - Plugin ID: `mirror_server_reforged`
 - Plugin Name: MirrorServerReforged
-- Version: 1.0.6
-  - Metadata version: 1.0.6
-  - Release version: 1.0.6
+- Version: 1.0.7
+  - Metadata version: 1.0.7
+  - Release version: 1.0.7
 - Total downloads: 517
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
@@ -40,15 +40,17 @@ I'll simply introduce it.
 
 ## Getting Started
 
-This plugin will initalize when the first run, it will do the following opeartions
+This plugin will initalize when the first run, it will do the following opeartions (the path can be changed in the config)
 - Create `MirrorServerReforged.json` in your `config` folder and fill the default config in it
 - Create`Mirror` folder to store your files of mirror server
 - Create `./server/world/`/`./world` in `Mirror` folder (This depends on whether you use MCDR or not, use as default)
 
-But these operations are not enough, what you need to do are as following
+But these operations are not enough, what you need to do are as following (the path can be changed in the config)
 - Put your server core and dependencies into `./Mirror/server` folder
 - Edit start command and rcon information in file `config.yml` in the folder`./Mirror/`
 - Edit the content in `./Mirror/server/server.properties`. What you need to pay attention to is the ports of the mirror server and rcon related information in order to avoid encountering to the main server
+
+It's not essential for a mirror server to be a MCDR server, you can use the vanilla or something else.
 
 ## Config
 
@@ -65,7 +67,9 @@ If you want to change the config of this plugin, you can change the content of `
     "host":"localhost",
     "port":25565,
     "password":"password"
-  }
+  },
+  "source": "./server",
+  "target': './Mirror/server"
 }
 ```
 
@@ -77,6 +81,8 @@ Now, I'll introduce the content of the config file:
     - `host` is the address of your mirror server, change it as your need.
     - `port` is the port of your mirror server, change it as your need.
     - `password` is the password of the rcon feature on your mirror server, change it as your need.
+- `source` is the save folder of you main server save.
+- `target` is the save folder of your mirror server save.
 
 ## Command List
 
@@ -89,12 +95,14 @@ Now, I'll introduce the content of the config file:
 !!msr init - Initalize mirror server (Use it only when you use MCDR in your mirror server)
 !!msr status - Checkout the status of your mirror server
 ```
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MirrorServerReforged-v1.0.7.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.7) | 1.0.7 | 2023/02/24 03:17:23 | 15.6KB | 0 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.7/MirrorServerReforged-v1.0.7.mcdr) |
 | [MirrorServerReforged-v1.0.6.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.6) | 1.0.6 | 2023/02/23 07:25:33 | 15.48KB | 1 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.6/MirrorServerReforged-v1.0.6.mcdr) |
 | [MirrorServerReforged-v1.0.5.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.5) | 1.0.5 | 2023/02/05 14:09:32 | 8.61KB | 18 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.5/MirrorServerReforged-v1.0.5.mcdr) |
 | [MirrorServerReforged-v1.0.4.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.4) | 1.0.4 | 2023/01/12 15:03:50 | 8.45KB | 52 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.4/MirrorServerReforged-v1.0.4.mcdr) |
