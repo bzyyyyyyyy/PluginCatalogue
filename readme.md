@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 93
+Plugin Amount: 94
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -56,6 +56,7 @@ Plugin Amount: 93
 | [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/12/28 | [`API`](/labels/api/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
+| [Let Me Click and Send](/plugins/let_me_click_and_send/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Allowed click to send anything in 1.19 | 2023/02/25 | [`Information`](/labels/information/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2021/08/16 | [`Information`](/labels/information/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/12/28 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |

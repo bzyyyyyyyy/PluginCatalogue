@@ -2147,6 +2147,49 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 | [leader_reforged-v1.1.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.1) | 1.1.1 | 2022/03/31 06:34:39 | 10.13KB | 8 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.1/leader_reforged-v1.1.1.mcdr) |
 | [leader_reforged-v1.1.0-patched.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched) | 1.1.0-patched | 2022/03/22 06:09:16 | 9.69KB | 6 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0-patched/leader_reforged-v1.1.0-patched.mcdr) |
 
+## let_me_click_and_send
+
+### Basic Information
+
+- Plugin ID: `let_me_click_and_send`
+- Plugin Name: Let Me Click and Send
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 4
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Allowed click to send anything in 1.19
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# Let Me Click and Send
+
+允许在 1.19 点击发送任意信息
+
+Allowed click to send anything in 1.19
+
+See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [LetMeClickandSend-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/let_me_click_and_send-v1.0.0) | 1.0.0 | 2023/02/25 19:08:54 | 2.31KB | 4 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/let_me_click_and_send-v1.0.0/LetMeClickandSend-v1.0.0.mcdr) |
+
 ## lite_file_manager
 
 ### Basic Information
