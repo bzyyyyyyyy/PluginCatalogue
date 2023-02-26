@@ -1,8 +1,44 @@
 {
   "schema_version": 4,
   "id": "tpm",
-  "latest_version": "0.3.0",
+  "latest_version": "0.3.2",
   "releases": [
+    {
+      "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.2",
+      "name": "v0.3.2",
+      "tag_name": "v0.3.2",
+      "created_at": "2023-02-26T16:52:49Z",
+      "assets": [
+        {
+          "name": "TpManager-v0.3.2.mcdr",
+          "size": 17043,
+          "download_count": 0,
+          "created_at": "2023-02-26T16:53:28Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.2/TpManager-v0.3.2.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "0.3.2"
+    },
+    {
+      "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.1",
+      "name": "v0.3.1",
+      "tag_name": "v0.3.1",
+      "created_at": "2023-02-26T16:52:49Z",
+      "assets": [
+        {
+          "name": "TpManager-v0.3.1.mcdr",
+          "size": 17054,
+          "download_count": 0,
+          "created_at": "2023-02-26T16:52:51Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.1/TpManager-v0.3.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "0.3.1"
+    },
     {
       "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.0",
       "name": "v0.3.0",
@@ -77,6 +113,48 @@
     }
   ],
   "release_meta": {
+    "v0.3.2": {
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.1",
+      "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "v0.3.1": {
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.1",
+      "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "labels": [
+        "tool"
+      ],
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
     "v0.3.0": {
       "id": "tpm",
       "name": "TpManager",

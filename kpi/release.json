@@ -1,8 +1,26 @@
 {
   "schema_version": 4,
   "id": "kpi",
-  "latest_version": "1.4.0",
+  "latest_version": "1.4.1",
   "releases": [
+    {
+      "url": "https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.1",
+      "name": "v1.4.1",
+      "tag_name": "v1.4.1",
+      "created_at": "2023-02-26T05:47:06Z",
+      "assets": [
+        {
+          "name": "KPI-v1.4.1.mcdr",
+          "size": 23958,
+          "download_count": 0,
+          "created_at": "2023-02-26T16:52:23Z",
+          "browser_download_url": "https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.1/KPI-v1.4.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.4.1"
+    },
     {
       "url": "https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.0",
       "name": "v1.4.0",
@@ -185,6 +203,26 @@
     }
   ],
   "release_meta": {
+    "v1.4.1": {
+      "id": "kpi",
+      "name": "KPI",
+      "version": "1.4.0",
+      "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "labels": [
+        "api"
+      ],
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugins codes share library",
+        "zh_cn": "一个MCDR插件代码共享库"
+      }
+    },
     "v1.4.0": {
       "id": "kpi",
       "name": "KPI",
