@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 94
+Plugin Amount: 95
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -92,6 +92,7 @@ Plugin Amount: 94
 | [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2022/03/08 | [`Management`](/labels/management/readme.md) |
 | [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | 2021/08/20 | [`Tool`](/labels/tool/readme.md) |
+| [Seed](/plugins/seed/readme.md) | [OptiJava](https://github.com/OptiJava) | Get world seed without op permission. | 2023/02/26 | [`Information`](/labels/information/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |

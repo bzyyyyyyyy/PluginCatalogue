@@ -1,0 +1,45 @@
+[English](readme.md) | **中文**
+
+\>\>\> [回到索引](/readme-zh_cn.md)
+
+## seed
+
+### 基本信息
+
+- 插件 ID: `seed`
+- 插件名: Seed
+- 版本: 1.1.0
+  - 元数据版本: 1.1.0
+  - 发布版本: 1.1.0
+- 总下载量: 0
+- 作者: [OptiJava](https://github.com/OptiJava)
+- 仓库: https://github.com/OptiJava/Seed
+- 标签: [`信息`](/labels/information/readme-zh_cn.md)
+- 描述: Get world seed without op permission.
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+
+### 介绍
+
+!!seed指令获取服务器种子，无需手动在配置文件中指定种子，插件可以自动获取
+![image](https://user-images.githubusercontent.com/106148777/221347169-1764fb31-db0c-40e5-82cf-77c1915a638c.png)
+
+### 下载
+
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [seed-v1.1.0.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.1.0) | 1.1.0 | 2023/02/26 11:08:24 | 2.89KB | 0 | [下载](https://github.com/OptiJava/Seed/releases/download/v1.1.0/seed-v1.1.0.mcdr) |
+| [seed-v1.0.1.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.0.1) | 1.0.1 | 2023/02/26 01:41:02 | 2.48KB | 0 | [下载](https://github.com/OptiJava/Seed/releases/download/v1.0.1/seed-v1.0.1.mcdr) |
+| [seed-v1.0.0.mcdr](https://github.com/OptiJava/Seed/releases/tag/v1.0.0) | 1.0.0 | 2023/02/25 09:06:56 | 2.42KB | 0 | [下载](https://github.com/OptiJava/Seed/releases/download/v1.0.0/seed-v1.0.0.mcdr) |
+
