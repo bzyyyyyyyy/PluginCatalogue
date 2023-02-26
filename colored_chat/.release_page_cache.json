@@ -3,9 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"cc33f5a80513108e1aa8a034929ab17dc8436c342ffb2aa7253fd0f293e601c5\"",
+      "etag": "\"72fc08419207c7721c9c440d9d5a25acba80e548aec13cb4e6e89569d04620a0\"",
       "release_tags": [
-        "colored_chat-v0.0.2"
+        "colored_chat-v0.0.3"
       ],
       "empty": false
     },

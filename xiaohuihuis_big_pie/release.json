@@ -1,28 +1,48 @@
 {
   "schema_version": 4,
   "id": "xiaohuihuis_big_pie",
-  "latest_version": "0.0.1",
+  "latest_version": "0.0.2",
   "releases": [
     {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-0.0.1",
-      "name": "XiaoHuiHui'sBigPie-v0.0.1",
-      "tag_name": "xiaohuihuis_big_pie-0.0.1",
-      "created_at": "2022-05-21T16:07:54Z",
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2",
+      "name": "xiaohuihuis_big_pie: v0.0.2",
+      "tag_name": "xiaohuihuis_big_pie-v0.0.2",
+      "created_at": "2023-02-26T00:08:56Z",
       "assets": [
         {
-          "name": "XiaoHuiHui.sBigPie-v0.0.1.mcdr",
-          "size": 1181,
-          "download_count": 72,
-          "created_at": "2022-05-21T16:10:31Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr"
+          "name": "XiaoHuiHui.sBigPie-v0.0.2.mcdr",
+          "size": 1159,
+          "download_count": 0,
+          "created_at": "2023-02-26T00:13:12Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr"
         }
       ],
-      "description": "N/A",
+      "description": "## [0.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/xiaohuihuis_big_pie-0.0.1...xiaohuihuis_big_pie-v0.0.2) (2023-02-26)\r\n\r\n\r\n### Documentation\r\n\r\n* **xiaohuihuis_big_pie:** 📝 update doc ([f5fcfab](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/f5fcfab0cc77b02a1464da05007d865906c0e46b))",
       "prerelease": false,
-      "parsed_version": "0.0.1"
+      "parsed_version": "0.0.2"
     }
   ],
   "release_meta": {
-    "xiaohuihuis_big_pie-0.0.1": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/xiaohuihuis_big_pie-0.0.1/xiaohuihuis_big_pie/mcdreforged.plugin.json, status_code 404: b'404: Not Found'"
+    "xiaohuihuis_big_pie-v0.0.2": {
+      "id": "xiaohuihuis_big_pie",
+      "name": "XiaoHuiHui's Big Pie",
+      "version": "0.0.2",
+      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "labels": [
+        "information",
+        "tool",
+        "management",
+        "api"
+      ],
+      "authors": [
+        "Andy Zhang"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Run any Python code in game!",
+        "zh_cn": "小灰灰的游戏内执行 Python 语句大饼"
+      }
+    }
   }
 }
