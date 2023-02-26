@@ -1,7 +1,7 @@
 {
   "id": "tpm",
   "name": "TpManager",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "repository": "https://github.com/kmcsr/tpmanager_mcdr",
   "labels": [
     "tool"
@@ -10,8 +10,8 @@
     "zyxkad"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0",
-    "kpi": "~1.4.1"
+    "mcdreforged": "~2.3.0",
+    "kpi": "~1.4.2"
   },
   "requirements": [],
   "description": {
