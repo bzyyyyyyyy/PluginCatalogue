@@ -3,9 +3,11 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"40d8fee7ed9097bc3150f5f68b43244689f6ded1da46519dfc6ba2f70ccd463f\"",
+      "etag": "\"9c9fb545994938d4c6d3c6ceb1cfd8fbc54dfb38541d47946a0f2537f014a891\"",
       "release_tags": [
-        "bingo-v0.0.3"
+        "v1.1.0",
+        "v1.0.1",
+        "v1.0.0"
       ],
       "empty": false
     },
