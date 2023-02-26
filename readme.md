@@ -53,7 +53,7 @@ Plugin Amount: 94
 | [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | Display content when players join the server. (with many useful features) | N/A | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
-| [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/12/28 | [`API`](/labels/api/readme.md) |
+| [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2023/02/26 | [`API`](/labels/api/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Allowed click to send anything in 1.19 | 2023/02/25 | [`Information`](/labels/information/readme.md) |
@@ -103,7 +103,7 @@ Plugin Amount: 94
 | [The Offline ops](/plugins/the_offline_ops/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Check the player's IP to prevent impersonation of logging into the offline server | 2023/02/04 | [`Management`](/labels/management/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/11/25 | [`Management`](/labels/management/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/08 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
-| [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2022/11/28 | [`Tool`](/labels/tool/readme.md) |
+| [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/02/03 | [`Information`](/labels/information/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query players' coordinates | 2022/07/20 | [`Information`](/labels/information/readme.md) |

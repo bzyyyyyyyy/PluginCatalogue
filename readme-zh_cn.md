@@ -53,7 +53,7 @@
 | [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | 2022/03/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2022/12/28 | [`API`](/labels/api/readme-zh_cn.md) |
+| [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2023/02/26 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | 2021/08/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme-zh_cn.md) | [XavierWah](https://github.com/XavierWah) | 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。 | 2022/04/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 允许在 1.19 点击发送任意信息 | 2023/02/25 | [`信息`](/labels/information/readme-zh_cn.md) |
@@ -103,7 +103,7 @@
 | [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | 2023/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2022/11/25 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/02/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
-| [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2022/11/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2023/02/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [UUIDAPI](/plugins/uuid_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme-zh_cn.md) |
 | [welcome_msg](/plugins/welcome_msg/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 入服欢迎消息 | 2023/02/03 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Where Is](/plugins/where_is/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 查询玩家的坐标 | 2022/07/20 | [`信息`](/labels/information/readme-zh_cn.md) |
