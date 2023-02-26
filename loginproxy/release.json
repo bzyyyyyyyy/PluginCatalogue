@@ -218,60 +218,6 @@
       "description": "N/A",
       "prerelease": false,
       "parsed_version": "0.3.1"
-    },
-    {
-      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.0",
-      "name": "v0.3.0",
-      "tag_name": "v0.3.0",
-      "created_at": "2022-09-20T23:13:36Z",
-      "assets": [
-        {
-          "name": "LoginProxy-v0.3.0.mcdr",
-          "size": 21857,
-          "download_count": 8,
-          "created_at": "2022-09-20T23:13:39Z",
-          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.0/LoginProxy-v0.3.0.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "0.3.0"
-    },
-    {
-      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.2.0",
-      "name": "v0.2.0",
-      "tag_name": "v0.2.0",
-      "created_at": "2022-09-19T00:14:26Z",
-      "assets": [
-        {
-          "name": "LoginProxy-v0.2.0.mcdr",
-          "size": 21069,
-          "download_count": 3,
-          "created_at": "2022-09-19T00:14:29Z",
-          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.2.0/LoginProxy-v0.2.0.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "0.2.0"
-    },
-    {
-      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.1.0",
-      "name": "v0.1.0",
-      "tag_name": "v0.1.0",
-      "created_at": "2022-09-18T22:57:03Z",
-      "assets": [
-        {
-          "name": "LoginProxy-v0.1.0.mcdr",
-          "size": 20461,
-          "download_count": 2,
-          "created_at": "2022-09-18T22:57:15Z",
-          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.1.0/LoginProxy-v0.1.0.mcdr"
-        }
-      ],
-      "description": "N/A",
-      "prerelease": false,
-      "parsed_version": "0.1.0"
     }
   ],
   "release_meta": {
@@ -550,9 +496,6 @@
         "en_us": "A Minecraft login proxy Plugin",
         "zh_cn": "一个Minecraft服务器登录代理兼白名单插件"
       }
-    },
-    "v0.3.0": "wrong plugin id in mcdreforged.plugin.json, expected loginproxy but found login_proxy",
-    "v0.2.0": "wrong plugin id in mcdreforged.plugin.json, expected loginproxy but found login_proxy",
-    "v0.1.0": "wrong plugin id in mcdreforged.plugin.json, expected loginproxy but found login_proxy"
+    }
   }
 }
