@@ -27,5 +27,5 @@
 | [OnlinePlayerAPI](/plugins/online_player_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在线玩家 API | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
 | [QQAPI](/plugins/qq_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 连接 MC 与 QQ | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
 | [UUIDAPI](/plugins/uuid_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme-zh_cn.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2022/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 

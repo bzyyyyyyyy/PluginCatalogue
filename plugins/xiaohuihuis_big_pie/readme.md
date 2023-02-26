@@ -8,10 +8,10 @@
 
 - Plugin ID: `xiaohuihuis_big_pie`
 - Plugin Name: XiaoHuiHui's Big Pie
-- Version: 0.0.1
+- Version: 0.0.2
   - Metadata version: 0.0.2
-  - Release version: 0.0.1
-- Total downloads: 72
+  - Release version: 0.0.2
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
@@ -29,11 +29,14 @@
 
 ### Introduction
 
+<!-- markdownlint-disable MD036 -->
 # XiaoHuiHui's Big Pie
 
 > 小灰灰的游戏内执行 Python 语句大饼
 >
 > Run any Python code in game!
+
+**警告：该插件没有权限验证且可以执行任意代码，请确定您知悉所有后果**
 
 ## 使用
 
@@ -47,5 +50,5 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [XiaoHuiHui.sBigPie-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-0.0.1) | 0.0.1 | 2022/05/21 16:10:31 | 1.15KB | 72 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr) |
+| [XiaoHuiHui.sBigPie-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2) | 0.0.2 | 2023/02/26 00:13:12 | 1.13KB | 0 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr) |
 

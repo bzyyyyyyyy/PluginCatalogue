@@ -23,7 +23,7 @@
 | [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2023/02/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2023/01/19 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -32,7 +32,7 @@
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/09/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | 2022/12/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 支持原版显示格式化代码 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 支持原版显示格式化代码 | 2023/02/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Command Exporter](/plugins/command_exporter/readme-zh_cn.md) | [DancingSnow](https://github.com/DancingSnow0517) | A plugin is used to export the MCDR command tree | 2023/02/04 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | 2021/08/22 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -110,5 +110,5 @@
 | [Whisper](/plugins/whisper/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | （原版功能扩展）更快速地对一群人说悄悄话 | 2023/02/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [World Copier](/plugins/world_copier/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 同步生存服和镜像服 | 2022/04/03 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2022/05/21 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小灰灰的游戏内执行 Python 语句大饼 | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 

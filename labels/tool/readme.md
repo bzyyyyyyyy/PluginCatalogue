@@ -13,7 +13,7 @@ Plugin Amount: 43
 | [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | 2023/01/19 | [`Tool`](/labels/tool/readme.md) |
 | [allow_suicide](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | allow player suicide with no op | 2023/02/03 | [`Tool`](/labels/tool/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
-| [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | 2022/06/16 | [`Tool`](/labels/tool/readme.md) |
+| [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2023/01/19 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | 2021/09/07 | [`Tool`](/labels/tool/readme.md) |
@@ -21,7 +21,7 @@ Plugin Amount: 43
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2022/09/10 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | 2022/12/20 | [`Tool`](/labels/tool/readme.md) |
-| [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
+| [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Command Exporter](/plugins/command_exporter/readme.md) | [DancingSnow](https://github.com/DancingSnow0517) | A plugin is used to export the MCDR command tree | 2023/02/04 | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | 2021/08/22 | [`Tool`](/labels/tool/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
@@ -52,5 +52,5 @@ Plugin Amount: 43
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/08 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2022/11/28 | [`Tool`](/labels/tool/readme.md) |
 | [Whisper](/plugins/whisper/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Send some private message to others in a faster way.(Vanilla feature supplements) | 2023/02/20 | [`Tool`](/labels/tool/readme.md) |
-| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2022/05/21 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2023/02/26 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
 
