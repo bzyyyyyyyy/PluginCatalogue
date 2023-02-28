@@ -11,7 +11,7 @@
 - 版本: 1.4.2
   - 元数据版本: 1.4.2
   - 发布版本: 1.4.2
-- 总下载量: 237
+- 总下载量: 239
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
@@ -38,7 +38,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2023/02/26 17:41:56 | 23.76KB | 0 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.2/KPI-v1.4.2.mcdr) |
+| [KPI-v1.4.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2023/02/26 17:41:56 | 23.76KB | 2 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.2/KPI-v1.4.2.mcdr) |
 | [KPI-v1.4.1.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.1) | 1.4.1 | 2023/02/26 16:52:23 | 23.4KB | 0 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.1/KPI-v1.4.1.mcdr) |
 | [KPI-v1.4.0.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.0) | 1.4.0 | 2023/02/26 05:46:05 | 22.39KB | 0 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.0/KPI-v1.4.0.mcdr) |
 | [KPI-v1.3.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.3) | 1.3.3 | 2022/12/28 01:51:17 | 19.2KB | 115 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.3/KPI-v1.3.3.mcdr) |
