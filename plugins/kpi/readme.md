@@ -8,9 +8,9 @@
 
 - Plugin ID: `kpi`
 - Plugin Name: KPI
-- Version: 1.4.3
-  - Metadata version: 1.4.3
-  - Release version: 1.4.3
+- Version: 1.4.4
+  - Metadata version: 1.4.4
+  - Release version: 1.4.4
 - Total downloads: 241
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
@@ -38,6 +38,7 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [KPI-v1.4.4.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.4) | 1.4.4 | 2023/03/01 19:10:06 | 24.82KB | 0 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.4/KPI-v1.4.4.mcdr) |
 | [KPI-v1.4.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.3) | 1.4.3 | 2023/03/01 04:36:46 | 24.79KB | 2 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.3/KPI-v1.4.3.mcdr) |
 | [KPI-v1.4.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2023/02/26 17:41:56 | 23.76KB | 2 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.2/KPI-v1.4.2.mcdr) |
 | [KPI-v1.4.1.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.1) | 1.4.1 | 2023/02/26 16:52:23 | 23.4KB | 0 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.1/KPI-v1.4.1.mcdr) |
