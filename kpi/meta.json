@@ -1,7 +1,7 @@
 {
   "id": "kpi",
   "name": "KPI",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "repository": "https://github.com/kmcsr/kpi_mcdr",
   "labels": [
     "api"
@@ -10,7 +10,7 @@
     "zyxkad"
   ],
   "dependencies": {
-    "mcdreforged": "~2.3.0"
+    "mcdreforged": "^2.3.0"
   },
   "requirements": [],
   "description": {
