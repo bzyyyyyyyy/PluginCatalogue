@@ -11,7 +11,7 @@
 - Version: 1.4.3
   - Metadata version: 1.4.3
   - Release version: 1.4.3
-- Total downloads: 239
+- Total downloads: 241
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Labels: [`API`](/labels/api/readme.md)
@@ -38,7 +38,7 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.3) | 1.4.3 | 2023/03/01 04:36:46 | 24.79KB | 0 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.3/KPI-v1.4.3.mcdr) |
+| [KPI-v1.4.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.3) | 1.4.3 | 2023/03/01 04:36:46 | 24.79KB | 2 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.3/KPI-v1.4.3.mcdr) |
 | [KPI-v1.4.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2023/02/26 17:41:56 | 23.76KB | 2 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.2/KPI-v1.4.2.mcdr) |
 | [KPI-v1.4.1.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.1) | 1.4.1 | 2023/02/26 16:52:23 | 23.4KB | 0 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.1/KPI-v1.4.1.mcdr) |
 | [KPI-v1.4.0.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.0) | 1.4.0 | 2023/02/26 05:46:05 | 22.39KB | 0 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.0/KPI-v1.4.0.mcdr) |
