@@ -1,7 +1,7 @@
 {
   "id": "kpi",
   "name": "KPI",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "repository": "https://github.com/kmcsr/kpi_mcdr",
   "labels": [
     "api"
