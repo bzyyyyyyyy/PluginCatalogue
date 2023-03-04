@@ -1,8 +1,26 @@
 {
   "schema_version": 4,
   "id": "loginproxy",
-  "latest_version": "0.5.2",
+  "latest_version": "0.5.3",
   "releases": [
+    {
+      "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3",
+      "name": "v0.5.3",
+      "tag_name": "v0.5.3",
+      "created_at": "2023-03-04T00:14:14Z",
+      "assets": [
+        {
+          "name": "LoginProxy-v0.5.3.mcdr",
+          "size": 25747,
+          "download_count": 1,
+          "created_at": "2023-03-04T00:14:20Z",
+          "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "0.5.3"
+    },
     {
       "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.2",
       "name": "v0.5.2",
@@ -239,6 +257,29 @@
     }
   ],
   "release_meta": {
+    "v0.5.3": {
+      "id": "loginproxy",
+      "name": "LoginProxy",
+      "version": "0.5.3",
+      "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "labels": [
+        "management",
+        "information",
+        "api"
+      ],
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.5"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft login proxy Plugin",
+        "zh_cn": "一个Minecraft服务器登录代理兼白名单插件"
+      }
+    },
     "v0.5.2": {
       "id": "loginproxy",
       "name": "LoginProxy",
