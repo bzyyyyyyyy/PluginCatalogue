@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"978470bb5dfe9b2e2221953d3a517fb8dddfd82c0b639ae809e66fc19ec83a54\"",
+      "etag": "\"c3c78effa16d461c7dd7e38f6257a8f1034073afe10d2bedbb20d332520c47ca\"",
       "release_tags": [
         "dict_command_registration-v1.1.0",
         "dict_command_registration-v1.0.2",
