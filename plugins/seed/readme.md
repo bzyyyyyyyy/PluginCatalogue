@@ -14,6 +14,7 @@
 - Total downloads: 8
 - Authors: [OptiJava](https://github.com/OptiJava)
 - Repository: https://github.com/OptiJava/Seed
+- Repository plugin page: https://github.com/OptiJava/Seed/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get world seed without op permission.
 

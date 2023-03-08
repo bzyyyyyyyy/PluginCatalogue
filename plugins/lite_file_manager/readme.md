@@ -14,6 +14,7 @@
 - Total downloads: 4134
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
+- Repository plugin page: https://github.com/MCDReforged/LiteFileManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A lite-weight in-game file manager
 

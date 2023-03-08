@@ -14,6 +14,7 @@
 - Total downloads: 37
 - Authors: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - Repository: https://github.com/VisualSpliter/MirrorServerSync
+- Repository plugin page: https://github.com/VisualSpliter/MirrorServerSync/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers
 

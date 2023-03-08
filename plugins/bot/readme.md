@@ -14,6 +14,7 @@
 - Total downloads: 671
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: The best carpet bot manager!
 

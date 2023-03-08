@@ -14,6 +14,7 @@
 - 总下载量: 70
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
+- 仓库插件页: https://github.com/FAS-Server/Mount/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!
 

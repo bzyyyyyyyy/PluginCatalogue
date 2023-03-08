@@ -14,6 +14,7 @@
 - 总下载量: 208
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/CarpetTick
+- 仓库插件页: https://github.com/Ivan-1F/CarpetTick/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 使用 Carpet Mod 的 /tick 指令获取服务器信息
 

@@ -14,6 +14,7 @@
 - Total downloads: 4440
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
+- Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: :calendar: Get and export server opening times.
 

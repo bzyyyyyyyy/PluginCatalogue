@@ -14,6 +14,7 @@
 - Total downloads: 3316
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
+- Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Simple in-game calculator
 

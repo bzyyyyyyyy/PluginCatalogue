@@ -14,6 +14,7 @@
 - Total downloads: 340
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
+- Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to look up any MediaWiki
 

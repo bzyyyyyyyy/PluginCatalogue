@@ -14,6 +14,7 @@
 - 总下载量: 986
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- 仓库插件页: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 查询玩家的坐标
 

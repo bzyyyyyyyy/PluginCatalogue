@@ -14,6 +14,7 @@
 - Total downloads: 81
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
+- Repository plugin page: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin for run command quickly.
 

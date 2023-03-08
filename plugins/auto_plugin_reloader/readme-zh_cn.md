@@ -14,6 +14,7 @@
 - 总下载量: 4698
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
+- 仓库插件页: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 在文件变更时自动重载插件
 

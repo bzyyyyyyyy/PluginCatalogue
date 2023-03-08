@@ -14,6 +14,7 @@
 - Total downloads: 261
 - Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
+- Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: For outline-model Whitelist
 

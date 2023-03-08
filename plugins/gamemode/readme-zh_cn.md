@@ -14,6 +14,7 @@
 - 总下载量: 575
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 旁观者模式以旁观，返回生存时传送回原坐标
 

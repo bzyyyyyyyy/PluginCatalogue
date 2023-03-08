@@ -14,6 +14,7 @@
 - Total downloads: 274
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
+- Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: :rocket: Make web? file transfers faster!
 

@@ -14,6 +14,7 @@
 - 总下载量: 515
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MCDReforgedPluginManager
+- 仓库插件页: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 轻松管理你的 MCDReforged 插件
 

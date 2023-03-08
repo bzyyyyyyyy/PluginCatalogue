@@ -14,6 +14,7 @@
 - 总下载量: 2945
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
+- 仓库插件页: https://github.com/TISUnion/joinMOTD/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 当玩家加入游戏时向其发送欢迎信息
 

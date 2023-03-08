@@ -14,6 +14,7 @@
 - 总下载量: 4242
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - 仓库: https://github.com/TISUnion/Beep
+- 仓库插件页: https://github.com/TISUnion/Beep/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: @某人，@ all可作用于所有玩家。使用两个@@小心被打
 

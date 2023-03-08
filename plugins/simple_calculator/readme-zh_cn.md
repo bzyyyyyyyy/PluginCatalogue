@@ -14,6 +14,7 @@
 - 总下载量: 3316
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/Calculator
+- 仓库插件页: https://github.com/TISUnion/Calculator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个简单的游戏内计算器
 

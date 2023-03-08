@@ -14,6 +14,7 @@
 - 总下载量: 400
 - 作者: [DancingSnow0517](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/Bot_Manager
+- 仓库插件页: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 管理 carpet 机器人
 

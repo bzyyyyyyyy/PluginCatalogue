@@ -14,6 +14,7 @@
 - 总下载量: 3188
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
+- 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份
 

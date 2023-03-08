@@ -14,6 +14,7 @@
 - 总下载量: 1653
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Seen
+- 仓库插件页: https://github.com/TISUnion/Seen/tree/MCDR
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Show laziness rank easily
 

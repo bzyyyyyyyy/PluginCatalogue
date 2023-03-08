@@ -14,6 +14,7 @@
 - 总下载量: 249
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MirrorSyncReforged
+- 仓库插件页: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个用于同步生存服存档至镜像服的插件
 

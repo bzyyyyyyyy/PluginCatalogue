@@ -14,6 +14,7 @@
 - Total downloads: 249
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
+- Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin to sync survival server world to the mirror server
 

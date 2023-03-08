@@ -14,6 +14,7 @@
 - Total downloads: 638
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
+- Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: PyCraft based Replay Client
 

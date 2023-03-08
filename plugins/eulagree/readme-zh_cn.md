@@ -14,6 +14,7 @@
 - 总下载量: 56
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMURsMC/EULAgree
+- 仓库插件页: https://github.com/HuajiMURsMC/EULAgree/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 我总是同意EULA，不要问我
 

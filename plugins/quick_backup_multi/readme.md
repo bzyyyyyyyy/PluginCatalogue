@@ -14,6 +14,7 @@
 - Total downloads: 9654
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
+- Repository plugin page: https://github.com/TISUnion/QuickBackupM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A backup / restore plugin, with multiple backup slot
 

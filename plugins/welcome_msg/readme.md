@@ -14,6 +14,7 @@
 - Total downloads: 50
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/Welcome_MSG
+- Repository plugin page: https://github.com/JAs0n319/Welcome_MSG/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send welcome Msg to all player
 

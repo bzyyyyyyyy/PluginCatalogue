@@ -14,6 +14,7 @@
 - 总下载量: 81
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/quick_run_cmd
+- 仓库插件页: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个快速运行自定义脚本的插件。
 

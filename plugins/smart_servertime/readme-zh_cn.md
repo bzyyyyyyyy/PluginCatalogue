@@ -14,6 +14,7 @@
 - 总下载量: 223
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
+- 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个Minecraft自动停起服务器插件
 

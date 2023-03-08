@@ -14,6 +14,7 @@
 - 总下载量: 42
 - 作者: [DancingSnow](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/MCDR-Command-Exporter
+- 仓库插件页: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: A plugin is used to export the MCDR command tree
 

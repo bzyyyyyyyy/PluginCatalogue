@@ -14,6 +14,7 @@
 - 总下载量: 556
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
+- 仓库插件页: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件
 

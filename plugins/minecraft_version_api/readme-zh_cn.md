@@ -14,6 +14,7 @@
 - 总下载量: 91
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MinecraftVersionAPI
+- 仓库插件页: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个用于获取 Minecraft 服务端版本的 API 插件
 

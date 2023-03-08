@@ -14,6 +14,7 @@
 - Total downloads: 30
 - Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
 - Repository: https://github.com/ltBerryshdo/the_offline_ops
+- Repository plugin page: https://github.com/ltBerryshdo/the_offline_ops/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Check the player's IP to prevent impersonation of logging into the offline server
 

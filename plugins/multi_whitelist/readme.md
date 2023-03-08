@@ -14,6 +14,7 @@
 - Total downloads: 205
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/multi_whitelist
+- Repository plugin page: https://github.com/R1ckyH/multi_whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin can control whitelist with multi servers.
 

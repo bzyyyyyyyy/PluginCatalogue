@@ -14,6 +14,7 @@
 - Total downloads: 3032
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
+- Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: MCDR Bot powered by pyCraft
 

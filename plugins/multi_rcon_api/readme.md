@@ -14,6 +14,7 @@
 - Total downloads: 1569
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
+- Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: An api to make it easier to control group server by rcon.
 

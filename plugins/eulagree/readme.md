@@ -14,6 +14,7 @@
 - Total downloads: 56
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/EULAgree
+- Repository plugin page: https://github.com/HuajiMURsMC/EULAgree/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: I always agree with EULA, don't ask me
 

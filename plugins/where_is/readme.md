@@ -14,6 +14,7 @@
 - Total downloads: 986
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Query players' coordinates
 

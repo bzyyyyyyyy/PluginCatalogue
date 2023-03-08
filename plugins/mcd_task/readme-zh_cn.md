@@ -14,6 +14,7 @@
 - 总下载量: 3434
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
+- 仓库插件页: https://github.com/TISUnion/Task/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 用于展示进行中的工程任务的插件
 

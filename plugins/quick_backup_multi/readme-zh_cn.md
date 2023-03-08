@@ -14,6 +14,7 @@
 - 总下载量: 9654
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
+- 仓库插件页: https://github.com/TISUnion/QuickBackupM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 多槽位备份/回档插件
 

@@ -14,6 +14,7 @@
 - Total downloads: 92
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
+- Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Minecraft teleport manager
 

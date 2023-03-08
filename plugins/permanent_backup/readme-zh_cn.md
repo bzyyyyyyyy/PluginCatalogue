@@ -14,6 +14,7 @@
 - 总下载量: 4504
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/PermanentBackup
+- 仓库插件页: https://github.com/MCDReforged/PermanentBackup/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 创建永久的用 zip 压缩的备份
 

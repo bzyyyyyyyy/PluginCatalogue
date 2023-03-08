@@ -14,6 +14,7 @@
 - 总下载量: 261
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
+- 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个MCDR插件代码共享库
 

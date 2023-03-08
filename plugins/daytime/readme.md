@@ -14,6 +14,7 @@
 - Total downloads: 1808
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: show time in minecraft
 

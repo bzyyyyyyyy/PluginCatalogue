@@ -14,6 +14,7 @@
 - Total downloads: 2479
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
+- Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A server side waypoint manager
 

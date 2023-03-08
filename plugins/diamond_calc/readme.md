@@ -14,6 +14,7 @@
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
+- Repository plugin page: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: *None*
 

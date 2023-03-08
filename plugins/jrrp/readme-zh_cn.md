@@ -14,6 +14,7 @@
 - 总下载量: 201
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMURsMC/jrrp
+- 仓库插件页: https://github.com/HuajiMURsMC/jrrp/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 《今日人品》
 

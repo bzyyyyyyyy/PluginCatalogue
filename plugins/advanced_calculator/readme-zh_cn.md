@@ -14,6 +14,7 @@
 - 总下载量: 478
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 提供游戏内多种便捷计算
 

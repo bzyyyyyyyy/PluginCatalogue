@@ -14,6 +14,7 @@
 - 总下载量: 205
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/multi_whitelist
+- 仓库插件页: https://github.com/R1ckyH/multi_whitelist/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 基于minecraft的白名单功能。
 

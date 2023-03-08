@@ -14,6 +14,7 @@
 - 总下载量: 2956
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/CrashRestart
+- 仓库插件页: https://github.com/MCDReforged/CrashRestart/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 在服务端崩溃后自动重启服务器的插件
 

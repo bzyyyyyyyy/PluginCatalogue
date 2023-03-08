@@ -14,6 +14,7 @@
 - 总下载量: 456
 - 作者: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - 仓库: https://github.com/Harry-zklcdc/MCDR-Cato
+- 仓库插件页: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Plugin Cato
 

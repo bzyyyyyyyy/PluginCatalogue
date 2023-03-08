@@ -14,6 +14,7 @@
 - 总下载量: 200
 - 作者: [Flyky](https://github.com/Flyky)
 - 仓库: https://github.com/Flyky/MCDRpost
+- 仓库插件页: https://github.com/Flyky/MCDRpost/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个用于邮寄/传送物品的MCDR插件
 

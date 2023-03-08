@@ -14,6 +14,7 @@
 - Total downloads: 6989
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
+- Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
 - Description: A Minecraft statistic helper
 

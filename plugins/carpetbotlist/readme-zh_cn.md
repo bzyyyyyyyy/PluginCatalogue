@@ -14,6 +14,7 @@
 - 总下载量: 4381
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
+- 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 帮助你管理地毯端假人
 

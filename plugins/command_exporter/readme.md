@@ -14,6 +14,7 @@
 - Total downloads: 42
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
+- Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin is used to export the MCDR command tree
 

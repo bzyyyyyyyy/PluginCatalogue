@@ -14,6 +14,7 @@
 - Total downloads: 247
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_backup_mcdr
+- Repository plugin page: https://github.com/kmcsr/smart_backup_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Minecraft Backup Plugin
 

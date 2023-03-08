@@ -14,6 +14,7 @@
 - 总下载量: 68
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/allow_suicide
+- 仓库插件页: https://github.com/JAs0n319/allow_suicide/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 允许玩家在没有op权限时自杀
 

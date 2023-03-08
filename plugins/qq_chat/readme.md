@@ -14,6 +14,7 @@
 - Total downloads: 95
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - Labels: [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md)
 - Description: Useful Functions with QQ
 

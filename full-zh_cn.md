@@ -18,6 +18,7 @@
 - 总下载量: 478
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 提供游戏内多种便捷计算
 
@@ -71,6 +72,7 @@
 - 总下载量: 261
 - 作者: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/AdvancedWhitelistR
+- 仓库插件页: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: For outline-model Whitelist
 
@@ -111,6 +113,7 @@
 - 总下载量: 68
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/allow_suicide
+- 仓库插件页: https://github.com/JAs0n319/allow_suicide/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 允许玩家在没有op权限时自杀
 
@@ -148,6 +151,7 @@
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/Aluminum
+- 仓库插件页: https://github.com/MCDReforged/Aluminum/tree/master/src
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个 MCDR 插件管理器。
 
@@ -189,6 +193,7 @@
 - 总下载量: 4698
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
+- 仓库插件页: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 在文件变更时自动重载插件
 
@@ -231,6 +236,7 @@
 - 总下载量: 4242
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - 仓库: https://github.com/TISUnion/Beep
+- 仓库插件页: https://github.com/TISUnion/Beep/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: @某人，@ all可作用于所有玩家。使用两个@@小心被打
 
@@ -270,6 +276,7 @@
 - 总下载量: 3
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Bingo 游戏实用工具
 
@@ -316,6 +323,7 @@
 - 总下载量: 671
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 最好用的地毯模组假人管理器！
 
@@ -511,6 +519,7 @@ flowchart LR
 - 总下载量: 400
 - 作者: [DancingSnow0517](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/Bot_Manager
+- 仓库插件页: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 管理 carpet 机器人
 
@@ -551,6 +560,7 @@ flowchart LR
 - 总下载量: 1687
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
+- 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作
 
@@ -591,6 +601,7 @@ flowchart LR
 - 总下载量: 208
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/CarpetTick
+- 仓库插件页: https://github.com/Ivan-1F/CarpetTick/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 使用 Carpet Mod 的 /tick 指令获取服务器信息
 
@@ -631,6 +642,7 @@ flowchart LR
 - 总下载量: 4381
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
+- 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 帮助你管理地毯端假人
 
@@ -672,6 +684,7 @@ flowchart LR
 - 总下载量: 456
 - 作者: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - 仓库: https://github.com/Harry-zklcdc/MCDR-Cato
+- 仓库插件页: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Plugin Cato
 
@@ -721,6 +734,7 @@ flowchart LR
 - 总下载量: 1474
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
+- 仓库插件页: https://github.com/TISUnion/ChatBridge/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 跨服聊天
 
@@ -764,6 +778,7 @@ flowchart LR
 - 总下载量: 136
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/ChatBridgeReforged
+- 仓库插件页: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）
 
@@ -806,6 +821,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 9
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 支持原版显示格式化代码
 
@@ -861,6 +877,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 42
 - 作者: [DancingSnow](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/MCDR-Command-Exporter
+- 仓库插件页: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: A plugin is used to export the MCDR command tree
 
@@ -918,6 +935,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 276
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/cpu_temp
+- 仓库插件页: https://github.com/R1ckyH/cpu_temp/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 服务器温度警报插件。
 
@@ -959,6 +977,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 2956
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/CrashRestart
+- 仓库插件页: https://github.com/MCDReforged/CrashRestart/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 在服务端崩溃后自动重启服务器的插件
 
@@ -996,6 +1015,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 70
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 访问数据库 API
 
@@ -1068,6 +1088,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 4440
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/daycount-NBT
+- 仓库插件页: https://github.com/alex3236/daycount-NBT/tree/main/src
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: :calendar: 获取和输出服务器开服时间。
 
@@ -1112,6 +1133,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 1808
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 显示游戏中的时间
 
@@ -1150,6 +1172,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 272
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/delayexe_mcdr
+- 仓库插件页: https://github.com/kmcsr/delayexe_mcdr/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 延迟执行命令, 直到所有玩家都离开游戏
 
@@ -1191,6 +1214,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 0
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/DiamondCalc
+- 仓库插件页: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: *无*
 
@@ -1227,6 +1251,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 总下载量: 296
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 用 Python 字典注册您的指令
 
@@ -1516,6 +1541,7 @@ Params:
 - 总下载量: 61
 - 作者: [LiuTed](https://github.com/LiuTed)
 - 仓库: https://github.com/LiuTed/EasyBotManager
+- 仓库插件页: https://github.com/LiuTed/EasyBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Easy-to-use Carpet Bot Manager Plugin
 
@@ -1557,6 +1583,7 @@ Params:
 - 总下载量: 56
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMURsMC/EULAgree
+- 仓库插件页: https://github.com/HuajiMURsMC/EULAgree/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 我总是同意EULA，不要问我
 
@@ -1594,6 +1621,7 @@ Params:
 - 总下载量: 274
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/FasterTransfer
+- 仓库插件页: https://github.com/alex3236/FasterTransfer/tree/master/src
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: :rocket: 让任何 MCDR 插件的网络文件传输更迅速！
 
@@ -1634,6 +1662,7 @@ Params:
 - 总下载量: 575
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 旁观者模式以旁观，返回生存时传送回原坐标
 
@@ -1717,6 +1746,7 @@ Params:
 - 总下载量: 7745
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
+- 仓库插件页: https://github.com/TISUnion/Here/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 显示坐标并高亮玩家
 
@@ -1756,6 +1786,7 @@ Params:
 - 总下载量: 21
 - 作者: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - 仓库: https://github.com/HIM049/MCDR_HibernateR
+- 仓库插件页: https://github.com/HIM049/MCDR_HibernateR/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器
 
@@ -1798,6 +1829,7 @@ Params:
 - 总下载量: 491
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 获取服务器信息
 
@@ -1868,6 +1900,7 @@ Params:
 - 总下载量: 2945
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
+- 仓库插件页: https://github.com/TISUnion/joinMOTD/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 当玩家加入游戏时向其发送欢迎信息
 
@@ -1906,6 +1939,7 @@ Params:
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/joinMOTD_Plus
+- 仓库插件页: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 在玩家进入服务器时展示内容。（特色功能++）
 
@@ -1952,6 +1986,7 @@ Params:
 - 总下载量: 201
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMURsMC/jrrp
+- 仓库插件页: https://github.com/HuajiMURsMC/jrrp/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 《今日人品》
 
@@ -1992,6 +2027,7 @@ Params:
 - 总下载量: 116
 - 作者: [SkyDynamic](https://github.com/SkyDynamic)
 - 仓库: https://github.com/SkyDynamic/jrrps
+- 仓库插件页: https://github.com/SkyDynamic/jrrps/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 测试今天的运势
 
@@ -2033,6 +2069,7 @@ Params:
 - 总下载量: 261
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
+- 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个MCDR插件代码共享库
 
@@ -2073,6 +2110,7 @@ Params:
 - 总下载量: 2744
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/lazytp
+- 仓库插件页: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 维度间的快速折跃通道
 
@@ -2115,6 +2153,7 @@ Params:
 - 总下载量: 167
 - 作者: [XavierWah](https://github.com/XavierWah)
 - 仓库: https://github.com/Minecraft-AMS/Leader-Reforged
+- 仓库插件页: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。
 
@@ -2155,6 +2194,7 @@ Params:
 - 总下载量: 14
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 允许在 1.19 点击发送任意信息
 
@@ -2198,6 +2238,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 4134
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/LiteFileManager
+- 仓库插件页: https://github.com/MCDReforged/LiteFileManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个轻量级的游戏内文件管理器
 
@@ -2240,6 +2281,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 2479
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
+- 仓库插件页: https://github.com/TISUnion/LocationMarker/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个服务端共享路标点管理器
 
@@ -2279,6 +2321,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 172
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
+- 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个Minecraft服务器登录代理兼白名单插件
 
@@ -2320,6 +2363,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 196
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 小写的 `!!MCDR` 指令
 
@@ -2363,6 +2407,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 1745
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/MCUUID
+- 仓库插件页: https://github.com/HuajiMUR233/MCUUID/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: Minecraft UUID API
 
@@ -2401,6 +2446,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 1653
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Seen
+- 仓库插件页: https://github.com/TISUnion/Seen/tree/MCDR
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Show laziness rank easily
 
@@ -2443,6 +2489,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 3434
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
+- 仓库插件页: https://github.com/TISUnion/Task/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 用于展示进行中的工程任务的插件
 
@@ -2483,6 +2530,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 3032
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MCDR-bot
+- 仓库插件页: https://github.com/MCDReforged/MCDR-bot/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 使用 pycraft 的假人插件
 
@@ -2525,6 +2573,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 515
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MCDReforgedPluginManager
+- 仓库插件页: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 轻松管理你的 MCDReforged 插件
 
@@ -2567,6 +2616,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 200
 - 作者: [Flyky](https://github.com/Flyky)
 - 仓库: https://github.com/Flyky/MCDRpost
+- 仓库插件页: https://github.com/Flyky/MCDRpost/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个用于邮寄/传送物品的MCDR插件
 
@@ -2607,6 +2657,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 184
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 在 Minecraft 中注册 MCDReforged 指令
 
@@ -2670,6 +2721,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 4731
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
+- 仓库插件页: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个用获得玩家信息等数据的的 API
 
@@ -2711,6 +2763,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 91
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MinecraftVersionAPI
+- 仓库插件页: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个用于获取 Minecraft 服务端版本的 API 插件
 
@@ -2752,6 +2805,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 总下载量: 69
 - 作者: [Chara_SS](https://github.com/charassss/)
 - 仓库: https://github.com/charassss/Mirror-Control
+- 仓库插件页: https://github.com/charassss/Mirror-Control/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个控制镜像服务器的插件
 
@@ -2835,6 +2889,7 @@ config.json
 - 总下载量: 556
 - 作者: [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/MirrorServerReforged
+- 仓库插件页: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件
 
@@ -2939,6 +2994,7 @@ config.json
 - 总下载量: 37
 - 作者: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - 仓库: https://github.com/VisualSpliter/MirrorServerSync
+- 仓库插件页: https://github.com/VisualSpliter/MirrorServerSync/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个简单的MCDR插件，用于同步Minecraft地图文件
 
@@ -3044,6 +3100,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 总下载量: 249
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MirrorSyncReforged
+- 仓库插件页: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个用于同步生存服存档至镜像服的插件
 
@@ -3084,6 +3141,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 总下载量: 658
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 更多的指令节点
 
@@ -3162,6 +3220,7 @@ classDiagram
 - 总下载量: 70
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
+- 仓库插件页: https://github.com/FAS-Server/Mount/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!
 
@@ -3214,6 +3273,7 @@ classDiagram
 - 总下载量: 1569
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
+- 仓库插件页: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个使用rcon来做到对群组服进行简单操作的api
 
@@ -3255,6 +3315,7 @@ classDiagram
 - 总下载量: 205
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/multi_whitelist
+- 仓库插件页: https://github.com/R1ckyH/multi_whitelist/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 基于minecraft的白名单功能。
 
@@ -3294,6 +3355,7 @@ classDiagram
 - 总下载量: 61
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/offline-whitelist
+- 仓库插件页: https://github.com/skuzow/offline-whitelist/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: Offline whitelist helper
 
@@ -3333,6 +3395,7 @@ classDiagram
 - 总下载量: 1192
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/OneBotAPI
+- 仓库插件页: https://github.com/HuajiMUR233/OneBotAPI/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: OneBot in MCDReforged
 
@@ -3374,6 +3437,7 @@ classDiagram
 - 总下载量: 3856
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
+- 仓库插件页: https://github.com/FAS-Server/Online/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服
 
@@ -3417,6 +3481,7 @@ classDiagram
 - 总下载量: 83
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 在线玩家 API
 
@@ -3474,6 +3539,7 @@ classDiagram
 - 总下载量: 638
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/Fallen-Breath/PCRC
+- 仓库插件页: https://github.com/Fallen-Breath/PCRC/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 基于PyCraft的Replay客户端
 
@@ -3519,6 +3585,7 @@ classDiagram
 - 总下载量: 4504
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/PermanentBackup
+- 仓库插件页: https://github.com/MCDReforged/PermanentBackup/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 创建永久的用 zip 压缩的备份
 
@@ -3559,6 +3626,7 @@ classDiagram
 - 总下载量: 40
 - 作者: [hail122](https://github.com/linstar-fxt)
 - 仓库: https://github.com/PRcT-Server/MCDRPlugins
+- 仓库插件页: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 帮助你管理假人
 
@@ -3603,6 +3671,7 @@ classDiagram
 - 总下载量: 99
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 连接 MC 与 QQ
 
@@ -3787,6 +3856,7 @@ example:
 - 总下载量: 95
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: QQ 相关实用功能
 
@@ -3924,6 +3994,7 @@ example:
 - 总下载量: 9654
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
+- 仓库插件页: https://github.com/TISUnion/QuickBackupM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 多槽位备份/回档插件
 
@@ -3972,6 +4043,7 @@ example:
 - 总下载量: 81
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/quick_run_cmd
+- 仓库插件页: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个快速运行自定义脚本的插件。
 
@@ -4011,6 +4083,7 @@ example:
 - 总下载量: 1724
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/RegionFileUpdater
+- 仓库插件页: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个从指定位置拉取region文件至本服存档的插件
 
@@ -4051,6 +4124,7 @@ example:
 - 总下载量: 1174
 - 作者: [Fidel Yin](https://github.com/Fidelxyz)
 - 仓库: https://github.com/Fidelxyz/MCDR-Renewability
+- 仓库插件页: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: A plugin that allows players to clone non-renewable items
 
@@ -4089,6 +4163,7 @@ example:
 - 总下载量: 1560
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
+- 仓库插件页: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 讓普通玩家執行已被加入白名單的原版指令
 
@@ -4125,6 +4200,7 @@ example:
 - 总下载量: 8
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/Seed
+- 仓库插件页: https://github.com/OptiJava/Seed/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: Get world seed without op permission.
 
@@ -4166,6 +4242,7 @@ example:
 - 总下载量: 3316
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/Calculator
+- 仓库插件页: https://github.com/TISUnion/Calculator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个简单的游戏内计算器
 
@@ -4206,6 +4283,7 @@ example:
 - 总下载量: 3580
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/SimpleOP
+- 仓库插件页: https://github.com/MCDReforged/SimpleOP/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: !!op 以获取op, !!restart 以重启服务器
 
@@ -4245,6 +4323,7 @@ example:
 - 总下载量: 249
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/simple_test
+- 仓库插件页: https://github.com/R1ckyH/simple_test/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 服务器基础自检插件。
 
@@ -4285,6 +4364,7 @@ example:
 - 总下载量: 61
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/simple-translator
+- 仓库插件页: https://github.com/skuzow/simple-translator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: In-game translator
 
@@ -4326,6 +4406,7 @@ example:
 - 总下载量: 247
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_backup_mcdr
+- 仓库插件页: https://github.com/kmcsr/smart_backup_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个多功能Minecraft存档备份插件
 
@@ -4366,6 +4447,7 @@ example:
 - 总下载量: 223
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
+- 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个Minecraft自动停起服务器插件
 
@@ -4409,6 +4491,7 @@ example:
 - 总下载量: 386
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 开关服助手
 
@@ -4478,6 +4561,7 @@ example:
 - 总下载量: 6989
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
+- 仓库插件页: https://github.com/TISUnion/StatsHelper/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个 Minecraft 统计信息助手
 
@@ -4519,6 +4603,7 @@ example:
 - 总下载量: 30
 - 作者: [ltBerryshdo](https://github.com/ltBerryshdo)
 - 仓库: https://github.com/ltBerryshdo/the_offline_ops
+- 仓库插件页: https://github.com/ltBerryshdo/the_offline_ops/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 检测玩家IP以防止冒名登陆离线服务器
 
@@ -4581,6 +4666,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 3188
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
+- 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份
 
@@ -4621,6 +4707,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 31
 - 作者: [Flash-Z](https://github.com/Flash-Z)
 - 仓库: https://github.com/Flash-Z/MCDReforgedPlugins
+- 仓库插件页: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: ToDoList，待办清单
 
@@ -4675,6 +4762,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 92
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/tpmanager_mcdr
+- 仓库插件页: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个Minecraft服务器传送管理
 
@@ -4716,6 +4804,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 69
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: UUID API
 
@@ -4770,6 +4859,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 50
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/Welcome_MSG
+- 仓库插件页: https://github.com/JAs0n319/Welcome_MSG/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 入服欢迎消息
 
@@ -4808,6 +4898,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 986
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- 仓库插件页: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 查询玩家的坐标
 
@@ -4850,6 +4941,7 @@ Only matches the IP address received by the server and player name, and the play
 - 总下载量: 1
 - 作者: [ltBerryshdo](https://github.com/ltBerryshdo)
 - 仓库: https://github.com/ltBerryshdo/Whisper
+- 仓库插件页: https://github.com/ltBerryshdo/Whisper/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: （原版功能扩展）更快速地对一群人说悄悄话
 
@@ -4925,6 +5017,7 @@ More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
 - 总下载量: 340
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
+- 仓库插件页: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个用来查MediaWiki的插件
 
@@ -4964,6 +5057,7 @@ More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
 - 总下载量: 139
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/WorldCopier
+- 仓库插件页: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 同步生存服和镜像服
 
@@ -5001,6 +5095,7 @@ More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
 - 总下载量: 1
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/xiaohuihuis_big_pie
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 小灰灰的游戏内执行 Python 语句大饼
 

@@ -14,6 +14,7 @@
 - Total downloads: 1
 - Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
 - Repository: https://github.com/ltBerryshdo/Whisper
+- Repository plugin page: https://github.com/ltBerryshdo/Whisper/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Send some private message to others in a faster way.(Vanilla feature supplements)
 

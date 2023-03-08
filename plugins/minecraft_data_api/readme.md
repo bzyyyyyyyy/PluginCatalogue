@@ -14,6 +14,7 @@
 - Total downloads: 4731
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
+- Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A MCDReforged api plugin to get player data information and more
 

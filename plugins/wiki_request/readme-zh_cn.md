@@ -14,6 +14,7 @@
 - 总下载量: 340
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
+- 仓库插件页: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个用来查MediaWiki的插件
 

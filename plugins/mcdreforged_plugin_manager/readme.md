@@ -14,6 +14,7 @@
 - Total downloads: 515
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
+- Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Manage your mcdreforged plugins with ease
 

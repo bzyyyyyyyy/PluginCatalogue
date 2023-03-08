@@ -14,6 +14,7 @@
 - 总下载量: 30
 - 作者: [ltBerryshdo](https://github.com/ltBerryshdo)
 - 仓库: https://github.com/ltBerryshdo/the_offline_ops
+- 仓库插件页: https://github.com/ltBerryshdo/the_offline_ops/tree/main
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 检测玩家IP以防止冒名登陆离线服务器
 

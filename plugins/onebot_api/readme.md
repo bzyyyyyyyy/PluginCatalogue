@@ -14,6 +14,7 @@
 - Total downloads: 1192
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
+- Repository plugin page: https://github.com/HuajiMUR233/OneBotAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: OneBot in MCDReforged
 

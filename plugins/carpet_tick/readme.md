@@ -14,6 +14,7 @@
 - Total downloads: 208
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
+- Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server status using carpet /tick command
 

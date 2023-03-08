@@ -14,6 +14,7 @@
 - Total downloads: 2744
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
+- Repository plugin page: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A express gateway between each dimensions
 

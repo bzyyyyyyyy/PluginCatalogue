@@ -14,6 +14,7 @@
 - Total downloads: 200
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
+- Repository plugin page: https://github.com/Flyky/MCDRpost/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A MCDR plugin for post/teleport items
 

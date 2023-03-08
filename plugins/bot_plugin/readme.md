@@ -14,6 +14,7 @@
 - Total downloads: 400
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
+- Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
 - Description: 管理 carpet 机器人
 

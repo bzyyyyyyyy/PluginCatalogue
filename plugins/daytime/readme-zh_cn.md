@@ -14,6 +14,7 @@
 - 总下载量: 1808
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 显示游戏中的时间
 

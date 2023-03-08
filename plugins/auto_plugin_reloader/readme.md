@@ -14,6 +14,7 @@
 - Total downloads: 4698
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
+- Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Automatically reload plugins when file changes
 

@@ -14,6 +14,7 @@
 - 总下载量: 272
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/delayexe_mcdr
+- 仓库插件页: https://github.com/kmcsr/delayexe_mcdr/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 延迟执行命令, 直到所有玩家都离开游戏
 

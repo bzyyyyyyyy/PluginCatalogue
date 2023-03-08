@@ -14,6 +14,7 @@
 - 总下载量: 3856
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
+- 仓库插件页: https://github.com/FAS-Server/Online/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服
 

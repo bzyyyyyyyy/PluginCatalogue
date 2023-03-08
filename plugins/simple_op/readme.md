@@ -14,6 +14,7 @@
 - Total downloads: 3580
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
+- Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: !!op to get op, !!restart to restart the server
 

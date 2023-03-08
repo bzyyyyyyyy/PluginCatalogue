@@ -14,6 +14,7 @@
 - Total downloads: 2945
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
+- Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send player a MOTD when he joins
 

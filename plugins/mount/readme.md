@@ -14,6 +14,7 @@
 - Total downloads: 70
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
+- Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Mount different minecraft server into a mcdr server, with overwritten properties!
 

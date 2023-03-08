@@ -14,6 +14,7 @@
 - Total downloads: 556
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
+- Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
 

@@ -14,6 +14,7 @@
 - 总下载量: 8
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/Seed
+- 仓库插件页: https://github.com/OptiJava/Seed/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: Get world seed without op permission.
 

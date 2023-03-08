@@ -14,6 +14,7 @@
 - 总下载量: 3
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Bingo 游戏实用工具
 

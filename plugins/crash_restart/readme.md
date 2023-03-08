@@ -14,6 +14,7 @@
 - Total downloads: 2956
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
+- Repository plugin page: https://github.com/MCDReforged/CrashRestart/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Automatically restart the server after the server crashed
 

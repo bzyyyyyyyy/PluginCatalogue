@@ -14,6 +14,7 @@
 - 总下载量: 69
 - 作者: [Chara_SS](https://github.com/charassss/)
 - 仓库: https://github.com/charassss/Mirror-Control
+- 仓库插件页: https://github.com/charassss/Mirror-Control/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个控制镜像服务器的插件
 

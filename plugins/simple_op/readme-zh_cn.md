@@ -14,6 +14,7 @@
 - 总下载量: 3580
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/SimpleOP
+- 仓库插件页: https://github.com/MCDReforged/SimpleOP/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: !!op 以获取op, !!restart 以重启服务器
 

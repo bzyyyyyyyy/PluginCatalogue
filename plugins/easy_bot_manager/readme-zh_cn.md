@@ -14,6 +14,7 @@
 - 总下载量: 61
 - 作者: [LiuTed](https://github.com/LiuTed)
 - 仓库: https://github.com/LiuTed/EasyBotManager
+- 仓库插件页: https://github.com/LiuTed/EasyBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: Easy-to-use Carpet Bot Manager Plugin
 

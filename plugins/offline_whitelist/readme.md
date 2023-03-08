@@ -14,6 +14,7 @@
 - Total downloads: 61
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/offline-whitelist
+- Repository plugin page: https://github.com/skuzow/offline-whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Offline whitelist helper
 

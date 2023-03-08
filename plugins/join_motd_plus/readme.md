@@ -14,6 +14,7 @@
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
+- Repository plugin page: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display content when players join the server. (with many useful features)
 

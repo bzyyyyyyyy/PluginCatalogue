@@ -14,6 +14,7 @@
 - 总下载量: 1560
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
+- 仓库插件页: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 讓普通玩家執行已被加入白名單的原版指令
 

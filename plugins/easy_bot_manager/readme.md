@@ -14,6 +14,7 @@
 - Total downloads: 61
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
+- Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Easy-to-use Carpet Bot Manager Plugin
 

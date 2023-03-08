@@ -14,6 +14,7 @@
 - 总下载量: 1569
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
+- 仓库插件页: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个使用rcon来做到对群组服进行简单操作的api
 

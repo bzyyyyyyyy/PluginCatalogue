@@ -14,6 +14,7 @@
 - Total downloads: 3434
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
+- Repository plugin page: https://github.com/TISUnion/Task/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin to show tasks of project in progress
 

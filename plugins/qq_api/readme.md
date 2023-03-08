@@ -14,6 +14,7 @@
 - Total downloads: 99
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Connect Minecraft and QQ
 

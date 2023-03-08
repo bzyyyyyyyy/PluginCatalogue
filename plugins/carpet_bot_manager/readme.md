@@ -14,6 +14,7 @@
 - Total downloads: 1687
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
+- Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 

@@ -14,6 +14,7 @@
 - 总下载量: 4134
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/LiteFileManager
+- 仓库插件页: https://github.com/MCDReforged/LiteFileManager/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个轻量级的游戏内文件管理器
 

@@ -14,6 +14,7 @@
 - 总下载量: 196
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 小写的 `!!MCDR` 指令
 

@@ -14,6 +14,7 @@
 - 总下载量: 50
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/Welcome_MSG
+- 仓库插件页: https://github.com/JAs0n319/Welcome_MSG/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 入服欢迎消息
 

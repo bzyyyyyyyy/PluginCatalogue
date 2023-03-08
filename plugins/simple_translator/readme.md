@@ -14,6 +14,7 @@
 - Total downloads: 61
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
+- Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: In-game translator
 

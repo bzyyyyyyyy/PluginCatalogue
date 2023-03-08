@@ -14,6 +14,7 @@
 - Total downloads: 272
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
+- Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: Delay execute command until all player have left
 

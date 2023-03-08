@@ -14,6 +14,7 @@
 - Total downloads: 478
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Provides multiple convenient in-game calculations
 

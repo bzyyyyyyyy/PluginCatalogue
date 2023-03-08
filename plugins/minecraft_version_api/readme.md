@@ -14,6 +14,7 @@
 - Total downloads: 91
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
+- Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A api plugin to get the Minecraft server version
 

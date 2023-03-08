@@ -14,6 +14,7 @@
 - 总下载量: 116
 - 作者: [SkyDynamic](https://github.com/SkyDynamic)
 - 仓库: https://github.com/SkyDynamic/jrrps
+- 仓库插件页: https://github.com/SkyDynamic/jrrps/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 测试今天的运势
 

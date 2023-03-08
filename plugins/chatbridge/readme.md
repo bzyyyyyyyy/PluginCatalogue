@@ -14,6 +14,7 @@
 - Total downloads: 1474
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
+- Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Broadcast chats between Minecraft servers and more
 

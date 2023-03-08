@@ -14,6 +14,7 @@
 - 总下载量: 61
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/offline-whitelist
+- 仓库插件页: https://github.com/skuzow/offline-whitelist/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: Offline whitelist helper
 

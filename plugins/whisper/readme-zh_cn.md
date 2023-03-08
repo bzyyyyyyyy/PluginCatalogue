@@ -14,6 +14,7 @@
 - 总下载量: 1
 - 作者: [ltBerryshdo](https://github.com/ltBerryshdo)
 - 仓库: https://github.com/ltBerryshdo/Whisper
+- 仓库插件页: https://github.com/ltBerryshdo/Whisper/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: （原版功能扩展）更快速地对一群人说悄悄话
 

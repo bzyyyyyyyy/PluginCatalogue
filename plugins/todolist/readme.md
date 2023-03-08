@@ -14,6 +14,7 @@
 - Total downloads: 31
 - Authors: [Flash-Z](https://github.com/Flash-Z)
 - Repository: https://github.com/Flash-Z/MCDReforgedPlugins
+- Repository plugin page: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
 - Description: ToDoList
 

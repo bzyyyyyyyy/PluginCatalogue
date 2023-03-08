@@ -14,6 +14,7 @@
 - Total downloads: 249
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/simple_test
+- Repository plugin page: https://github.com/R1ckyH/simple_test/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: testing basic server problem.
 

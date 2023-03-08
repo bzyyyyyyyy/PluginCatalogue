@@ -14,6 +14,7 @@
 - Total downloads: 1174
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
+- Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin that allows players to clone non-renewable items
 

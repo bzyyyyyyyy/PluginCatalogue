@@ -14,6 +14,7 @@
 - 总下载量: 296
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 用 Python 字典注册您的指令
 

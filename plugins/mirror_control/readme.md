@@ -14,6 +14,7 @@
 - Total downloads: 69
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
+- Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin to control mirror server
 

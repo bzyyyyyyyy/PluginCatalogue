@@ -14,6 +14,7 @@
 - 总下载量: 4731
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
+- 仓库插件页: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个用获得玩家信息等数据的的 API
 

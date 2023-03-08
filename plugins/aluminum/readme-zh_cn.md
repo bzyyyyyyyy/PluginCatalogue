@@ -14,6 +14,7 @@
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/Aluminum
+- 仓库插件页: https://github.com/MCDReforged/Aluminum/tree/master/src
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个 MCDR 插件管理器。
 

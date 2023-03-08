@@ -14,6 +14,7 @@
 - Total downloads: 1560
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
+- Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Let player run whitelisted vanilla command
 

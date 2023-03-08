@@ -14,6 +14,7 @@
 - 总下载量: 386
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 开关服助手
 

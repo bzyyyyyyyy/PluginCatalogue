@@ -14,6 +14,7 @@
 - 总下载量: 2744
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/lazytp
+- 仓库插件页: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 维度间的快速折跃通道
 

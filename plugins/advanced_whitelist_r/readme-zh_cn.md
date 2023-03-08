@@ -14,6 +14,7 @@
 - 总下载量: 261
 - 作者: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - 仓库: https://github.com/EMUnion/AdvancedWhitelistR
+- 仓库插件页: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: For outline-model Whitelist
 

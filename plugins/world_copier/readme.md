@@ -14,6 +14,7 @@
 - Total downloads: 139
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
+- Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Sync your mirror server with main server.
 

@@ -14,6 +14,7 @@
 - Total downloads: 40
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
+- Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin to help with managing fake players
 

@@ -14,6 +14,7 @@
 - Total downloads: 136
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
+- Repository plugin page: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).
 

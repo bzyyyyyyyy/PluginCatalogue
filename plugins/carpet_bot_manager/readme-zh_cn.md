@@ -14,6 +14,7 @@
 - 总下载量: 1687
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
+- 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作
 

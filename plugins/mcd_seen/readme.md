@@ -14,6 +14,7 @@
 - Total downloads: 1653
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
+- Repository plugin page: https://github.com/TISUnion/Seen/tree/MCDR
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Show laziness rank easily
 

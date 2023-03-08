@@ -14,6 +14,7 @@
 - Total downloads: 3856
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
+- Repository plugin page: https://github.com/FAS-Server/Online/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display the online players for Group server, with click event to quickly join every sub-server.
 

@@ -14,6 +14,7 @@
 - Total downloads: 1724
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
+- Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDR plugin to help you update region files in game
 

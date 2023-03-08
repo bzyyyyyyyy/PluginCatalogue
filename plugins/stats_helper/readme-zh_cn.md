@@ -14,6 +14,7 @@
 - 总下载量: 6989
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
+- 仓库插件页: https://github.com/TISUnion/StatsHelper/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个 Minecraft 统计信息助手
 

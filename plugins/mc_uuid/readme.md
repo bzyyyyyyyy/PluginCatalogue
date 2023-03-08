@@ -14,6 +14,7 @@
 - Total downloads: 1745
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
+- Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Minecraft UUID API
 

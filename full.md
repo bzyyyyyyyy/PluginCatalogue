@@ -18,6 +18,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Total downloads: 478
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Provides multiple convenient in-game calculations
 
@@ -71,6 +72,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Total downloads: 261
 - Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
+- Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: For outline-model Whitelist
 
@@ -111,6 +113,7 @@ Offline server whitelist management
 - Total downloads: 68
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/allow_suicide
+- Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: allow player suicide with no op
 
@@ -148,6 +151,7 @@ Allow player suicide without op
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
+- Repository plugin page: https://github.com/MCDReforged/Aluminum/tree/master/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin manager.
 
@@ -189,6 +193,7 @@ A MCDR plugin manager.
 - Total downloads: 4698
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
+- Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Automatically reload plugins when file changes
 
@@ -231,6 +236,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Total downloads: 4242
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
+- Repository plugin page: https://github.com/TISUnion/Beep/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping
 
@@ -270,6 +276,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Total downloads: 3
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Useful tool for Bingo game
 
@@ -316,6 +323,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Total downloads: 671
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: The best carpet bot manager!
 
@@ -511,6 +519,7 @@ flowchart LR
 - Total downloads: 400
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
+- Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
 - Description: 管理 carpet 机器人
 
@@ -551,6 +560,7 @@ flowchart LR
 - Total downloads: 1687
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
+- Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 
@@ -591,6 +601,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Total downloads: 208
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
+- Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server status using carpet /tick command
 
@@ -631,6 +642,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Total downloads: 4381
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Help you manage your carpet fake player
 
@@ -672,6 +684,7 @@ Help you manage your carpet fake player
 - Total downloads: 456
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
+- Repository plugin page: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Plugin Cato
 
@@ -721,6 +734,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Total downloads: 1474
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
+- Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Broadcast chats between Minecraft servers and more
 
@@ -764,6 +778,7 @@ Chatbridge v2
 - Total downloads: 136
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
+- Repository plugin page: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).
 
@@ -806,6 +821,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Total downloads: 9
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Support formatting codes for vanilla
 
@@ -861,6 +877,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Total downloads: 42
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
+- Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin is used to export the MCDR command tree
 
@@ -920,6 +937,7 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 - Total downloads: 276
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
+- Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to check cpu temp regularly.
 
@@ -961,6 +979,7 @@ A plugin to check cpu temp regularly.
 - Total downloads: 2956
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
+- Repository plugin page: https://github.com/MCDReforged/CrashRestart/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Automatically restart the server after the server crashed
 
@@ -998,6 +1017,7 @@ A plugin to check cpu temp regularly.
 - Total downloads: 70
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Database API to access database
 
@@ -1070,6 +1090,7 @@ A plugin to check cpu temp regularly.
 - Total downloads: 4440
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
+- Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: :calendar: Get and export server opening times.
 
@@ -1114,6 +1135,7 @@ Feature:
 - Total downloads: 1808
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: show time in minecraft
 
@@ -1152,6 +1174,7 @@ Show time in Minecraft
 - Total downloads: 272
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
+- Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: Delay execute command until all player have left
 
@@ -1193,6 +1216,7 @@ Show time in Minecraft
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
+- Repository plugin page: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: *None*
 
@@ -1229,6 +1253,7 @@ Show time in Minecraft
 - Total downloads: 296
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Register your command by a python dict
 
@@ -1518,6 +1543,7 @@ Params:
 - Total downloads: 61
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
+- Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Easy-to-use Carpet Bot Manager Plugin
 
@@ -1559,6 +1585,7 @@ Params:
 - Total downloads: 56
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/EULAgree
+- Repository plugin page: https://github.com/HuajiMURsMC/EULAgree/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: I always agree with EULA, don't ask me
 
@@ -1596,6 +1623,7 @@ I always agree with EULA, don't ask me
 - Total downloads: 274
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
+- Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: :rocket: Make web? file transfers faster!
 
@@ -1636,6 +1664,7 @@ Make file transfers faster!
 - Total downloads: 575
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 
@@ -1719,6 +1748,7 @@ Make file transfers faster!
 - Total downloads: 7745
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
+- Repository plugin page: https://github.com/TISUnion/Here/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Broadcast your position and high light yourself
 
@@ -1758,6 +1788,7 @@ Make file transfers faster!
 - Total downloads: 21
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - Repository: https://github.com/HIM049/MCDR_HibernateR
+- Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器
 
@@ -1800,6 +1831,7 @@ Make file transfers faster!
 - Total downloads: 491
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 
@@ -1870,6 +1902,7 @@ Make file transfers faster!
 - Total downloads: 2945
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
+- Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send player a MOTD when he joins
 
@@ -1908,6 +1941,7 @@ Make file transfers faster!
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
+- Repository plugin page: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display content when players join the server. (with many useful features)
 
@@ -1954,6 +1988,7 @@ Features:
 - Total downloads: 201
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
+- Repository plugin page: https://github.com/HuajiMURsMC/jrrp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: 《今日人品》
 
@@ -1994,6 +2029,7 @@ Features:
 - Total downloads: 116
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
+- Repository plugin page: https://github.com/SkyDynamic/jrrps/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Test today's luck
 
@@ -2035,6 +2071,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Total downloads: 261
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
+- Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A MCDR plugins codes share library
 
@@ -2075,6 +2112,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Total downloads: 2744
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
+- Repository plugin page: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A express gateway between each dimensions
 
@@ -2117,6 +2155,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Total downloads: 167
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
+- Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: This is a simplified and reforged version for Leader, allowing to mark a leader.
 
@@ -2157,6 +2196,7 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 - Total downloads: 14
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Allowed click to send anything in 1.19
 
@@ -2200,6 +2240,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - Total downloads: 4134
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
+- Repository plugin page: https://github.com/MCDReforged/LiteFileManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A lite-weight in-game file manager
 
@@ -2242,6 +2283,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Total downloads: 2479
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
+- Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A server side waypoint manager
 
@@ -2281,6 +2323,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Total downloads: 172
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
+- Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: A Minecraft login proxy Plugin
 
@@ -2322,6 +2365,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Total downloads: 196
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Lowercase `!!MCDR` command
 
@@ -2365,6 +2409,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Total downloads: 1745
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
+- Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Minecraft UUID API
 
@@ -2403,6 +2448,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Total downloads: 1653
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
+- Repository plugin page: https://github.com/TISUnion/Seen/tree/MCDR
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Show laziness rank easily
 
@@ -2445,6 +2491,7 @@ Shows tasks of project in progress
 - Total downloads: 3434
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
+- Repository plugin page: https://github.com/TISUnion/Task/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin to show tasks of project in progress
 
@@ -2485,6 +2532,7 @@ Shows tasks of project in progress
 - Total downloads: 3032
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
+- Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: MCDR Bot powered by pyCraft
 
@@ -2526,6 +2574,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Total downloads: 515
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
+- Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Manage your mcdreforged plugins with ease
 
@@ -2568,6 +2617,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Total downloads: 200
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
+- Repository plugin page: https://github.com/Flyky/MCDRpost/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A MCDR plugin for post/teleport items
 
@@ -2608,6 +2658,7 @@ A MCDR plugin for post/teleport items
 - Total downloads: 184
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Register MCDReforged commands in Minecraft
 
@@ -2671,6 +2722,7 @@ A MCDR plugin for post/teleport items
 - Total downloads: 4731
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
+- Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A MCDReforged api plugin to get player data information and more
 
@@ -2712,6 +2764,7 @@ A MCDReforged api plugin to get player data information and more
 - Total downloads: 91
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
+- Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A api plugin to get the Minecraft server version
 
@@ -2753,6 +2806,7 @@ A MCDReforged api plugin to get player data information and more
 - Total downloads: 69
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
+- Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin to control mirror server
 
@@ -2837,6 +2891,7 @@ config.json
 - Total downloads: 556
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
+- Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
 
@@ -2941,6 +2996,7 @@ Now, I'll introduce the content of the config file:
 - Total downloads: 37
 - Authors: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - Repository: https://github.com/VisualSpliter/MirrorServerSync
+- Repository plugin page: https://github.com/VisualSpliter/MirrorServerSync/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers
 
@@ -2979,6 +3035,7 @@ Now, I'll introduce the content of the config file:
 - Total downloads: 249
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
+- Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin to sync survival server world to the mirror server
 
@@ -3019,6 +3076,7 @@ Now, I'll introduce the content of the config file:
 - Total downloads: 658
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
 - Labels: [`API`](/labels/api/readme.md)
 - Description: More command nodes
 
@@ -3097,6 +3155,7 @@ classDiagram
 - Total downloads: 70
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
+- Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Mount different minecraft server into a mcdr server, with overwritten properties!
 
@@ -3149,6 +3208,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Total downloads: 1569
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
+- Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: An api to make it easier to control group server by rcon.
 
@@ -3190,6 +3250,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Total downloads: 205
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/multi_whitelist
+- Repository plugin page: https://github.com/R1ckyH/multi_whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin can control whitelist with multi servers.
 
@@ -3229,6 +3290,7 @@ A whitelist plugin with multiple server
 - Total downloads: 61
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/offline-whitelist
+- Repository plugin page: https://github.com/skuzow/offline-whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Offline whitelist helper
 
@@ -3268,6 +3330,7 @@ A whitelist plugin with multiple server
 - Total downloads: 1192
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
+- Repository plugin page: https://github.com/HuajiMUR233/OneBotAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: OneBot in MCDReforged
 
@@ -3309,6 +3372,7 @@ A whitelist plugin with multiple server
 - Total downloads: 3856
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
+- Repository plugin page: https://github.com/FAS-Server/Online/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display the online players for Group server, with click event to quickly join every sub-server.
 
@@ -3352,6 +3416,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Total downloads: 83
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Online Player API
 
@@ -3409,6 +3474,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Total downloads: 638
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
+- Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: PyCraft based Replay Client
 
@@ -3454,6 +3520,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Total downloads: 4504
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
+- Repository plugin page: https://github.com/MCDReforged/PermanentBackup/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin for creating permanent zip world backups
 
@@ -3494,6 +3561,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Total downloads: 40
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
+- Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin to help with managing fake players
 
@@ -3538,6 +3606,7 @@ Database-based Carpet fake player management
 - Total downloads: 99
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Connect Minecraft and QQ
 
@@ -3722,6 +3791,7 @@ example:
 - Total downloads: 95
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - Labels: [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md)
 - Description: Useful Functions with QQ
 
@@ -3859,6 +3929,7 @@ example:
 - Total downloads: 9654
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
+- Repository plugin page: https://github.com/TISUnion/QuickBackupM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A backup / restore plugin, with multiple backup slot
 
@@ -3907,6 +3978,7 @@ Features:
 - Total downloads: 81
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
+- Repository plugin page: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin for run command quickly.
 
@@ -3946,6 +4018,7 @@ A plugin for run command quickly
 - Total downloads: 1724
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
+- Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDR plugin to help you update region files in game
 
@@ -3986,6 +4059,7 @@ A plugin for run command quickly
 - Total downloads: 1174
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
+- Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin that allows players to clone non-renewable items
 
@@ -4024,6 +4098,7 @@ Allow players to clone non-renewable items.
 - Total downloads: 1560
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
+- Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Let player run whitelisted vanilla command
 
@@ -4060,6 +4135,7 @@ Let player run whitelisted vanilla command
 - Total downloads: 8
 - Authors: [OptiJava](https://github.com/OptiJava)
 - Repository: https://github.com/OptiJava/Seed
+- Repository plugin page: https://github.com/OptiJava/Seed/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get world seed without op permission.
 
@@ -4103,6 +4179,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 - Total downloads: 3316
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
+- Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Simple in-game calculator
 
@@ -4143,6 +4220,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 - Total downloads: 3580
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
+- Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: !!op to get op, !!restart to restart the server
 
@@ -4182,6 +4260,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 - Total downloads: 249
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/simple_test
+- Repository plugin page: https://github.com/R1ckyH/simple_test/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: testing basic server problem.
 
@@ -4222,6 +4301,7 @@ testing basic server problem.
 - Total downloads: 61
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
+- Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: In-game translator
 
@@ -4263,6 +4343,7 @@ testing basic server problem.
 - Total downloads: 247
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_backup_mcdr
+- Repository plugin page: https://github.com/kmcsr/smart_backup_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Minecraft Backup Plugin
 
@@ -4303,6 +4384,7 @@ testing basic server problem.
 - Total downloads: 223
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
+- Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Minecraft Auto Start/Stop Plugin
 
@@ -4346,6 +4428,7 @@ testing basic server problem.
 - Total downloads: 386
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Start and stop server helper
 
@@ -4415,6 +4498,7 @@ testing basic server problem.
 - Total downloads: 6989
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
+- Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
 - Description: A Minecraft statistic helper
 
@@ -4456,6 +4540,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Total downloads: 30
 - Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
 - Repository: https://github.com/ltBerryshdo/the_offline_ops
+- Repository plugin page: https://github.com/ltBerryshdo/the_offline_ops/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Check the player's IP to prevent impersonation of logging into the offline server
 
@@ -4518,6 +4603,7 @@ Only matches the IP address received by the server and player name, and the play
 - Total downloads: 3188
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
+- Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
 
@@ -4558,6 +4644,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Total downloads: 31
 - Authors: [Flash-Z](https://github.com/Flash-Z)
 - Repository: https://github.com/Flash-Z/MCDReforgedPlugins
+- Repository plugin page: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
 - Description: ToDoList
 
@@ -4612,6 +4699,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Total downloads: 92
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
+- Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Minecraft teleport manager
 
@@ -4653,6 +4741,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Total downloads: 69
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: UUID API
 
@@ -4707,6 +4796,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Total downloads: 50
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/Welcome_MSG
+- Repository plugin page: https://github.com/JAs0n319/Welcome_MSG/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send welcome Msg to all player
 
@@ -4745,6 +4835,7 @@ Send welcome message
 - Total downloads: 986
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Query players' coordinates
 
@@ -4787,6 +4878,7 @@ Send welcome message
 - Total downloads: 1
 - Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
 - Repository: https://github.com/ltBerryshdo/Whisper
+- Repository plugin page: https://github.com/ltBerryshdo/Whisper/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Send some private message to others in a faster way.(Vanilla feature supplements)
 
@@ -4859,6 +4951,7 @@ Use triggers (default<strong>'**'</strong>) to send private messages to everyone
 - Total downloads: 340
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
+- Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to look up any MediaWiki
 
@@ -4898,6 +4991,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 - Total downloads: 139
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
+- Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Sync your mirror server with main server.
 
@@ -4935,6 +5029,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 - Total downloads: 1
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/xiaohuihuis_big_pie
 - Labels: [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
 - Description: Run any Python code in game!
 

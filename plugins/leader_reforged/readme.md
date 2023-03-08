@@ -14,6 +14,7 @@
 - Total downloads: 167
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
+- Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: This is a simplified and reforged version for Leader, allowing to mark a leader.
 

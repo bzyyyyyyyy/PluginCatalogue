@@ -14,6 +14,7 @@
 - 总下载量: 1174
 - 作者: [Fidel Yin](https://github.com/Fidelxyz)
 - 仓库: https://github.com/Fidelxyz/MCDR-Renewability
+- 仓库插件页: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: A plugin that allows players to clone non-renewable items
 

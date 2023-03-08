@@ -14,6 +14,7 @@
 - Total downloads: 68
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/allow_suicide
+- Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: allow player suicide with no op
 

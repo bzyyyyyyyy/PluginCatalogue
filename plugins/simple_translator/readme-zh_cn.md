@@ -14,6 +14,7 @@
 - 总下载量: 61
 - 作者: [skuzow](https://github.com/skuzow)
 - 仓库: https://github.com/skuzow/simple-translator
+- 仓库插件页: https://github.com/skuzow/simple-translator/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: In-game translator
 

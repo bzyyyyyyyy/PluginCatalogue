@@ -14,6 +14,7 @@
 - 总下载量: 1745
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMUR233/MCUUID
+- 仓库插件页: https://github.com/HuajiMUR233/MCUUID/tree/master
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: Minecraft UUID API
 

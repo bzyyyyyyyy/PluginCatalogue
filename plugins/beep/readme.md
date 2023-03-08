@@ -14,6 +14,7 @@
 - Total downloads: 4242
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
+- Repository plugin page: https://github.com/TISUnion/Beep/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping
 

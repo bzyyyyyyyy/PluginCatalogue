@@ -14,6 +14,7 @@
 - Total downloads: 456
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
+- Repository plugin page: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Plugin Cato
 

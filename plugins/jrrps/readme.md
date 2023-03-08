@@ -14,6 +14,7 @@
 - Total downloads: 116
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
+- Repository plugin page: https://github.com/SkyDynamic/jrrps/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Test today's luck
 

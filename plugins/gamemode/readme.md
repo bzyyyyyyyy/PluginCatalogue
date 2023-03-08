@@ -14,6 +14,7 @@
 - Total downloads: 575
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 

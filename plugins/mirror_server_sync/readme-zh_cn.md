@@ -14,6 +14,7 @@
 - 总下载量: 37
 - 作者: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - 仓库: https://github.com/VisualSpliter/MirrorServerSync
+- 仓库插件页: https://github.com/VisualSpliter/MirrorServerSync/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个简单的MCDR插件，用于同步Minecraft地图文件
 

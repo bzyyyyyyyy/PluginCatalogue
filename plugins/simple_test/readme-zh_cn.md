@@ -14,6 +14,7 @@
 - 总下载量: 249
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/simple_test
+- 仓库插件页: https://github.com/R1ckyH/simple_test/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 服务器基础自检插件。
 

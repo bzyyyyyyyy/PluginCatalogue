@@ -14,6 +14,7 @@
 - 总下载量: 139
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/WorldCopier
+- 仓库插件页: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 同步生存服和镜像服
 

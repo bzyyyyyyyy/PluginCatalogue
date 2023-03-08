@@ -14,6 +14,7 @@
 - Total downloads: 9
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Support formatting codes for vanilla
 

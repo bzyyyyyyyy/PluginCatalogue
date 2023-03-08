@@ -14,6 +14,7 @@
 - Total downloads: 196
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Lowercase `!!MCDR` command
 

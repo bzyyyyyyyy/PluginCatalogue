@@ -14,6 +14,7 @@
 - 总下载量: 2479
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
+- 仓库插件页: https://github.com/TISUnion/LocationMarker/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个服务端共享路标点管理器
 

@@ -14,6 +14,7 @@
 - Total downloads: 276
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
+- Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to check cpu temp regularly.
 

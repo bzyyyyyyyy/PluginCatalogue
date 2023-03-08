@@ -14,6 +14,7 @@
 - 总下载量: 40
 - 作者: [hail122](https://github.com/linstar-fxt)
 - 仓库: https://github.com/PRcT-Server/MCDRPlugins
+- 仓库插件页: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 帮助你管理假人
 

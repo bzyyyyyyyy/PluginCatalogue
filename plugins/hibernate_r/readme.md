@@ -14,6 +14,7 @@
 - Total downloads: 21
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - Repository: https://github.com/HIM049/MCDR_HibernateR
+- Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器
 

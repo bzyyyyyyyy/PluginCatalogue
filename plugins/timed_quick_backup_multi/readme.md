@@ -14,6 +14,7 @@
 - Total downloads: 3188
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
+- Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
 

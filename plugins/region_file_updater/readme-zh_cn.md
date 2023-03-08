@@ -14,6 +14,7 @@
 - 总下载量: 1724
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/RegionFileUpdater
+- 仓库插件页: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 一个从指定位置拉取region文件至本服存档的插件
 
