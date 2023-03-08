@@ -11,7 +11,7 @@
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 0
+- Total downloads: 1
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
@@ -50,5 +50,5 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [XiaoHuiHui.sBigPie-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2) | 0.0.2 | 2023/02/26 00:13:12 | 1.13KB | 0 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr) |
+| [XiaoHuiHui.sBigPie-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2) | 0.0.2 | 2023/02/26 00:13:12 | 1.13KB | 1 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr) |
 

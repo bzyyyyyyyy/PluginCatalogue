@@ -11,7 +11,7 @@
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 0
+- 总下载量: 1
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
@@ -50,5 +50,5 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [XiaoHuiHui.sBigPie-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2) | 0.0.2 | 2023/02/26 00:13:12 | 1.13KB | 0 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr) |
+| [XiaoHuiHui.sBigPie-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-v0.0.2) | 0.0.2 | 2023/02/26 00:13:12 | 1.13KB | 1 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-v0.0.2/XiaoHuiHui.sBigPie-v0.0.2.mcdr) |
 
