@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "uuid_api",
   "name": "UUIDAPI",
   "version": "0.1.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "uuid_api",
   "labels": [
     "api"
   ],

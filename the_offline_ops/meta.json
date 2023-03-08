@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "the_offline_ops",
   "name": "The Offline ops",
   "version": "1.1",
   "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "management"
   ],

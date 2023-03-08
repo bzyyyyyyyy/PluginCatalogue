@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "cpu_temp",
   "name": "cpu_temp",
   "version": "3.0.2",
   "repository": "https://github.com/R1ckyH/cpu_temp",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "information"
   ],

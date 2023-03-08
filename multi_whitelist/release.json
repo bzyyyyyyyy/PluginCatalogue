@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "multi_whitelist",
   "latest_version": "3.0.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v3.0.0": {
+      "schema_version": 1,
       "id": "multi_whitelist",
       "name": "multi_whitelist",
       "version": "3.0.0",
       "repository": "https://github.com/R1ckyH/multi_whitelist",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

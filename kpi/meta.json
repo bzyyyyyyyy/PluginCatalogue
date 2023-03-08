@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "kpi",
   "name": "KPI",
   "version": "1.4.5",
   "repository": "https://github.com/kmcsr/kpi_mcdr",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "api"
   ],

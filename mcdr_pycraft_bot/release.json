@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mcdr_pycraft_bot",
   "latest_version": "1.2.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "v1.2.0": {
+      "schema_version": 1,
       "id": "mcdr_pycraft_bot",
       "name": "MCDR Bot",
       "version": "1.2.0",
       "repository": "https://github.com/MCDReforged/MCDR-bot",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -64,10 +67,13 @@
       }
     },
     "v1.1.0": {
+      "schema_version": 1,
       "id": "mcdr_pycraft_bot",
       "name": "MCDR Bot",
       "version": "1.1.0",
       "repository": "https://github.com/MCDReforged/MCDR-bot",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

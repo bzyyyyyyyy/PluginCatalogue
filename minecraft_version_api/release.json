@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "minecraft_version_api",
   "latest_version": "1.1.1",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "v1.1.1": {
+      "schema_version": 1,
       "id": "minecraft_version_api",
       "name": "Minecraft Version API",
       "version": "1.1.1",
       "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -82,10 +85,13 @@
       }
     },
     "v1.1.0": {
+      "schema_version": 1,
       "id": "minecraft_version_api",
       "name": "Minecraft Version API",
       "version": "1.1.0",
       "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -105,10 +111,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "minecraft_version_api",
       "name": "Minecraft Version API",
       "version": "1.0.0",
       "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],

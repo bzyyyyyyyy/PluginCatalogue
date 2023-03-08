@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "minecraft_data_api",
   "name": "Minecraft Data API",
   "version": "1.4.1",
   "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
+  "branch": "next",
+  "related_path": ".",
   "labels": [
     "api"
   ],

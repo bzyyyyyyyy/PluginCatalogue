@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "info",
   "latest_version": "0.2.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "info-v0.2.0": {
+      "schema_version": 1,
       "id": "info",
       "name": "Info",
       "version": "0.2.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "info",
       "labels": [
         "information"
       ],
@@ -63,10 +66,13 @@
       }
     },
     "info-v0.1.0": {
+      "schema_version": 1,
       "id": "info",
       "name": "Info",
       "version": "0.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "info",
       "labels": [
         "information"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "qq_chat",
   "latest_version": "1.0.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "qq_chat-v1.0.1": {
+      "schema_version": 1,
       "id": "qq_chat",
       "name": "QQChat",
       "version": "1.0.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "qq_chat",
       "labels": [
         "information",
         "management"
@@ -66,10 +69,13 @@
       }
     },
     "qq_chat-v1.0.0": {
+      "schema_version": 1,
       "id": "qq_chat",
       "name": "QQChat",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "qq_chat",
       "labels": [
         "information",
         "management"

@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "chatbridge",
   "name": "ChatBridge v2 for MCDR",
   "version": "2.4.1",
   "repository": "https://github.com/TISUnion/ChatBridge",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

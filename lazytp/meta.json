@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "lazytp",
   "name": "Lazy Teleport",
   "version": "2.0.1",
   "repository": "https://github.com/Lazy-Bing-Server/lazytp",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

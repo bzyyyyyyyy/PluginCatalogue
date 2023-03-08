@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "leader_reforged",
   "latest_version": "1.1.2",
   "releases": [
@@ -150,10 +150,13 @@
   ],
   "release_meta": {
     "v1.1.2": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.1.2",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -170,10 +173,13 @@
       }
     },
     "v1.1.1": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.1.1",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -190,10 +196,13 @@
       }
     },
     "v1.1.0-patched": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.1.0-patched",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -210,10 +219,13 @@
       }
     },
     "v1.1.0": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.1.0",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -230,10 +242,13 @@
       }
     },
     "v1.0.3": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.0.3",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -250,10 +265,13 @@
       }
     },
     "v1.0.2": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.0.2",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -270,10 +288,13 @@
       }
     },
     "v1.0.1": {
+      "schema_version": 1,
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.0.1",
       "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

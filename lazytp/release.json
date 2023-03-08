@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "lazytp",
   "latest_version": "2.0.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "2.0.1": {
+      "schema_version": 1,
       "id": "lazytp",
       "name": "Lazy Teleport",
       "version": "2.0.1",
       "repository": "https://github.com/Lazy-Bing-Server/lazytp",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -66,10 +69,13 @@
       }
     },
     "2.0.0": {
+      "schema_version": 1,
       "id": "lazytp",
       "name": "Lazy Teleport",
       "version": "2.0.0",
       "repository": "https://github.com/Lazy-Bing-Server/lazytp",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

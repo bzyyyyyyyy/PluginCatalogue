@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "hibernate_r",
   "latest_version": "1.0.3",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "1.0.3": {
+      "schema_version": 1,
       "id": "hibernate_r",
       "name": "HibernateR",
       "version": "1.0.0",
       "repository": "https://github.com/HIM049/MCDR_HibernateR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -83,10 +86,13 @@
       }
     },
     "1.0.1": {
+      "schema_version": 1,
       "id": "hibernate_r",
       "name": "HibernateR",
       "version": "1.0.0",
       "repository": "https://github.com/HIM049/MCDR_HibernateR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -106,10 +112,13 @@
       }
     },
     "0.1.0": {
+      "schema_version": 1,
       "id": "hibernate_r",
       "name": "HibernateR",
       "version": "0.1.0",
       "repository": "https://github.com/HIM049/MCDR_HibernateR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "gamemode",
   "latest_version": "1.0.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "gamemode-v1.0.0": {
+      "schema_version": 1,
       "id": "gamemode",
       "name": "Gamemode",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "gamemode",
       "labels": [
         "tool"
       ],
@@ -62,10 +65,13 @@
       }
     },
     "gamemode-v0.1.0": {
+      "schema_version": 1,
       "id": "gamemode",
       "name": "Gamemode",
       "version": "0.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "gamemode",
       "labels": [
         "tool"
       ],

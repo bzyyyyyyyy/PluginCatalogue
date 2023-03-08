@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "mcd_task",
   "name": "Task",
   "version": "2.3.5+build.67",
   "repository": "https://github.com/TISUnion/Task",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

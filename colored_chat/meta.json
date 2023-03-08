@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "colored_chat",
   "name": "ColoredChat",
   "version": "0.0.3",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": ".archived/ColoredChat",
   "labels": [
     "tool"
   ],

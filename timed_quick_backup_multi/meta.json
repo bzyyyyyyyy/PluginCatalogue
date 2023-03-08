@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "timed_quick_backup_multi",
   "name": "Timed QBM",
   "version": "1.2.0",
   "repository": "https://github.com/TISUnion/TimedQBM",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "management"
   ],

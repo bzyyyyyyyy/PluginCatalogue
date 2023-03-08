@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "where_is",
   "latest_version": "2.0.2",
   "releases": [
@@ -96,10 +96,13 @@
   ],
   "release_meta": {
     "2.0.2": {
+      "schema_version": 1,
       "id": "where_is",
       "name": "Where Is",
       "version": "2.0.2+build.6",
       "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -119,10 +122,13 @@
       }
     },
     "2.0.1": {
+      "schema_version": 1,
       "id": "where_is",
       "name": "Where Is",
       "version": "2.0.1+build.4",
       "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -142,10 +148,13 @@
       }
     },
     "2.0.0": {
+      "schema_version": 1,
       "id": "where_is",
       "name": "Where Is",
       "version": "2.0.0+build.3",
       "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -165,10 +174,13 @@
       }
     },
     "1.1.0": {
+      "schema_version": 1,
       "id": "where_is",
       "name": "Where Is",
       "version": "1.1.0+build.2",
       "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -188,10 +200,13 @@
       }
     },
     "1.0.0": {
+      "schema_version": 1,
       "id": "where_is",
       "name": "Where Is",
       "version": "1.0.0",
       "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],

@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "aluminum",
   "name": "Aluminum",
   "version": "0.1.3",
   "repository": "https://github.com/MCDReforged/Aluminum",
+  "branch": "master",
+  "related_path": "src",
   "labels": [
     "management"
   ],

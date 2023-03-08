@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "tpm",
   "latest_version": "0.3.3",
   "releases": [
@@ -132,10 +132,13 @@
   ],
   "release_meta": {
     "v0.3.3": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.3.3",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -153,10 +156,13 @@
       }
     },
     "v0.3.2": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.3.1",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -174,10 +180,13 @@
       }
     },
     "v0.3.1": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.3.1",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -195,10 +204,13 @@
       }
     },
     "v0.3.0": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.3.0",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -216,10 +228,13 @@
       }
     },
     "v0.2.1": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.2.1",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -237,10 +252,13 @@
       }
     },
     "v0.2.0": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "TpManager",
       "version": "0.2.0",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -258,10 +276,13 @@
       }
     },
     "v0.1.0": {
+      "schema_version": 1,
       "id": "tpm",
       "name": "LoginProxy",
       "version": "0.1.0",
       "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

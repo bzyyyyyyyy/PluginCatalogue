@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "run_some_commands",
   "name": "Run Some Commands",
   "version": "1.0.0",
   "repository": "https://github.com/FlyingShuriken/MCDR-plugins",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "loginproxy",
   "latest_version": "0.5.3",
   "releases": [
@@ -258,10 +258,13 @@
   ],
   "release_meta": {
     "v0.5.3": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.5.3",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -281,10 +284,13 @@
       }
     },
     "v0.5.2": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.5.2",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -304,10 +310,13 @@
       }
     },
     "v0.5.1": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.5.1",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -327,10 +336,13 @@
       }
     },
     "v0.5.0": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.5.0",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -350,10 +362,13 @@
       }
     },
     "v0.4.4": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.4.4",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -373,10 +388,13 @@
       }
     },
     "v0.4.3": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.4.3",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -396,10 +414,13 @@
       }
     },
     "v0.4.2": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.4.2",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -419,10 +440,13 @@
       }
     },
     "v0.4.1": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.4.1",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -442,10 +466,13 @@
       }
     },
     "v0.4.0": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.4.0",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -465,10 +492,13 @@
       }
     },
     "v0.3.5": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.3.5",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -488,10 +518,13 @@
       }
     },
     "v0.3.4": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.3.4",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -511,10 +544,13 @@
       }
     },
     "v0.3.3": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.3.3",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -534,10 +570,13 @@
       }
     },
     "v0.3.2": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.3.2",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",
@@ -557,10 +596,13 @@
       }
     },
     "v0.3.1": {
+      "schema_version": 1,
       "id": "loginproxy",
       "name": "LoginProxy",
       "version": "0.3.0",
       "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "information",

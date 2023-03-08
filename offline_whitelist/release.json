@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "offline_whitelist",
   "latest_version": "0.1.4",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v0.1.4": {
+      "schema_version": 1,
       "id": "offline_whitelist",
       "name": "OfflineWhitelist",
       "version": "0.1.4",
       "repository": "https://github.com/skuzow/offline-whitelist",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "advanced_calculator",
   "latest_version": "0.3.1",
   "releases": [
@@ -78,10 +78,13 @@
   ],
   "release_meta": {
     "advanced_calculator-v0.3.1": {
+      "schema_version": 1,
       "id": "advanced_calculator",
       "name": "AdvancedCalculator",
       "version": "0.3.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "advanced_calculator",
       "labels": [
         "tool"
       ],
@@ -96,10 +99,13 @@
       }
     },
     "advanced_calculator-v0.3.0": {
+      "schema_version": 1,
       "id": "advanced_calculator",
       "name": "AdvancedCalculator",
       "version": "0.3.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "advanced_calculator",
       "labels": [
         "tool"
       ],
@@ -114,10 +120,13 @@
       }
     },
     "advanced_calculator-v0.2.1": {
+      "schema_version": 1,
       "id": "advanced_calculator",
       "name": "AdvancedCalculator",
       "version": "0.2.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "advanced_calculator",
       "labels": [
         "tool"
       ],
@@ -132,10 +141,13 @@
       }
     },
     "advanced_calculator-v0.2.0": {
+      "schema_version": 1,
       "id": "advanced_calculator",
       "name": "AdvancedCalculator",
       "version": "0.2.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "advanced_calculator",
       "labels": [
         "tool"
       ],

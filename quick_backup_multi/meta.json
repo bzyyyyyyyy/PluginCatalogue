@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "quick_backup_multi",
   "name": "Quick Backup Multi",
   "version": "1.7.0",
   "repository": "https://github.com/TISUnion/QuickBackupM",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "management"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "world_copier",
   "latest_version": "0.1.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v0.1.0": {
+      "schema_version": 1,
       "id": "world_copier",
       "name": "World Copier",
       "version": "0.1.0",
       "repository": "https://github.com/MCDReforged/WorldCopier",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "management"
       ],

@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "renewability",
   "name": "Renewability",
   "version": "1.1.0",
   "repository": "https://github.com/Fidelxyz/MCDR-Renewability",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

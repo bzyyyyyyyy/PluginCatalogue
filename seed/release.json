@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "seed",
   "latest_version": "1.1.0",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "v1.1.0": {
+      "schema_version": 1,
       "id": "seed",
       "name": "Seed",
       "version": "1.1.0",
       "repository": "https://github.com/OptiJava/Seed",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -79,10 +82,13 @@
       }
     },
     "v1.0.1": {
+      "schema_version": 1,
       "id": "seed",
       "name": "Seed",
       "version": "1.0.1",
       "repository": "https://github.com/OptiJava/Seed",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -98,10 +104,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "seed",
       "name": "Seed",
       "version": "1.0.0",
       "repository": "https://github.com/OptiJava/Seed",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "player_manager",
   "latest_version": "1.2.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "player_manager-v1.2.1": {
+      "schema_version": 1,
       "id": "player_manager",
       "name": "Player Manager",
       "version": "1.2.1",
       "repository": "https://github.com/PRcT-Server/MCDRPlugins",
+      "branch": "master",
+      "related_path": "PlayerManager",
       "labels": [
         "tool",
         "management"
@@ -70,10 +73,13 @@
       }
     },
     "player_manager-v1.2.0": {
+      "schema_version": 1,
       "id": "player_manager",
       "name": "Player Manager",
       "version": "1.2.0",
       "repository": "https://github.com/PRcT-Server/MCDRPlugins",
+      "branch": "master",
+      "related_path": "PlayerManager",
       "labels": [
         "tool",
         "management"

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "faster_transfer",
   "latest_version": "0.1",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v0.1": {
+      "schema_version": 1,
       "id": "faster_transfer",
       "name": "Faster Transfer",
       "version": "0.1.0",
       "repository": "https://github.com/alex3236/FasterTransfer",
+      "branch": "master",
+      "related_path": "src",
       "labels": [
         "tool",
         "api"

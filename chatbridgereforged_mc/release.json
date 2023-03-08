@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "chatbridgereforged_mc",
   "latest_version": "0.2.7",
   "releases": [
@@ -123,10 +123,13 @@
   ],
   "release_meta": {
     "0.2.7": {
+      "schema_version": 1,
       "id": "chatbridgereforged_mc",
       "name": "ChatBridgeReforged_MC",
       "version": "0.2.7-dev032",
       "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "branch": "master",
+      "related_path": "./ChatBridgeReforged_MC",
       "labels": [
         "tool"
       ],
@@ -146,10 +149,13 @@
       }
     },
     "0.1.1": {
+      "schema_version": 1,
       "id": "chatbridgereforged_mc",
       "name": "ChatBridgeReforged_MC",
       "version": "0.1.1-dev024",
       "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "branch": "master",
+      "related_path": "./ChatBridgeReforged_MC",
       "labels": [
         "tool"
       ],
@@ -169,10 +175,13 @@
       }
     },
     "0.0.2": {
+      "schema_version": 1,
       "id": "chatbridgereforged_mc",
       "name": "ChatBridgeReforged_MC",
       "version": "0.0.2-dev022",
       "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "branch": "master",
+      "related_path": "./ChatBridgeReforged_MC",
       "labels": [
         "tool"
       ],

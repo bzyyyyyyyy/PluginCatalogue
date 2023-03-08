@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "lowercase_mcdr_command",
   "latest_version": "1.2.2",
   "releases": [
@@ -132,10 +132,13 @@
   ],
   "release_meta": {
     "lowercase_mcdr_command-v1.2.2": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR Command",
       "version": "1.2.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -150,10 +153,13 @@
       }
     },
     "lowercase_mcdr_command-v1.2.1": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.2.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -168,10 +174,13 @@
       }
     },
     "lowercase_mcdr_command-v1.2.0": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.2.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -186,10 +195,13 @@
       }
     },
     "lowercase_mcdr_command-v1.1.2": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.1.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -206,10 +218,13 @@
       }
     },
     "lowercase_mcdr_command-v1.1.1": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.1.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -226,10 +241,13 @@
       }
     },
     "lowercase_mcdr_command-v1.1.0": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],
@@ -246,10 +264,13 @@
       }
     },
     "lowercase_mcdr_command-v1.0.0": {
+      "schema_version": 1,
       "id": "lowercase_mcdr_command",
       "name": "Lowercase MCDR command",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "lowercase_mcdr_command",
       "labels": [
         "management"
       ],

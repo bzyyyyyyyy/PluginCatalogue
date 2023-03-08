@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "bot",
   "latest_version": "1.0.6",
   "releases": [
@@ -150,10 +150,13 @@
   ],
   "release_meta": {
     "bot-v1.0.6": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.6",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -174,10 +177,13 @@
       }
     },
     "bot-v1.0.5": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.5",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -198,10 +204,13 @@
       }
     },
     "bot-v1.0.4": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.4",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -222,10 +231,13 @@
       }
     },
     "bot-v1.0.3": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -245,10 +257,13 @@
       }
     },
     "bot-v1.0.2": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -268,10 +283,13 @@
       }
     },
     "bot-v1.0.1": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -291,10 +309,13 @@
       }
     },
     "bot-v1.0.0": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"
@@ -314,10 +335,13 @@
       }
     },
     "bot-v0.1.0": {
+      "schema_version": 1,
       "id": "bot",
       "name": "Bot",
       "version": "0.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "bot",
       "labels": [
         "tool",
         "management"

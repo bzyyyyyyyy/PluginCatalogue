@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "onebot_api",
   "latest_version": "1.1.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "1.1.1": {
+      "schema_version": 1,
       "id": "onebot_api",
       "name": "OneBot API",
       "version": "1.1.1",
       "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -64,10 +67,13 @@
       }
     },
     "1.0.1": {
+      "schema_version": 1,
       "id": "onebot_api",
       "name": "OneBot API",
       "version": "1.0.1",
       "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],

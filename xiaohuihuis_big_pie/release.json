@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "xiaohuihuis_big_pie",
   "latest_version": "0.0.2",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "xiaohuihuis_big_pie-v0.0.2": {
+      "schema_version": 1,
       "id": "xiaohuihuis_big_pie",
       "name": "XiaoHuiHui's Big Pie",
       "version": "0.0.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "xiaohuihuis_big_pie",
       "labels": [
         "information",
         "tool",

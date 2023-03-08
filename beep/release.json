@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "beep",
   "latest_version": "1.1.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "v1.1.0": {
+      "schema_version": 1,
       "id": "beep",
       "name": "Beep",
       "version": "1.1.0",
       "repository": "https://github.com/TISUnion/Beep",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -63,10 +66,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "beep",
       "name": "Beep",
       "version": "1.0.0",
       "repository": "https://github.com/TISUnion/Beep",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

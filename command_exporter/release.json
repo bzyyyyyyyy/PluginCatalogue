@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "command_exporter",
   "latest_version": "1.2.0",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "1.2.0": {
+      "schema_version": 1,
       "id": "command_exporter",
       "name": "MCDR Command Exporter",
       "version": "1.2.0",
       "repository": "https://github.com/DancingSnow0517/MCDR-Command-Exporter",
+      "branch": "master",
+      "related_path": "command_exporter",
       "labels": [
         "tool"
       ],
@@ -79,10 +82,13 @@
       }
     },
     "1.1.0": {
+      "schema_version": 1,
       "id": "command_exporter",
       "name": "MCDR Command Exporter",
       "version": "1.1.0",
       "repository": "https://github.com/DancingSnow0517/MCDR-Command-Exporter",
+      "branch": "master",
+      "related_path": "command_exporter",
       "labels": [
         "tool"
       ],
@@ -98,10 +104,13 @@
       }
     },
     "1.0.0": {
+      "schema_version": 1,
       "id": "command_exporter",
       "name": "MCDR Command Exporter",
       "version": "1.0.0",
       "repository": "https://github.com/DancingSnow0517/MCDR-Command-Exporter",
+      "branch": "master",
+      "related_path": "command_exporter",
       "labels": [
         "tool"
       ],

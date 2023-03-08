@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mirror_server_sync",
   "latest_version": "1.0.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "v1.0.1": {
+      "schema_version": 1,
       "id": "mirror_server_sync",
       "name": "Mirror Server Sync",
       "version": "1.0.0",
       "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -61,10 +64,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "mirror_server_sync",
       "name": "Mirror Server Sync",
       "version": "1.0.0",
       "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "welcome_msg",
   "latest_version": "1.1.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "welcome_msg-v1.1.0": {
+      "schema_version": 1,
       "id": "welcome_msg",
       "name": "welcome_msg",
       "version": "1.1.0",
       "repository": "https://github.com/JAs0n319/Welcome_MSG",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],
@@ -62,10 +65,13 @@
       }
     },
     "welcome_msg-v1.0.0": {
+      "schema_version": 1,
       "id": "welcome_msg",
       "name": "welcome_msg",
       "version": "1.1.0",
       "repository": "https://github.com/JAs0n319/Welcome_MSG",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "information"
       ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "database_api",
   "latest_version": "0.1.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "database_api-v0.1.1": {
+      "schema_version": 1,
       "id": "database_api",
       "name": "DatabaseAPI",
       "version": "0.1.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "database_api",
       "labels": [
         "api"
       ],
@@ -62,10 +65,13 @@
       }
     },
     "database_api-v0.1.0": {
+      "schema_version": 1,
       "id": "database_api",
       "name": "DatabaseAPI",
       "version": "0.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "database_api",
       "labels": [
         "api"
       ],

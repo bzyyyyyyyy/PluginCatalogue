@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "stats_helper",
   "latest_version": "7.5.1",
   "releases": [
@@ -150,10 +150,13 @@
   ],
   "release_meta": {
     "v7.5.1": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.5.1",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -173,10 +176,13 @@
       }
     },
     "v7.5.0": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.5.0",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -196,10 +202,13 @@
       }
     },
     "v7.4.0": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.4.0",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -219,10 +228,13 @@
       }
     },
     "v7.3.1": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.3.1",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -242,10 +254,13 @@
       }
     },
     "v7.2.0": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.2.0",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -265,10 +280,13 @@
       }
     },
     "v7.1.3": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.1.3",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -288,10 +306,13 @@
       }
     },
     "v7.1.1": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.1.1",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"
@@ -311,10 +332,13 @@
       }
     },
     "v7.1.0": {
+      "schema_version": 1,
       "id": "stats_helper",
       "name": "Stats Helper",
       "version": "7.1.0",
       "repository": "https://github.com/TISUnion/StatsHelper",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool",
         "information"

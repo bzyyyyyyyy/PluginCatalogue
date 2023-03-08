@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "mirror_server_sync",
   "name": "Mirror Server Sync",
   "version": "1.0.1",
   "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "management"
   ],

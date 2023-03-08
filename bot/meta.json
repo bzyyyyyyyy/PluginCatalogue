@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "bot",
   "name": "Bot",
   "version": "1.0.6",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "bot",
   "labels": [
     "tool",
     "management"

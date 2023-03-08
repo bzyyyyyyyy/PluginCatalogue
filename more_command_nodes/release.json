@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "more_command_nodes",
   "latest_version": "1.1.0",
   "releases": [
@@ -96,10 +96,13 @@
   ],
   "release_meta": {
     "more_command_nodes-v1.1.0": {
+      "schema_version": 1,
       "id": "more_command_nodes",
       "name": "MoreCommandNodes",
       "version": "1.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "more_command_nodes",
       "labels": [
         "api"
       ],
@@ -116,10 +119,13 @@
       }
     },
     "more_command_nodes-v1.0.3": {
+      "schema_version": 1,
       "id": "more_command_nodes",
       "name": "MoreCommandNodes",
       "version": "1.0.3",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "more_command_nodes",
       "labels": [
         "api"
       ],
@@ -134,10 +140,13 @@
       }
     },
     "more_command_nodes-v1.0.2": {
+      "schema_version": 1,
       "id": "more_command_nodes",
       "name": "MoreCommandNodes",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "more_command_nodes",
       "labels": [
         "api"
       ],
@@ -152,10 +161,13 @@
       }
     },
     "more_command_nodes-v1.0.1": {
+      "schema_version": 1,
       "id": "more_command_nodes",
       "name": "MoreCommandNodes",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "more_command_nodes",
       "labels": [
         "api"
       ],
@@ -170,10 +182,13 @@
       }
     },
     "more_command_nodes-v1.0.0": {
+      "schema_version": 1,
       "id": "more_command_nodes",
       "name": "MoreCommandNodes",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "more_command_nodes",
       "labels": [
         "api"
       ],

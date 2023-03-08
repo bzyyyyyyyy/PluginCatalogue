@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "minecraft_command_register",
   "name": "Minecraft Command Register",
   "version": "1.2.3",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "minecraft_command_register",
   "labels": [
     "api"
   ],

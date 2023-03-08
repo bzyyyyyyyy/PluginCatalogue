@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "online",
   "name": "Online",
   "version": "1.4.1-alpha1",
   "repository": "https://github.com/FAS-Server/Online",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "information"
   ],

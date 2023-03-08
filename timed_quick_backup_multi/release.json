@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "timed_quick_backup_multi",
   "latest_version": "1.2.0",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "v1.2.0": {
+      "schema_version": 1,
       "id": "timed_quick_backup_multi",
       "name": "Timed QBM",
       "version": "1.2.0",
       "repository": "https://github.com/TISUnion/TimedQBM",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -80,10 +83,13 @@
       }
     },
     "v1.1.0": {
+      "schema_version": 1,
       "id": "timed_quick_backup_multi",
       "name": "Timed QBM",
       "version": "1.1.0",
       "repository": "https://github.com/TISUnion/TimedQBM",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -100,10 +106,13 @@
       }
     },
     "v1.0.1": {
+      "schema_version": 1,
       "id": "timed_quick_backup_multi",
       "name": "Timed QBM",
       "version": "1.0.1",
       "repository": "https://github.com/TISUnion/TimedQBM",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

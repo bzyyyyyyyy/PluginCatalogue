@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "todolist",
   "latest_version": "1.0.3",
   "releases": [
@@ -78,10 +78,13 @@
   ],
   "release_meta": {
     "todolist-v1.0.3": {
+      "schema_version": 1,
       "id": "todolist",
       "name": "ToDoList",
       "version": "1.0.4",
       "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "ToDoList",
       "labels": [
         "tool",
         "information"
@@ -97,10 +100,13 @@
       }
     },
     "todolist-v1.0.2": {
+      "schema_version": 1,
       "id": "todolist",
       "name": "ToDoList",
       "version": "1.0.2",
       "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "ToDoList",
       "labels": [
         "tool",
         "information"
@@ -116,10 +122,13 @@
       }
     },
     "todolist-v1.0.1": {
+      "schema_version": 1,
       "id": "todolist",
       "name": "ToDoList",
       "version": "1.0.1",
       "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "ToDoList",
       "labels": [
         "tool",
         "information"
@@ -135,10 +144,13 @@
       }
     },
     "todolist-v1.0.0": {
+      "schema_version": 1,
       "id": "todolist",
       "name": "ToDoList",
       "version": "1.0.0",
       "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "ToDoList",
       "labels": [
         "tool",
         "information"

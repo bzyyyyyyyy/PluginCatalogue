@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "mirror_control",
   "name": "Mirror Control",
   "version": "1.0.3",
   "repository": "https://github.com/charassss/Mirror-Control",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "management"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "dict_command_registration",
   "latest_version": "1.1.0",
   "releases": [
@@ -78,10 +78,13 @@
   ],
   "release_meta": {
     "dict_command_registration-v1.1.0": {
+      "schema_version": 1,
       "id": "dict_command_registration",
       "name": "Dict Command Registration",
       "version": "1.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "dict_command_registration",
       "labels": [
         "api"
       ],
@@ -98,10 +101,13 @@
       }
     },
     "dict_command_registration-v1.0.2": {
+      "schema_version": 1,
       "id": "dict_command_registration",
       "name": "Dict Command Registration",
       "version": "1.0.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "dict_command_registration",
       "labels": [
         "api"
       ],
@@ -118,10 +124,13 @@
       }
     },
     "dict_command_registration-v1.0.1": {
+      "schema_version": 1,
       "id": "dict_command_registration",
       "name": "Dict Command Registration",
       "version": "1.0.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "dict_command_registration",
       "labels": [
         "api"
       ],
@@ -138,10 +147,13 @@
       }
     },
     "dict_command_registration-v1.0.0": {
+      "schema_version": 1,
       "id": "dict_command_registration",
       "name": "Dict Command Registration",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "dict_command_registration",
       "labels": [
         "api"
       ],

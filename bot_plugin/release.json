@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "bot_plugin",
   "latest_version": "1.0.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "1.0.0": {
+      "schema_version": 1,
       "id": "bot_plugin",
       "name": "Bot Plugin",
       "version": "1.0.0",
       "repository": "https://github.com/DancingSnow0517/Bot_Manager",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management",
         "tool"

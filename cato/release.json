@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "cato",
   "latest_version": "1.1.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "cato-v1.1.0": {
+      "schema_version": 1,
       "id": "cato",
       "name": "Cato Plugin",
       "version": "1.1.0",
       "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -61,10 +64,13 @@
       }
     },
     "cato-v1.0.0": {
+      "schema_version": 1,
       "id": "cato",
       "name": "Cato Plugin",
       "version": "1.0.0",
       "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

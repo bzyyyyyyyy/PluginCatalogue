@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "minecraft_command_register",
   "latest_version": "1.2.3",
   "releases": [
@@ -132,10 +132,13 @@
   ],
   "release_meta": {
     "minecraft_command_register-v1.2.3": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.2.3",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -153,10 +156,13 @@
       }
     },
     "minecraft_command_register-v1.2.2": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.2.2",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -174,10 +180,13 @@
       }
     },
     "minecraft_command_register-v1.2.1": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.2.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -195,10 +204,13 @@
       }
     },
     "minecraft_command_register-v1.2.0": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.2.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -216,10 +228,13 @@
       }
     },
     "minecraft_command_register-v1.1.1": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.1.1",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -237,10 +252,13 @@
       }
     },
     "minecraft_command_register-v1.1.0": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.1.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],
@@ -258,10 +276,13 @@
       }
     },
     "minecraft_command_register-v1.0.0": {
+      "schema_version": 1,
       "id": "minecraft_command_register",
       "name": "Minecraft Command Register",
       "version": "1.0.0",
       "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+      "branch": "master",
+      "related_path": "minecraft_command_register",
       "labels": [
         "api"
       ],

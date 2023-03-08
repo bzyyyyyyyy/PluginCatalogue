@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mcdrpost",
   "latest_version": "2.1.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "2.1.0": {
+      "schema_version": 1,
       "id": "mcdrpost",
       "name": "MCDRpost",
       "version": "2.1.0",
       "repository": "https://github.com/Flyky/MCDRpost",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

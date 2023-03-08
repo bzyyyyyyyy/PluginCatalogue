@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mcd_task",
   "latest_version": "2.3.5",
   "releases": [
@@ -186,10 +186,13 @@
   ],
   "release_meta": {
     "2.3.5": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.5+build.67",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -208,10 +211,13 @@
       }
     },
     "2.3.4": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.4+build.66",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -230,10 +236,13 @@
       }
     },
     "2.3.3": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.3+build.65",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -252,10 +261,13 @@
       }
     },
     "2.3.2": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.2+build.64",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -274,10 +286,13 @@
       }
     },
     "2.3.1": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.1+build.63",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -296,10 +311,13 @@
       }
     },
     "2.3.0": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.3.0+build.62",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -318,10 +336,13 @@
       }
     },
     "2.2.0": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.2.0",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -339,10 +360,13 @@
       }
     },
     "2.1.0": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.1.0",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -360,10 +384,13 @@
       }
     },
     "2.0.1": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.0.1",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -381,10 +408,13 @@
       }
     },
     "2.0.0": {
+      "schema_version": 1,
       "id": "mcd_task",
       "name": "Task",
       "version": "2.0.0",
       "repository": "https://github.com/TISUnion/Task",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

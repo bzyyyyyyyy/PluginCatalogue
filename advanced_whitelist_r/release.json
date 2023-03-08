@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "advanced_whitelist_r",
   "latest_version": "1.0.3",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "1.0.3": {
+      "schema_version": 1,
       "id": "advanced_whitelist_r",
       "name": "AdvancedWhitelistR",
       "version": "1.0.3",
       "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -80,10 +83,13 @@
       }
     },
     "1.0.2": {
+      "schema_version": 1,
       "id": "advanced_whitelist_r",
       "name": "AdvancedWhitelistR",
       "version": "1.0.2",
       "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -100,10 +106,13 @@
       }
     },
     "1.0.1": {
+      "schema_version": 1,
       "id": "advanced_whitelist_r",
       "name": "AdvancedWhitelistR",
       "version": "1.0.1",
       "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

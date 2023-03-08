@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "chatbridge",
   "latest_version": "2.4.1",
   "releases": [
@@ -186,10 +186,13 @@
   ],
   "release_meta": {
     "v2.4.1": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.4.1",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -210,10 +213,13 @@
       }
     },
     "v2.3.0": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.3.0",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -234,10 +240,13 @@
       }
     },
     "v2.2.0": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.2.0",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -258,10 +267,13 @@
       }
     },
     "v2.1.1": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.1.1",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -282,10 +294,13 @@
       }
     },
     "v2.1.0": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.5",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -306,10 +321,13 @@
       }
     },
     "v2.0.4": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.4",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -330,10 +348,13 @@
       }
     },
     "v2.0.3": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.3",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -354,10 +375,13 @@
       }
     },
     "v2.0.2": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.2",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -378,10 +402,13 @@
       }
     },
     "v2.0.1": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.1",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -402,10 +429,13 @@
       }
     },
     "v2.0.0": {
+      "schema_version": 1,
       "id": "chatbridge",
       "name": "ChatBridge v2 for MCDR",
       "version": "2.0.0",
       "repository": "https://github.com/TISUnion/ChatBridge",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

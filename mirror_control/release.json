@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mirror_control",
   "latest_version": "1.0.3",
   "releases": [
@@ -78,10 +78,13 @@
   ],
   "release_meta": {
     "v1.0.3": {
+      "schema_version": 1,
       "id": "mirror_control",
       "name": "Mirror Control",
       "version": "1.0.3",
       "repository": "https://github.com/charassss/Mirror-Control",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -98,10 +101,13 @@
       }
     },
     "v1.0.2": {
+      "schema_version": 1,
       "id": "mirror_control",
       "name": "Mirror Control",
       "version": "1.0.2",
       "repository": "https://github.com/charassss/Mirror-Control",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -118,10 +124,13 @@
       }
     },
     "v1.0.1": {
+      "schema_version": 1,
       "id": "mirror_control",
       "name": "Mirror Control",
       "version": "1.0.1",
       "repository": "https://github.com/charassss/Mirror-Control",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -138,10 +147,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "mirror_control",
       "name": "Mirror Control",
       "version": "1.0.0",
       "repository": "https://github.com/charassss/Mirror-Control",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

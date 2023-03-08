@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "eulagree",
   "latest_version": "1.0.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "1.0.0": {
+      "schema_version": 1,
       "id": "eulagree",
       "name": "EULAgree",
       "version": "1.0.0",
       "repository": "https://github.com/HuajiMURsMC/EULAgree",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

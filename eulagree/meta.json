@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "eulagree",
   "name": "EULAgree",
   "version": "1.0.0",
   "repository": "https://github.com/HuajiMURsMC/EULAgree",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

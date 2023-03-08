@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "daycount_nbt",
   "latest_version": "2.2.1",
   "releases": [
@@ -114,10 +114,13 @@
   ],
   "release_meta": {
     "v2.2.1": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.2.1",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"
@@ -135,10 +138,13 @@
       }
     },
     "v2.1.1": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.1.1",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"
@@ -158,10 +164,13 @@
       }
     },
     "v2.1": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.1.0",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"
@@ -181,10 +190,13 @@
       }
     },
     "v2.0.2": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.0.2",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"
@@ -204,10 +216,13 @@
       }
     },
     "v2.0.1": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "DayCount NBT",
       "version": "2.0.1",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"
@@ -227,10 +242,13 @@
       }
     },
     "v2.0.0": {
+      "schema_version": 1,
       "id": "daycount_nbt",
       "name": "joinMOTD++",
       "version": "2.0.0",
       "repository": "https://github.com/alex3236/daycount-NBT",
+      "branch": "main",
+      "related_path": "src",
       "labels": [
         "information",
         "api"

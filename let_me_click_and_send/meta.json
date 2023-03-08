@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "let_me_click_and_send",
   "name": "Let Me Click and Send",
   "version": "1.0.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "let_me_click_and_send",
   "labels": [
     "information"
   ],

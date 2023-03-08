@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "carpet_bot_manager",
   "latest_version": "0.3.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v0.3.0": {
+      "schema_version": 1,
       "id": "carpet_bot_manager",
       "name": "Carpet Bot Manager",
       "version": "0.3.0",
       "repository": "https://github.com/FAS-Server/CarpetBotManager",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

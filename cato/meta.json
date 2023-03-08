@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "cato",
   "name": "Cato Plugin",
   "version": "1.1.0",
   "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

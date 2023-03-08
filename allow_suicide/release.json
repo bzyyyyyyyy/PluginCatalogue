@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "allow_suicide",
   "latest_version": "1.0.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "allow_suicide-v1.0.0": {
+      "schema_version": 1,
       "id": "allow_suicide",
       "name": "allow_suicide",
       "version": "1.0.0",
       "repository": "https://github.com/JAs0n319/allow_suicide",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

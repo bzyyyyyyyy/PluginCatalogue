@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "mount",
   "name": "Mount",
   "version": "0.2.0",
   "repository": "https://github.com/FAS-Server/Mount",
+  "branch": "main",
+  "related_path": ".",
   "labels": [
     "management"
   ],

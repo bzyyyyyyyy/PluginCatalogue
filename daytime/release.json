@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "daytime",
   "latest_version": "1.1.0",
   "releases": [
@@ -24,10 +24,13 @@
   ],
   "release_meta": {
     "v1.1.0": {
+      "schema_version": 1,
       "id": "daytime",
       "name": "Daytime",
       "version": "1.1.0",
       "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+      "branch": "MCDR-2.x",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

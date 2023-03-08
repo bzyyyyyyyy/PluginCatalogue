@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "region_file_updater",
   "name": "Region file Updater",
   "version": "1.5.2",
   "repository": "https://github.com/TISUnion/RegionFileUpdater",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "management"
   ],

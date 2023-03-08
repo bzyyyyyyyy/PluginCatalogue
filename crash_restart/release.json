@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "crash_restart",
   "latest_version": "1.0.0",
   "releases": [
@@ -31,10 +31,13 @@
   ],
   "release_meta": {
     "v1.0.0": {
+      "schema_version": 1,
       "id": "crash_restart",
       "name": "Crash Restart",
       "version": "1.0.0",
       "repository": "https://github.com/MCDReforged/CrashRestart",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

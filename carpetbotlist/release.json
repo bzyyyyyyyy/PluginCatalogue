@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "carpetbotlist",
   "latest_version": "2.1.1",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "v2.1.1": {
+      "schema_version": 1,
       "id": "carpetbotlist",
       "name": "CarpetBotList",
       "version": "2.1.1",
       "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "branch": "MCDR-2.x",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -81,10 +84,13 @@
       }
     },
     "v2.1.0": {
+      "schema_version": 1,
       "id": "carpetbotlist",
       "name": "CarpetBotList",
       "version": "2.1.0",
       "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "branch": "MCDR-2.x",
+      "related_path": ".",
       "labels": [
         "tool"
       ],
@@ -102,10 +108,13 @@
       }
     },
     "v2.0.0": {
+      "schema_version": 1,
       "id": "carpetbotlist",
       "name": "CarpetBotList",
       "version": "2.0.0",
       "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "branch": "MCDR-2.x",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

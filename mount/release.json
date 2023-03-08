@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mount",
   "latest_version": "0.2.0",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "v0.2.0": {
+      "schema_version": 1,
       "id": "mount",
       "name": "Mount",
       "version": "0.2.0",
       "repository": "https://github.com/FAS-Server/Mount",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -66,10 +69,13 @@
       }
     },
     "v0.1.0-beta1": {
+      "schema_version": 1,
       "id": "mount",
       "name": "Mount",
       "version": "0.1.0-beta1",
       "repository": "https://github.com/FAS-Server/Mount",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "management"
       ],

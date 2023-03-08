@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "the_offline_ops",
   "latest_version": "1.1",
   "releases": [
@@ -42,10 +42,13 @@
   ],
   "release_meta": {
     "v1.1": {
+      "schema_version": 1,
       "id": "the_offline_ops",
       "name": "The Offline ops",
       "version": "1.1",
       "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -62,10 +65,13 @@
       }
     },
     "v1.0": {
+      "schema_version": 1,
       "id": "the_offline_ops",
       "name": "The Offline ops",
       "version": "1.0",
       "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "management"
       ],

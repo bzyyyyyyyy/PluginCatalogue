@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "mirror_server_reforged",
   "latest_version": "1.0.7",
   "releases": [
@@ -150,10 +150,13 @@
   ],
   "release_meta": {
     "1.0.7": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.7",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -170,10 +173,13 @@
       }
     },
     "1.0.6": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.6",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -190,10 +196,13 @@
       }
     },
     "1.0.5": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.5",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -210,10 +219,13 @@
       }
     },
     "1.0.4": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.4",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -230,10 +242,13 @@
       }
     },
     "1.0.3": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.3",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -250,10 +265,13 @@
       }
     },
     "1.0.2": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.2",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],
@@ -270,10 +288,13 @@
       }
     },
     "1.0.1": {
+      "schema_version": 1,
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.1",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "management"
       ],

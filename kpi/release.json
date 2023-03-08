@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "kpi",
   "latest_version": "1.4.5",
   "releases": [
@@ -276,10 +276,13 @@
   ],
   "release_meta": {
     "v1.4.5": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.5",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -296,10 +299,13 @@
       }
     },
     "v1.4.4": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.4",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -316,10 +322,13 @@
       }
     },
     "v1.4.3": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.3",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -336,10 +345,13 @@
       }
     },
     "v1.4.2": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.2",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -356,10 +368,13 @@
       }
     },
     "v1.4.1": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -376,10 +391,13 @@
       }
     },
     "v1.4.0": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.4.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -396,10 +414,13 @@
       }
     },
     "v1.3.3": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.3.3",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -416,10 +437,13 @@
       }
     },
     "v1.3.2": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.3.2",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -436,10 +460,13 @@
       }
     },
     "v1.3.1": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.3.1",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -456,10 +483,13 @@
       }
     },
     "v1.3.0": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.3.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -476,10 +506,13 @@
       }
     },
     "v1.2.0": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.2.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -496,10 +529,13 @@
       }
     },
     "v1.1.0": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.1.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -516,10 +552,13 @@
       }
     },
     "v1.0.2": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.0.2",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -536,10 +575,13 @@
       }
     },
     "v1.0.1": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.0.1",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],
@@ -556,10 +598,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "kpi",
       "name": "KPI",
       "version": "1.0.0",
       "repository": "https://github.com/kmcsr/kpi_mcdr",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "api"
       ],

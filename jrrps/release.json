@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "jrrps",
   "latest_version": "2.3.2",
   "releases": [
@@ -78,10 +78,13 @@
   ],
   "release_meta": {
     "2.3.2": {
+      "schema_version": 1,
       "id": "jrrps",
       "name": "Jrrps Plg",
       "version": "2.3.2",
       "repository": "https://github.com/SkyDynamic/jrrps",
+      "branch": "master",
+      "related_path": ".",
       "labels": [
         "tool"
       ],

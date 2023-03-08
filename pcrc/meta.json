@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "pcrc",
   "name": "PCRC",
   "version": "1.4.0",
   "repository": "https://github.com/Fallen-Breath/PCRC",
+  "branch": "master",
+  "related_path": ".",
   "labels": [
     "tool"
   ],

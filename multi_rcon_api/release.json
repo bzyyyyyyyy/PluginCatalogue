@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "id": "multi_rcon_api",
   "latest_version": "2.0.1",
   "releases": [
@@ -60,10 +60,13 @@
   ],
   "release_meta": {
     "v2.0.1": {
+      "schema_version": 1,
       "id": "multi_rcon_api",
       "name": "MultiRconAPI",
       "version": "2.0.1",
       "repository": "https://github.com/FAS-Server/MultiRconAPI",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool",
         "api"
@@ -83,10 +86,13 @@
       }
     },
     "v2.0.0": {
+      "schema_version": 1,
       "id": "multi_rcon_api",
       "name": "MultiRconAPI",
       "version": "2.0.0",
       "repository": "https://github.com/FAS-Server/MultiRconAPI",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool",
         "api"
@@ -106,10 +112,13 @@
       }
     },
     "v1.0.0": {
+      "schema_version": 1,
       "id": "multi_rcon_api",
       "name": "MultiRconAPI",
       "version": "1.0.0",
       "repository": "https://github.com/FAS-Server/MultiRconAPI",
+      "branch": "main",
+      "related_path": ".",
       "labels": [
         "tool",
         "api"

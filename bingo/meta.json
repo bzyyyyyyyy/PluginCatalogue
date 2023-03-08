@@ -1,8 +1,11 @@
 {
+  "schema_version": 1,
   "id": "bingo",
   "name": "Bingo",
   "version": "0.0.3",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "bingo",
   "labels": [
     "tool"
   ],
