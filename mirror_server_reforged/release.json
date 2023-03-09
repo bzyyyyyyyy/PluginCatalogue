@@ -40,6 +40,24 @@
       "parsed_version": "1.0.6"
     },
     {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.5",
+      "name": "1.0.5",
+      "tag_name": "1.0.5",
+      "created_at": "2023-02-05T12:46:33Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.5.mcdr",
+          "size": 8818,
+          "download_count": 20,
+          "created_at": "2023-02-05T14:09:32Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.5/MirrorServerReforged-v1.0.5.mcdr"
+        }
+      ],
+      "description": "新版本对以下内容进行了修改：\r\n- 加入`syncFlag`这一标志，用于识别是否正在同步\r\n- 使用系统命令`cp`代替`shutil.copy`来（稍微）加快存档的同步速度\r\n- 同步任务提交后，再次使用`!!msr sync`将不会再次提交任务，会返回对应的提示\r\n- 当同步任务正在进行时，开启服务器将会返回对应的错误信息，并阻止开启行为\r\n- 同步完成后增加时间提示\r\n---\r\n**对于`nohup`开启服务器的方式，经过几轮测试后发现不太稳定，这里先暂时回退到原来的只用启动命令的启动方式，这将会导致服务器的控制台错乱，敬请注意！如果需要使用`nohup`命令启动，请移步至Release@1.0.5-dev**",
+      "prerelease": false,
+      "parsed_version": "1.0.5"
+    },
+    {
       "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.4",
       "name": "[CRITICAL] 1.0.4",
       "tag_name": "1.0.4",
@@ -159,6 +177,29 @@
       "id": "mirror_server_reforged",
       "name": "MirrorServerReforged",
       "version": "1.0.6",
+      "repository": "https://github.com/EMUnion/MirrorServerReforged",
+      "branch": "master",
+      "related_path": ".",
+      "labels": [
+        "management"
+      ],
+      "authors": [
+        "GamerNoTitle"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.",
+        "zh_cn": "[MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件"
+      }
+    },
+    "1.0.5": {
+      "schema_version": 1,
+      "id": "mirror_server_reforged",
+      "name": "MirrorServerReforged",
+      "version": "1.0.5",
       "repository": "https://github.com/EMUnion/MirrorServerReforged",
       "branch": "master",
       "related_path": ".",
