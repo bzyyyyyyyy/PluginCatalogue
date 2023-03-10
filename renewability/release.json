@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "renewability",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,32 +19,25 @@
       ],
       "description": "Support MCDR 2.x.\r\n\r\nConfig file moves from `config/RenewabilityConfig.json` to `config/renewability/config.json`.\r\n\r\nData file moves from `plugin/Renewability/RenewabilityData.json` to `config/renewability/data.json`.",
       "prerelease": false,
-      "parsed_version": "1.1.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "renewability",
-      "name": "Renewability",
-      "version": "1.1.0",
-      "repository": "https://github.com/Fidelxyz/MCDR-Renewability",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fidel Yin"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-alpha.1",
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin that allows players to clone non-renewable items"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "renewability",
+        "name": "Renewability",
+        "version": "1.1.0",
+        "repository": "https://github.com/Fidelxyz/MCDR-Renewability",
+        "authors": [
+          "Fidel Yin"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin that allows players to clone non-renewable items"
+        }
       }
     }
-  }
+  ]
 }

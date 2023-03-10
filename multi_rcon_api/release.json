@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "multi_rcon_api",
   "latest_version": "2.0.1",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "Minor bug fixes\r\n- init instance in new thread\r\n- fix errors when use server port in config\r\n- add test scripts\r\n- ...",
       "prerelease": false,
-      "parsed_version": "2.0.1"
+      "parsed_version": "2.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "multi_rcon_api",
+        "name": "MultiRconAPI",
+        "version": "2.0.1",
+        "repository": "https://github.com/FAS-Server/MultiRconAPI",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.2"
+        ],
+        "description": {
+          "en_us": "An api to make it easier to control group server by rcon.",
+          "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+        }
+      }
     },
     {
       "url": "https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0",
@@ -37,7 +57,27 @@
       ],
       "description": "**Config format has changed, please be aware!**\r\n**配置文件格式发生了变化, 请注意!**\r\n\r\n- Standalone server data file, so you can edit one place and changes everything\r\n- 独立的服务器数据文件, 从而可以一处编辑, 处处有效\r\n\r\n**Full Changelog**: https://github.com/FAS-Server/MultiRconAPI/compare/1.2.0...v2.0.0",
       "prerelease": false,
-      "parsed_version": "2.0.0"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "multi_rcon_api",
+        "name": "MultiRconAPI",
+        "version": "2.0.0",
+        "repository": "https://github.com/FAS-Server/MultiRconAPI",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.2"
+        ],
+        "description": {
+          "en_us": "An api to make it easier to control group server by rcon.",
+          "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+        }
+      }
     },
     {
       "url": "https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0",
@@ -55,85 +95,25 @@
       ],
       "description": "The vary first Release!",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v2.0.1": {
-      "schema_version": 1,
-      "id": "multi_rcon_api",
-      "name": "MultiRconAPI",
-      "version": "2.0.1",
-      "repository": "https://github.com/FAS-Server/MultiRconAPI",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "api"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.1.2"
-      ],
-      "description": {
-        "en_us": "An api to make it easier to control group server by rcon.",
-        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
-      }
-    },
-    "v2.0.0": {
-      "schema_version": 1,
-      "id": "multi_rcon_api",
-      "name": "MultiRconAPI",
-      "version": "2.0.0",
-      "repository": "https://github.com/FAS-Server/MultiRconAPI",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "api"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.1.2"
-      ],
-      "description": {
-        "en_us": "An api to make it easier to control group server by rcon.",
-        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "multi_rcon_api",
-      "name": "MultiRconAPI",
-      "version": "1.0.0",
-      "repository": "https://github.com/FAS-Server/MultiRconAPI",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "api"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "An api to make it easier to control group server by rcon.",
-        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "multi_rcon_api",
+        "name": "MultiRconAPI",
+        "version": "1.0.0",
+        "repository": "https://github.com/FAS-Server/MultiRconAPI",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "An api to make it easier to control group server by rcon.",
+          "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+        }
       }
     }
-  }
+  ]
 }

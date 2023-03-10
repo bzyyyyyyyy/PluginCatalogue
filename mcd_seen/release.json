@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "mcd_seen",
   "latest_version": "1.2.1",
   "releases": [
@@ -19,7 +19,29 @@
       ],
       "description": "This release is all the same as `1.2.1-alpha.1`, so there's no nessesity to update from it.\r\n\r\n# Bug fixes\r\n\r\nFixed a problem that causes command `!!liver-top` can't be correctly reponded.\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Seen/compare/1.2.0...1.2.1",
       "prerelease": false,
-      "parsed_version": "1.2.1"
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_seen",
+        "name": "Seen",
+        "version": "1.2.1",
+        "repository": "https://github.com/TISUnion/Seen",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b12",
+          "parse"
+        ],
+        "description": {
+          "en_us": "Show laziness rank easily"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Seen/releases/tag/1.2.0",
@@ -37,7 +59,29 @@
       ],
       "description": "# Features\r\n\r\n1. Added `!!seen reload` to reload this plugin quickly\r\n2. Supported MCDR language preference\r\n\r\n# Fixes\r\n\r\n1. Fixed compatibility with MCDReforged 2.6+\r\n2. Fixed some text issue in lazyness rank\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Seen/compare/1.1.0...1.2.0",
       "prerelease": false,
-      "parsed_version": "1.2.0"
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_seen",
+        "name": "Seen",
+        "version": "1.2.0",
+        "repository": "https://github.com/TISUnion/Seen",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b12",
+          "parse"
+        ],
+        "description": {
+          "en_us": "Show laziness rank easily"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.0",
@@ -55,90 +99,29 @@
       ],
       "description": "The same as 1.1.0-pre1, if any problem found, just remind me in the issues",
       "prerelease": false,
-      "parsed_version": "1.1.0"
-    }
-  ],
-  "release_meta": {
-    "1.2.1": {
-      "schema_version": 1,
-      "id": "mcd_seen",
-      "name": "Seen",
-      "version": "1.2.1",
-      "repository": "https://github.com/TISUnion/Seen",
-      "branch": "MCDR",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b12",
-        "parse"
-      ],
-      "description": {
-        "en_us": "Show laziness rank easily"
-      }
-    },
-    "1.2.0": {
-      "schema_version": 1,
-      "id": "mcd_seen",
-      "name": "Seen",
-      "version": "1.2.0",
-      "repository": "https://github.com/TISUnion/Seen",
-      "branch": "MCDR",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b12",
-        "parse"
-      ],
-      "description": {
-        "en_us": "Show laziness rank easily"
-      }
-    },
-    "1.1.0": {
-      "schema_version": 1,
-      "id": "mcd_seen",
-      "name": "Seen",
-      "version": "1.1.0-pre.1",
-      "repository": "https://github.com/TISUnion/Seen",
-      "branch": "MCDR",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.12"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b12",
-        "parse"
-      ],
-      "description": {
-        "en_us": "Show laziness rank easily"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_seen",
+        "name": "Seen",
+        "version": "1.1.0-pre.1",
+        "repository": "https://github.com/TISUnion/Seen",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.12"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b12",
+          "parse"
+        ],
+        "description": {
+          "en_us": "Show laziness rank easily"
+        }
       }
     }
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "the_offline_ops",
   "latest_version": "1.1",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "1. IP records is now in a list ---> _list()_, that means you can log in server with different IPs in different cases.\r\n2. Fix some logical mistakes.\r\n3. Add multi-ip command, use this to append IP.\r\n4. Update README and introduction files.\r\n\r\nreleased in 2/3/2023",
       "prerelease": false,
-      "parsed_version": "1.1"
+      "parsed_version": "1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "the_offline_ops",
+        "name": "The Offline ops",
+        "version": "1.1",
+        "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+        "authors": [
+          "ltBerryshdo"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Check the player's IP to prevent impersonation of logging into the offline server",
+          "zh_cn": "检测玩家IP以防止冒名登陆离线服务器"
+        }
+      }
     },
     {
       "url": "https://github.com/ltBerryshdo/the_offline_ops/releases/tag/v1.0",
@@ -37,55 +55,25 @@
       ],
       "description": "version 1.0\r\nreleased in 1/20/2023",
       "prerelease": false,
-      "parsed_version": "1.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1": {
-      "schema_version": 1,
-      "id": "the_offline_ops",
-      "name": "The Offline ops",
-      "version": "1.1",
-      "repository": "https://github.com/ltBerryshdo/the_offline_ops",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "ltBerryshdo"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.6.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Check the player's IP to prevent impersonation of logging into the offline server",
-        "zh_cn": "检测玩家IP以防止冒名登陆离线服务器"
-      }
-    },
-    "v1.0": {
-      "schema_version": 1,
-      "id": "the_offline_ops",
-      "name": "The Offline ops",
-      "version": "1.0",
-      "repository": "https://github.com/ltBerryshdo/the_offline_ops",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "ltBerryshdo"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.6.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Provides a method to protect admin and normal player's account in game server, which 'online-mode' is 'false'",
-        "zh_cn": "为未开启在线模式（正版验证）的服务器提供了管理员和普通玩家账号保护的一种方法"
+      "parsed_version": "1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "the_offline_ops",
+        "name": "The Offline ops",
+        "version": "1.0",
+        "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+        "authors": [
+          "ltBerryshdo"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Provides a method to protect admin and normal player's account in game server, which 'online-mode' is 'false'",
+          "zh_cn": "为未开启在线模式（正版验证）的服务器提供了管理员和普通玩家账号保护的一种方法"
+        }
       }
     }
-  }
+  ]
 }

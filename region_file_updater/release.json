@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "region_file_updater",
   "latest_version": "1.5.2",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "- Added poi folders to default config (#3)\r\n- Now during regioin file sync, if source file doesn't exist, the destination file will be deleted to keep syncing",
       "prerelease": false,
-      "parsed_version": "1.5.2"
+      "parsed_version": "1.5.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "region_file_updater",
+        "name": "Region file Updater",
+        "version": "1.5.2",
+        "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR plugin to help you update region files in game",
+          "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.1",
@@ -37,7 +55,25 @@
       ],
       "description": "- Fixed silly `SyntaxError` at loading",
       "prerelease": false,
-      "parsed_version": "1.5.1"
+      "parsed_version": "1.5.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "region_file_updater",
+        "name": "Region file Updater",
+        "version": "1.5.0",
+        "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR plugin to help you update region files in game",
+          "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0",
@@ -55,7 +91,25 @@
       ],
       "description": "- Add support for multi folder per region due to MC 1.17 change (#1)\r\n",
       "prerelease": false,
-      "parsed_version": "1.5.0"
+      "parsed_version": "1.5.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "region_file_updater",
+        "name": "Region file Updater",
+        "version": "1.5.0",
+        "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR plugin to help you update region files in game",
+          "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.4.1",
@@ -73,101 +127,25 @@
       ],
       "description": "For MCDR 2.0",
       "prerelease": false,
-      "parsed_version": "1.4.1"
-    }
-  ],
-  "release_meta": {
-    "v1.5.2": {
-      "schema_version": 1,
-      "id": "region_file_updater",
-      "name": "Region file Updater",
-      "version": "1.5.2",
-      "repository": "https://github.com/TISUnion/RegionFileUpdater",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A MCDR plugin to help you update region files in game",
-        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
-      }
-    },
-    "v1.5.1": {
-      "schema_version": 1,
-      "id": "region_file_updater",
-      "name": "Region file Updater",
-      "version": "1.5.0",
-      "repository": "https://github.com/TISUnion/RegionFileUpdater",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A MCDR plugin to help you update region files in game",
-        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
-      }
-    },
-    "v1.5.0": {
-      "schema_version": 1,
-      "id": "region_file_updater",
-      "name": "Region file Updater",
-      "version": "1.5.0",
-      "repository": "https://github.com/TISUnion/RegionFileUpdater",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A MCDR plugin to help you update region files in game",
-        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
-      }
-    },
-    "v1.4.1": {
-      "schema_version": 1,
-      "id": "region_file_updater",
-      "name": "Region file Updater",
-      "version": "1.4.1",
-      "repository": "https://github.com/TISUnion/RegionFileUpdater",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A MCDR plugin to help you update region files in game",
-        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      "parsed_version": "1.4.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "region_file_updater",
+        "name": "Region file Updater",
+        "version": "1.4.1",
+        "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR plugin to help you update region files in game",
+          "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+        }
       }
     }
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "jrrp",
   "latest_version": "3.0.0",
   "releases": [
@@ -19,34 +19,27 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "3.0.0"
-    }
-  ],
-  "release_meta": {
-    "3.0.0": {
-      "schema_version": 1,
-      "id": "jrrp",
-      "name": "Jrrp",
-      "version": "3.0.0",
-      "repository": "https://github.com/HuajiMURsMC/jrrp",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Huaji_MUR233"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.4",
-        "mc_uuid": ">=1.0.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.1.4"
-      ],
-      "description": {
-        "en_us": "《今日人品》"
+      "parsed_version": "3.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "jrrp",
+        "name": "Jrrp",
+        "version": "3.0.0",
+        "repository": "https://github.com/HuajiMURsMC/jrrp",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.4",
+          "mc_uuid": ">=1.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.4"
+        ],
+        "description": {
+          "en_us": "《今日人品》"
+        }
       }
     }
-  }
+  ]
 }

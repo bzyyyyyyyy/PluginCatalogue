@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "location_marker",
   "latest_version": "1.3.1",
   "releases": [
@@ -19,34 +19,27 @@
       ],
       "description": "MCDR 2.0!",
       "prerelease": false,
-      "parsed_version": "1.3.1"
-    }
-  ],
-  "release_meta": {
-    "v1.3.1": {
-      "schema_version": 1,
-      "id": "location_marker",
-      "name": "Location Marker",
-      "version": "1.3.1",
-      "repository": "https://github.com/TISUnion/LocationMarker",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "Van_Involution"
-      ],
-      "dependencies": {
-        "minecraft_data_api": "*",
-        "mcdreforged": ">=2.0.0-beta.12"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A server side waypoint manager",
-        "zh_cn": "一个服务端共享路标点管理器"
+      "parsed_version": "1.3.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "location_marker",
+        "name": "Location Marker",
+        "version": "1.3.1",
+        "repository": "https://github.com/TISUnion/LocationMarker",
+        "authors": [
+          "Fallen_Breath",
+          "Van_Involution"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*",
+          "mcdreforged": ">=2.0.0-beta.12"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A server side waypoint manager",
+          "zh_cn": "一个服务端共享路标点管理器"
+        }
       }
     }
-  }
+  ]
 }

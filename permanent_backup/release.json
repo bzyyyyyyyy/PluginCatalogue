@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "permanent_backup",
   "latest_version": "1.0.3",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "yeets unnecessary configs",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "permanent_backup",
+        "name": "Permanent Backup",
+        "version": "1.0.3",
+        "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin for creating permanent zip world backups",
+          "zh_cn": "创建永久的用 zip 压缩的备份"
+        }
+      }
     },
     {
       "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2",
@@ -37,7 +55,25 @@
       ],
       "description": "Fixed #1: backup failed with no comment input",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "permanent_backup",
+        "name": "Permanent Backup",
+        "version": "1.0.2",
+        "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin for creating permanent zip world backups",
+          "zh_cn": "创建永久的用 zip 压缩的备份"
+        }
+      }
     },
     {
       "url": "https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1",
@@ -55,78 +91,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.0.1"
-    }
-  ],
-  "release_meta": {
-    "v1.0.3": {
-      "schema_version": 1,
-      "id": "permanent_backup",
-      "name": "Permanent Backup",
-      "version": "1.0.3",
-      "repository": "https://github.com/MCDReforged/PermanentBackup",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin for creating permanent zip world backups",
-        "zh_cn": "创建永久的用 zip 压缩的备份"
-      }
-    },
-    "v1.0.2": {
-      "schema_version": 1,
-      "id": "permanent_backup",
-      "name": "Permanent Backup",
-      "version": "1.0.2",
-      "repository": "https://github.com/MCDReforged/PermanentBackup",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin for creating permanent zip world backups",
-        "zh_cn": "创建永久的用 zip 压缩的备份"
-      }
-    },
-    "v1.0.1": {
-      "schema_version": 1,
-      "id": "permanent_backup",
-      "name": "Permanent Backup",
-      "version": "1.0.1",
-      "repository": "https://github.com/MCDReforged/PermanentBackup",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin for creating permanent zip world backups",
-        "zh_cn": "创建永久的用 zip 压缩的备份"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "permanent_backup",
+        "name": "Permanent Backup",
+        "version": "1.0.1",
+        "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin for creating permanent zip world backups",
+          "zh_cn": "创建永久的用 zip 压缩的备份"
+        }
       }
     }
-  }
+  ]
 }

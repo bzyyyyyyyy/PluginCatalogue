@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "mount",
   "latest_version": "0.2.0",
   "releases": [
@@ -19,7 +19,29 @@
       ],
       "description": "## Fix\r\n- fixed error using of new_thread\r\n\r\n## Chore\r\n- code refactor\r\n- detailed docs for configuration\r\n\r\n**Full Changelog**: https://github.com/FAS-Server/Mount/compare/v0.1.0-beta1...v0.2.0",
       "prerelease": false,
-      "parsed_version": "0.2.0"
+      "parsed_version": "0.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.2.0",
+        "repository": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "pyyaml",
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
+      }
     },
     {
       "url": "https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1",
@@ -37,63 +59,29 @@
       ],
       "description": "**The very beginning!**",
       "prerelease": false,
-      "parsed_version": "0.1.0-beta1"
-    }
-  ],
-  "release_meta": {
-    "v0.2.0": {
-      "schema_version": 1,
-      "id": "mount",
-      "name": "Mount",
-      "version": "0.2.0",
-      "repository": "https://github.com/FAS-Server/Mount",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "pyyaml",
-        "jproperties",
-        "mcdreforged"
-      ],
-      "description": {
-        "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
-        "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
-      }
-    },
-    "v0.1.0-beta1": {
-      "schema_version": 1,
-      "id": "mount",
-      "name": "Mount",
-      "version": "0.1.0-beta1",
-      "repository": "https://github.com/FAS-Server/Mount",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "pyyaml",
-        "jproperties",
-        "mcdreforged"
-      ],
-      "description": {
-        "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
-        "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+      "parsed_version": "0.1.0-beta1",
+      "meta": {
+        "schema_version": 2,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.1.0-beta1",
+        "repository": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "pyyaml",
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
       }
     }
-  }
+  ]
 }

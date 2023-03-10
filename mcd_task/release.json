@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "mcd_task",
   "latest_version": "2.3.5",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "# Fix\r\n\r\n(Windows only) Fixed a problem that cause fail loading `Task` twice in the same MCDReforged instance",
       "prerelease": false,
-      "parsed_version": "2.3.5"
+      "parsed_version": "2.3.5",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.5+build.67",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.4",
@@ -37,7 +57,27 @@
       ],
       "description": "Fixed exception on player joined again (xD)",
       "prerelease": false,
-      "parsed_version": "2.3.4"
+      "parsed_version": "2.3.4",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.4+build.66",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.3",
@@ -55,7 +95,27 @@
       ],
       "description": "1. Fixed compatibility with MCDReforged 2.6+, this will also make Task log to be moved to `config/task/logs` and will be packed like MCDR logs. \r\n2. Fixed exception thrown when players with tasks join the server\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.3.2...2.3.3",
       "prerelease": false,
-      "parsed_version": "2.3.3"
+      "parsed_version": "2.3.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.3+build.65",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.2",
@@ -73,7 +133,27 @@
       ],
       "description": "Fixed renamed player data inherit error\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.3.1...2.3.2",
       "prerelease": false,
-      "parsed_version": "2.3.2"
+      "parsed_version": "2.3.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.2+build.64",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.1",
@@ -91,7 +171,27 @@
       ],
       "description": "fixed file auto generation failure\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.3.0...2.3.1",
       "prerelease": false,
-      "parsed_version": "2.3.1"
+      "parsed_version": "2.3.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.1+build.63",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.0",
@@ -109,7 +209,27 @@
       ],
       "description": "1. Color scheme has been changed, now titles of tasks marked as done will be displayed in light gray instead of dark gray, and descriptions are dark green instead of light green (in help message) / light gray (in task detail).\r\n\r\n2. Command `!!task list-done` has been removed, and tasks marked as done will be just displayed in `!!task list` view.\r\n\r\n3. Now marking father task as done will make all its sub-tasks be treated as done (you can still see if this node is marked as done).\r\n\r\n4. Now you can use `!!task deadline <titles> clear` to remove the task deadline, and `!!task unres <titles> -all` to remove all its responsibles.\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.2.0...2.3.0",
       "prerelease": false,
-      "parsed_version": "2.3.0"
+      "parsed_version": "2.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.0+build.62",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.2.0",
@@ -127,7 +247,26 @@
       ],
       "description": "# News\r\n\r\n1. Task overview\r\n   Now you can see a new task overview page when `!!task` is directly called, which could help every players to find the most important or emergency tasks. Only the tasks with approaching deadlines or just was marked as a **high priority task** (This will be introduced below) will be displayed here. And the length of this list will be limited to avoid the text is too long to be display in vanilla Minecraft clients. You can still call `!!task list` to access the old task list view.\r\n\r\n  New relative configuration options:\r\n\r\n| Option name                           | Type   | Default Value | What's this                                                  |\r\n| ------------------------------------- | ------ | ------------- | ------------------------------------------------------------ |\r\n| `default_overview_instead_of_list`    | `bool` | `true`        | If you prefer old task list view as `!!task` command behavior, just set this to `false` to call it back |\r\n| `overview_deadline_warning_threshold` | `int`  | `1`           | This value will control how close the deadline is could make the task appears in task overview page. |\r\n| `overview_maximum_task_amount`        | `int`  | `10`          | Task amount in task overview is limited, you can change this value to make more tasks with priority or deadline to be displayed. |\r\n\r\n2. Priority\r\n\r\n   This is a new attribute of all the tasks, which only accept integers or `None`. Default to `None`. When the amount of tasks with deadline is insufficient for the task overview, in other words, the amount of tasks with deadline is less than the value of `overview_maximum_task_amount` option, these blank will be filled with tasks with priorities until reach the overview limit mentioned above. Setting a suitable priority could make it more simple to find the important tasks for players.\r\n\r\n# Changes\r\n\r\n1. New task detail view to make all the attributes to be displayed. `!!task list-res[ponsibles]` is removed because reponsibles can be queried in detail view.\r\n2. Changed `!!task detail-all` command to `!!task list-all` and make `list-all` view no longer display all the attributes to make the text more suitable to display (although sometime it will still be to long for vanilla client to display XD)\r\n3. Now task and config will both use `Serializable` to check the type, incorrect type in task storage file may raise exceptions on plugin load.\r\n4. Now delete task command could be any in `!!task rm/remove/del/delete <task_title>` \r\n5. Massive other text-based user interface change\r\n\r\n# Fixes\r\n\r\n​    Minor i18n text and TUI fixes",
       "prerelease": false,
-      "parsed_version": "2.2.0"
+      "parsed_version": "2.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.2.0",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.1.0",
@@ -145,7 +284,26 @@
       ],
       "description": "# Main Contents\r\n1. Language preference supported\r\n2. Bump MCDR version requirement to 2.1.0\r\n# Bug Fixes\r\n1. Fixed error log in console when a player, who changed nickname and has no task binded, enter the server\r\n2. Fixed a bug that causes permission error can't be reply to the player",
       "prerelease": false,
-      "parsed_version": "2.1.0"
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.1.0",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.0.1",
@@ -163,7 +321,26 @@
       ],
       "description": "fixed the issue that help message won't be display on `!!task help` called",
       "prerelease": false,
-      "parsed_version": "2.0.1"
+      "parsed_version": "2.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.0.1",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.0.0",
@@ -181,255 +358,26 @@
       ],
       "description": "1. Totally rebuilt, now requires MCDR 2.0 instead of stext\r\n2. You can add responsibles and set deadline for tasks now \r\n3. Fixed some known issue",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "2.3.5": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.5+build.67",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.3.4": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.4+build.66",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.3.3": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.3+build.65",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.3.2": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.2+build.64",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.3.1": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.1+build.63",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.3.0": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.3.0+build.62",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress",
-        "zh_cn": "用于展示进行中的工程任务的插件"
-      }
-    },
-    "2.2.0": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.2.0",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress"
-      }
-    },
-    "2.1.0": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.1.0",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress"
-      }
-    },
-    "2.0.1": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.0.1",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress"
-      }
-    },
-    "2.0.0": {
-      "schema_version": 1,
-      "id": "mcd_task",
-      "name": "Task",
-      "version": "2.0.0",
-      "repository": "https://github.com/TISUnion/Task",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Pandaria",
-        "Fallen_Breath",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin to show tasks of project in progress"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.0.0",
+        "repository": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Fallen_Breath",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
       }
     }
-  }
+  ]
 }

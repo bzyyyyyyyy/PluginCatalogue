@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "gamemode",
   "latest_version": "1.0.0",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "## [1.0.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/gamemode-v0.1.0...gamemode-v1.0.0) (2022-12-02)\n\n\n### Bug Fixes\n\n* **gamemode:** 🐛 fix load_config_simple as MCDR api changed (fix [#68](https://github.com/AnzhiZhang/MCDReforgedPlugins/issues/68)) ([2dd500e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/2dd500edf5978cff513e2aa5c638276f7e2963cb))\n\n\n### Miscellaneous Chores\n\n* **gamemode:** 🔖 1.0.0 ([1369ad8](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/1369ad83260f3b5a99ab1a5ada387f5f7042e755))",
       "prerelease": false,
-      "parsed_version": "1.0.0"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "gamemode",
+        "name": "Gamemode",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "minecraft_data_api": ">=1.4"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Change to spectator mode for observe, teleport to origin position when change back to survival mode",
+          "zh_cn": "旁观者模式以旁观，返回生存时传送回原坐标"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0",
@@ -37,55 +55,25 @@
       ],
       "description": "## 0.1.0 (2022-06-30)\n\n\n### Features\n\n* **gamemode:** ✨ support MCDR 2.0 ([d999f4a](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/d999f4aa3ea606dd26c98643f18ed5cf47d64664))",
       "prerelease": false,
-      "parsed_version": "0.1.0"
-    }
-  ],
-  "release_meta": {
-    "gamemode-v1.0.0": {
-      "schema_version": 1,
-      "id": "gamemode",
-      "name": "Gamemode",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "gamemode",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "minecraft_data_api": ">=1.4"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Change to spectator mode for observe, teleport to origin position when change back to survival mode",
-        "zh_cn": "旁观者模式以旁观，返回生存时传送回原坐标"
-      }
-    },
-    "gamemode-v0.1.0": {
-      "schema_version": 1,
-      "id": "gamemode",
-      "name": "Gamemode",
-      "version": "0.1.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "gamemode",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "minecraft_data_api": ">=1.4.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Change to spectator mode for observe, teleport to origin position when change back to survival mode",
-        "zh_cn": "旁观者模式以旁观，返回生存时传送回原坐标"
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "gamemode",
+        "name": "Gamemode",
+        "version": "0.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "minecraft_data_api": ">=1.4.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Change to spectator mode for observe, teleport to origin position when change back to survival mode",
+          "zh_cn": "旁观者模式以旁观，返回生存时传送回原坐标"
+        }
       }
     }
-  }
+  ]
 }

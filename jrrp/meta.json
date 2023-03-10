@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "jrrp",
   "name": "Jrrp",
   "version": "3.0.0",
   "repository": "https://github.com/HuajiMURsMC/jrrp",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "Huaji_MUR233"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "info",
   "latest_version": "0.2.0",
   "releases": [
@@ -19,7 +19,26 @@
       ],
       "description": "## [0.2.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/info-v0.1.0...info-v0.2.0) (2023-02-22)\n\n\n### Features\n\n* **info:** ✨ add cpu brand info ([77092cf](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/77092cf24a442dec8487d259c798bf8b43b10a39))",
       "prerelease": false,
-      "parsed_version": "0.2.0"
+      "parsed_version": "0.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "info",
+        "name": "Info",
+        "version": "0.2.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "psutil",
+          "py-cpuinfo"
+        ],
+        "description": {
+          "en_us": "Get server info",
+          "zh_cn": "获取服务器信息"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0",
@@ -37,56 +56,25 @@
       ],
       "description": "## [0.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/info-v0.0.2...info-v0.1.0) (2022-06-30)\n\n\n### Features\n\n* **info:** ✨ use rtr instead of tr for multilang ([1d052aa](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/1d052aab180eae647534f31cc4762e8e44735f82))",
       "prerelease": false,
-      "parsed_version": "0.1.0"
-    }
-  ],
-  "release_meta": {
-    "info-v0.2.0": {
-      "schema_version": 1,
-      "id": "info",
-      "name": "Info",
-      "version": "0.2.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "info",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "psutil",
-        "py-cpuinfo"
-      ],
-      "description": {
-        "en_us": "Get server info",
-        "zh_cn": "获取服务器信息"
-      }
-    },
-    "info-v0.1.0": {
-      "schema_version": 1,
-      "id": "info",
-      "name": "Info",
-      "version": "0.1.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "info",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "psutil"
-      ],
-      "description": {
-        "en_us": "Get server info",
-        "zh_cn": "获取服务器信息"
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "info",
+        "name": "Info",
+        "version": "0.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "psutil"
+        ],
+        "description": {
+          "en_us": "Get server info",
+          "zh_cn": "获取服务器信息"
+        }
       }
     }
-  }
+  ]
 }

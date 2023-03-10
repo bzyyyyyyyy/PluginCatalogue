@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "carpetbotlist",
   "latest_version": "2.1.1",
   "releases": [
@@ -19,7 +19,26 @@
       ],
       "description": "- 在 `on_player_info` 中对bot加入信息进行解析",
       "prerelease": false,
-      "parsed_version": "2.1.1"
+      "parsed_version": "2.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.1",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      }
     },
     {
       "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0",
@@ -37,7 +56,26 @@
       ],
       "description": "- 修复 `Carpet Mod` 指令 `/player xxx shadow` 导致的假人统计异常  \r\n- 使用指令树构建指令  \r\n- 扬了多余的logger",
       "prerelease": false,
-      "parsed_version": "2.1.0"
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      }
     },
     {
       "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0",
@@ -55,80 +93,25 @@
       ],
       "description": "- 适配 `MCDR-2.x`",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "v2.1.1": {
-      "schema_version": 1,
-      "id": "carpetbotlist",
-      "name": "CarpetBotList",
-      "version": "2.1.1",
-      "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
-      "branch": "MCDR-2.x",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "ZeroKelvin"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.0.0-beta.1",
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Help you manage your carpet fake player",
-        "zh_cn": "帮助你管理地毯端假人"
-      }
-    },
-    "v2.1.0": {
-      "schema_version": 1,
-      "id": "carpetbotlist",
-      "name": "CarpetBotList",
-      "version": "2.1.0",
-      "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
-      "branch": "MCDR-2.x",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "ZeroKelvin"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.0.0-beta.1",
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Help you manage your carpet fake player",
-        "zh_cn": "帮助你管理地毯端假人"
-      }
-    },
-    "v2.0.0": {
-      "schema_version": 1,
-      "id": "carpetbotlist",
-      "name": "CarpetBotList",
-      "version": "2.0.0",
-      "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
-      "branch": "MCDR-2.x",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "ZeroKelvin"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.0.0-beta.1",
-        "minecraft_data_api": "*"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Help you manage your carpet fake player"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.0.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player"
+        }
       }
     }
-  }
+  ]
 }

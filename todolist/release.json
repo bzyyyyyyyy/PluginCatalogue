@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "todolist",
   "latest_version": "1.0.3",
   "releases": [
@@ -19,7 +19,23 @@
       ],
       "description": "更新了add功能，现在描述和进度参数改为可选；\r\n更新了部分UI，现在为空的参数不会显示；\r\n重构了部分代码\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.2...todolist-v1.0.3",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.4",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
     },
     {
       "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.2",
@@ -37,7 +53,23 @@
       ],
       "description": "**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.1...todolist-v1.0.2",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.2",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
     },
     {
       "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.1",
@@ -55,7 +87,23 @@
       ],
       "description": "todolist-v1.0.1\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.0...todolist-v1.0.1",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.1",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
     },
     {
       "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.0",
@@ -73,97 +121,23 @@
       ],
       "description": "todolist-v1.0.0\r\n\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/commits/todolist-v1.0.0",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "todolist-v1.0.3": {
-      "schema_version": 1,
-      "id": "todolist",
-      "name": "ToDoList",
-      "version": "1.0.4",
-      "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "ToDoList",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Flash-Z"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "ToDoList",
-        "zh_cn": "ToDoList，待办清单"
-      }
-    },
-    "todolist-v1.0.2": {
-      "schema_version": 1,
-      "id": "todolist",
-      "name": "ToDoList",
-      "version": "1.0.2",
-      "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "ToDoList",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Flash-Z"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "ToDoList",
-        "zh_cn": "ToDoList，待办清单"
-      }
-    },
-    "todolist-v1.0.1": {
-      "schema_version": 1,
-      "id": "todolist",
-      "name": "ToDoList",
-      "version": "1.0.1",
-      "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "ToDoList",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Flash-Z"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "ToDoList",
-        "zh_cn": "ToDoList，待办清单"
-      }
-    },
-    "todolist-v1.0.0": {
-      "schema_version": 1,
-      "id": "todolist",
-      "name": "ToDoList",
-      "version": "1.0.0",
-      "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "ToDoList",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Flash-Z"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "ToDoList",
-        "zh_cn": "ToDoList，待办清单"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.0",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
       }
     }
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "simple_test",
   "latest_version": "3.0.0",
   "releases": [
@@ -19,35 +19,28 @@
       ],
       "description": "UPDATE version to support [MCDR2.0](https://github.com/Fallen-Breath/MCDReforged)\r\nBUGFIX\r\nChange license to LGPL",
       "prerelease": false,
-      "parsed_version": "3.0.0"
-    }
-  ],
-  "release_meta": {
-    "v3.0.0": {
-      "schema_version": 1,
-      "id": "simple_test",
-      "name": "simple_test",
-      "version": "3.0.0",
-      "repository": "https://github.com/R1ckyH/simple_test",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Ricky"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "javaproperties",
-        "mcdreforged"
-      ],
-      "description": {
-        "en_us": "testing basic server problem.",
-        "zh_cn": "服务器基础自检插件。"
+      "parsed_version": "3.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "simple_test",
+        "name": "simple_test",
+        "version": "3.0.0",
+        "repository": "https://github.com/R1ckyH/simple_test",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "javaproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "testing basic server problem.",
+          "zh_cn": "服务器基础自检插件。"
+        }
       }
     }
-  }
+  ]
 }

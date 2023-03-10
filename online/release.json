@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "online",
   "latest_version": "1.4.0",
   "releases": [
@@ -19,7 +19,28 @@
       ],
       "description": "- add Multi-language support & add `en_us` language file \n",
       "prerelease": false,
-      "parsed_version": "1.4.0"
+      "parsed_version": "1.4.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "online",
+        "name": "Online",
+        "version": "1.4.0",
+        "repository": "https://github.com/FAS-Server/Online",
+        "authors": [
+          "A-JiuA",
+          "Nineking",
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3",
+          "multi_rcon_api": ">=1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
+          "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
+        }
+      }
     },
     {
       "url": "https://github.com/FAS-Server/Online/releases/tag/v1.3.0",
@@ -37,7 +58,28 @@
       ],
       "description": "- Use `MultiRconAPI` for rcon query﻿\n",
       "prerelease": false,
-      "parsed_version": "1.3.0"
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "online",
+        "name": "Online",
+        "version": "1.3.0",
+        "repository": "https://github.com/FAS-Server/Online",
+        "authors": [
+          "A-JiuA",
+          "Nineking",
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3",
+          "multi_rcon_api": ">=1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
+          "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
+        }
+      }
     },
     {
       "url": "https://github.com/FAS-Server/Online/releases/tag/v1.2.0",
@@ -55,83 +97,24 @@
       ],
       "description": "Update for mcdr 2.x",
       "prerelease": false,
-      "parsed_version": "1.2.0"
-    }
-  ],
-  "release_meta": {
-    "v1.4.0": {
-      "schema_version": 1,
-      "id": "online",
-      "name": "Online",
-      "version": "1.4.0",
-      "repository": "https://github.com/FAS-Server/Online",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "A-JiuA",
-        "Nineking",
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3",
-        "multi_rcon_api": ">=1.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
-        "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "online",
+        "name": "online",
+        "version": "1.2.0",
+        "repository": "https://github.com/FAS-Server/Online",
+        "authors": [
+          "A-JiuA",
+          "Nineking",
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {}
       }
-    },
-    "v1.3.0": {
-      "schema_version": 1,
-      "id": "online",
-      "name": "Online",
-      "version": "1.3.0",
-      "repository": "https://github.com/FAS-Server/Online",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "A-JiuA",
-        "Nineking",
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.3",
-        "multi_rcon_api": ">=1.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Display the online players for Group server, with click event to quickly join every sub-server.",
-        "zh_cn": "为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服"
-      }
-    },
-    "v1.2.0": {
-      "schema_version": 1,
-      "id": "online",
-      "name": "online",
-      "version": "1.2.0",
-      "repository": "https://github.com/FAS-Server/Online",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "A-JiuA",
-        "Nineking",
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {}
     }
-  }
+  ]
 }

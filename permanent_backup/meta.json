@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "permanent_backup",
   "name": "Permanent Backup",
   "version": "1.0.3",
   "repository": "https://github.com/MCDReforged/PermanentBackup",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "management"
-  ],
   "authors": [
     "Fallen_Breath"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "daytime",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,32 +19,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.1.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "daytime",
-      "name": "Daytime",
-      "version": "1.1.0",
-      "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
-      "branch": "MCDR-2.x",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "ZeroKelvin"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.0.0-beta.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "show time in minecraft",
-        "zh_cn": "显示游戏中的时间"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "daytime",
+        "name": "Daytime",
+        "version": "1.1.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "show time in minecraft",
+          "zh_cn": "显示游戏中的时间"
+        }
       }
     }
-  }
+  ]
 }

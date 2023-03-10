@@ -1,15 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "qq_chat",
   "name": "QQChat",
   "version": "1.0.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-  "branch": "master",
-  "related_path": "qq_chat",
-  "labels": [
-    "information",
-    "management"
-  ],
   "authors": [
     "Andy Zhang"
   ],

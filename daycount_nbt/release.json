@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "daycount_nbt",
   "latest_version": "2.2.1",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "## :rocket: 新特性！\r\n- **自定义命令**：现在，你可以自定义 daycount-NBT 的命令！\r\n\r\n## 🔧 改变\r\n- 使用 `str.format` 放置开服天数。**这意味着你需要将旧版本配置文件中的 `$day` 替换为 `{day}`**。\r\n\r\n## 📝 文档\r\n- 优化文档。\r\n\r\n## 🩹 修订版本\r\n### 2.2.1\r\n- **不再强制要求 nbtlib**：仅在 NBT 模式下要求 nbtlib 前置\r\n\r\n## 完整日志\r\nhttps://github.com/alex3236/daycount-NBT/compare/v2.1.1...v2.2.1",
       "prerelease": false,
-      "parsed_version": "2.2.1"
+      "parsed_version": "2.2.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.2.1",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1",
@@ -37,7 +55,27 @@
       ],
       "description": "## 🔨 问题修复\r\n- 适配新版 nbtlib",
       "prerelease": false,
-      "parsed_version": "2.1.1"
+      "parsed_version": "2.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.1",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib>=2.0.0"
+        ],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.1",
@@ -55,7 +93,27 @@
       ],
       "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题",
       "prerelease": false,
-      "parsed_version": "2.1"
+      "parsed_version": "2.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.0",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.2",
@@ -73,7 +131,27 @@
       ],
       "description": "## 🔨 问题修复\r\n- 修复配置文件路径问题",
       "prerelease": false,
-      "parsed_version": "2.0.2"
+      "parsed_version": "2.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.2",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.1",
@@ -91,7 +169,27 @@
       ],
       "description": "## 🔨 修复问题\r\n- 删除旧的 `PLUGIN_METADATA`\r\n- 修复一个定义错误",
       "prerelease": false,
-      "parsed_version": "2.0.1"
+      "parsed_version": "2.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.1",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.0",
@@ -109,163 +207,27 @@
       ],
       "description": "## 新特性 🚀🚀🚀\r\n- MCDR 2！",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "v2.2.1": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "DayCount NBT",
-      "version": "2.2.1",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": ":calendar: Get and export server opening times.",
-        "zh_cn": ":calendar: 获取和输出服务器开服时间。"
-      }
-    },
-    "v2.1.1": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "DayCount NBT",
-      "version": "2.1.1",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [
-        "nbtlib>=2.0.0"
-      ],
-      "description": {
-        "en_us": ":calendar: Get and export server opening times.",
-        "zh_cn": ":calendar: 获取和输出服务器开服时间。"
-      }
-    },
-    "v2.1": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "DayCount NBT",
-      "version": "2.1.0",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [
-        "nbtlib"
-      ],
-      "description": {
-        "en_us": "Get and export server opening times.",
-        "zh_cn": "获取和输出服务器开服时间。"
-      }
-    },
-    "v2.0.2": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "DayCount NBT",
-      "version": "2.0.2",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.1"
-      },
-      "requirements": [
-        "nbtlib"
-      ],
-      "description": {
-        "en_us": "Get and export server opening times.",
-        "zh_cn": "获取和输出服务器开服时间。"
-      }
-    },
-    "v2.0.1": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "DayCount NBT",
-      "version": "2.0.1",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.1"
-      },
-      "requirements": [
-        "nbtlib"
-      ],
-      "description": {
-        "en_us": "Get and export server opening times.",
-        "zh_cn": "获取和输出服务器开服时间。"
-      }
-    },
-    "v2.0.0": {
-      "schema_version": 1,
-      "id": "daycount_nbt",
-      "name": "joinMOTD++",
-      "version": "2.0.0",
-      "repository": "https://github.com/alex3236/daycount-NBT",
-      "branch": "main",
-      "related_path": "src",
-      "labels": [
-        "information",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.1"
-      },
-      "requirements": [
-        "nbtlib"
-      ],
-      "description": {
-        "en_us": "Get and export server opening times.",
-        "zh_cn": "获取和输出服务器开服时间。"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "daycount_nbt",
+        "name": "joinMOTD++",
+        "version": "2.0.0",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
       }
     }
-  }
+  ]
 }

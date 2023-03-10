@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "seed",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,7 +19,24 @@
       ],
       "description": "\r\n## What's Changed\r\n* 重构 by @alex3236 in https://github.com/OptiJava/Seed/pull/1\r\n\r\n## New Contributors\r\n* @alex3236 made their first contribution in https://github.com/OptiJava/Seed/pull/1\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.0.1...v1.1.0\r\n\r\n**_Thanks to @alex3236 for refactoring the code_**",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.1.0",
+        "repository": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed without op permission."
+        }
+      }
     },
     {
       "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.1",
@@ -37,7 +54,24 @@
       ],
       "description": "1.Add seed cache\r\n2.Use RText instead of tellraw\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.0.0...v1.0.1",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.1",
+        "repository": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
+      }
     },
     {
       "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.0",
@@ -55,75 +89,24 @@
       ],
       "description": "First release!\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/commits/v1.0.0",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "seed",
-      "name": "Seed",
-      "version": "1.1.0",
-      "repository": "https://github.com/OptiJava/Seed",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "OptiJava"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Get world seed without op permission."
-      }
-    },
-    "v1.0.1": {
-      "schema_version": 1,
-      "id": "seed",
-      "name": "Seed",
-      "version": "1.0.1",
-      "repository": "https://github.com/OptiJava/Seed",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "OptiJava"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Get world seed quickly!"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "seed",
-      "name": "Seed",
-      "version": "1.0.0",
-      "repository": "https://github.com/OptiJava/Seed",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "OptiJava"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Get world seed quickly!"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.0",
+        "repository": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
       }
     }
-  }
+  ]
 }

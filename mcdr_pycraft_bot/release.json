@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "mcdr_pycraft_bot",
   "latest_version": "1.2.0",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "Make the `gamemode` field in the config file optional",
       "prerelease": false,
-      "parsed_version": "1.2.0"
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcdr_pycraft_bot",
+        "name": "MCDR Bot",
+        "version": "1.2.0",
+        "repository": "https://github.com/MCDReforged/MCDR-bot",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography>=1.5",
+          "requests",
+          "PyNBT"
+        ],
+        "description": {
+          "en_us": "MCDR Bot powered by pyCraft",
+          "zh_cn": "使用 pycraft 的假人插件"
+        }
+      }
     },
     {
       "url": "https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0",
@@ -37,59 +57,27 @@
       ],
       "description": "MCDR 2.0 format\r\n\r\nupdated pycraft to PR#230 (~mc1.17)\r\n\r\n",
       "prerelease": false,
-      "parsed_version": "1.1.0"
-    }
-  ],
-  "release_meta": {
-    "v1.2.0": {
-      "schema_version": 1,
-      "id": "mcdr_pycraft_bot",
-      "name": "MCDR Bot",
-      "version": "1.2.0",
-      "repository": "https://github.com/MCDReforged/MCDR-bot",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "cryptography>=1.5",
-        "requests",
-        "PyNBT"
-      ],
-      "description": {
-        "en_us": "MCDR Bot powered by pyCraft",
-        "zh_cn": "使用 pycraft 的假人插件"
-      }
-    },
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "mcdr_pycraft_bot",
-      "name": "MCDR Bot",
-      "version": "1.1.0",
-      "repository": "https://github.com/MCDReforged/MCDR-bot",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "cryptography>=1.5",
-        "requests",
-        "PyNBT"
-      ],
-      "description": {
-        "en_us": "MCDR Bot powered by pyCraft",
-        "zh_cn": "使用 pycraft 的假人插件"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mcdr_pycraft_bot",
+        "name": "MCDR Bot",
+        "version": "1.1.0",
+        "repository": "https://github.com/MCDReforged/MCDR-bot",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography>=1.5",
+          "requests",
+          "PyNBT"
+        ],
+        "description": {
+          "en_us": "MCDR Bot powered by pyCraft",
+          "zh_cn": "使用 pycraft 的假人插件"
+        }
       }
     }
-  }
+  ]
 }

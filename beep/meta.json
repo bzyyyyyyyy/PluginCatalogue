@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "beep",
   "name": "Beep",
   "version": "1.1.0",
   "repository": "https://github.com/TISUnion/Beep",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "Fallen_Breath",
     "LucunJi"

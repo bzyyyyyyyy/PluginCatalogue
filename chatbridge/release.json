@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "chatbridge",
   "latest_version": "2.4.1",
   "releases": [
@@ -19,7 +19,29 @@
       ],
       "description": "- Added `enable` switch in mcdr plugin config\r\n- Fixed some typo (#34) and make CQ bot client json data reading fail-proof (#35)",
       "prerelease": false,
-      "parsed_version": "2.4.1"
+      "parsed_version": "2.4.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.4.1",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0",
@@ -37,7 +59,29 @@
       ],
       "description": "## CLI Server\r\n\r\n- Use `SO_REUSEADDR` during server port binding for easier server restart #27 \r\n\r\n## CQ HTTP bot\r\n\r\n- Less status log spam in cqhttp bot\r\n\r\n## Discord bot\r\n\r\n- update discord.py, now\r\n  - `discord.py>=2.0.0` is required\r\n  - message content intent in the discord application dashboard is required",
       "prerelease": false,
-      "parsed_version": "2.3.0"
+      "parsed_version": "2.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.3.0",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
@@ -55,7 +99,29 @@
       ],
       "description": "## CLI server changes:\r\n- Better thread name displaying\r\n- Auto-trim login timeout connections\r\n- Added secret `thread_dump` command in cli server for debug",
       "prerelease": false,
-      "parsed_version": "2.2.0"
+      "parsed_version": "2.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.2.0",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1",
@@ -73,7 +139,29 @@
       ],
       "description": "- Added `!!help` command in khl bot\r\n- Fixed missing newline in !!help in discord bot (#21)",
       "prerelease": false,
-      "parsed_version": "2.1.1"
+      "parsed_version": "2.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.1.1",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0",
@@ -91,7 +179,29 @@
       ],
       "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
       "prerelease": false,
-      "parsed_version": "2.1.0"
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.5",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4",
@@ -109,7 +219,29 @@
       ],
       "description": "- online command: display_order support, in config",
       "prerelease": false,
-      "parsed_version": "2.0.4"
+      "parsed_version": "2.0.4",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.4",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3",
@@ -127,7 +259,29 @@
       ],
       "description": "- online command client: fix wrong server name displaying with minecraft server\r\n- fixed some readme issues",
       "prerelease": false,
-      "parsed_version": "2.0.3"
+      "parsed_version": "2.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.3",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.2",
@@ -145,7 +299,29 @@
       ],
       "description": "- stop display !!qq prefix for qq bot\r\n- stats name display fix in qq bot\r\n- minecraft server support for online command\r\n- see commit log for more",
       "prerelease": false,
-      "parsed_version": "2.0.2"
+      "parsed_version": "2.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.2",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.1",
@@ -163,7 +339,29 @@
       ],
       "description": "see commit log",
       "prerelease": false,
-      "parsed_version": "2.0.1"
+      "parsed_version": "2.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.1",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.0",
@@ -181,279 +379,29 @@
       ],
       "description": "- Totally rewrote the codes, should looks nicer i guess\r\n- Pack everything in a single .pyz file\r\n  - CLI server, CLI client, MCDR plugin, cqhttp/discord/kaiheila bot, online command, in 1 file",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "v2.4.1": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.4.1",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.3.0": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.3.0",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.2.0": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.2.0",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.1.1": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.1.1",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.1.0": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.5",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.0.4": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.4",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.0.3": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.3",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.0.2": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.2",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.0.1": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.1",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
-      }
-    },
-    "v2.0.0": {
-      "schema_version": 1,
-      "id": "chatbridge",
-      "name": "ChatBridge v2 for MCDR",
-      "version": "2.0.0",
-      "repository": "https://github.com/TISUnion/ChatBridge",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0-"
-      },
-      "requirements": [
-        "mcdreforged>=2.2.0",
-        "pycryptodome",
-        "colorlog"
-      ],
-      "description": {
-        "en_us": "Broadcast chats between Minecraft servers and more",
-        "zh_cn": "跨服聊天"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.0",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
       }
     }
-  }
+  ]
 }

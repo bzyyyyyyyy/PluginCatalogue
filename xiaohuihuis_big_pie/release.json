@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "xiaohuihuis_big_pie",
   "latest_version": "0.0.2",
   "releases": [
@@ -19,33 +19,23 @@
       ],
       "description": "## [0.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/xiaohuihuis_big_pie-0.0.1...xiaohuihuis_big_pie-v0.0.2) (2023-02-26)\r\n\r\n\r\n### Documentation\r\n\r\n* **xiaohuihuis_big_pie:** 📝 update doc ([f5fcfab](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/f5fcfab0cc77b02a1464da05007d865906c0e46b))",
       "prerelease": false,
-      "parsed_version": "0.0.2"
-    }
-  ],
-  "release_meta": {
-    "xiaohuihuis_big_pie-v0.0.2": {
-      "schema_version": 1,
-      "id": "xiaohuihuis_big_pie",
-      "name": "XiaoHuiHui's Big Pie",
-      "version": "0.0.2",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "xiaohuihuis_big_pie",
-      "labels": [
-        "information",
-        "tool",
-        "management",
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Run any Python code in game!",
-        "zh_cn": "小灰灰的游戏内执行 Python 语句大饼"
+      "parsed_version": "0.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "xiaohuihuis_big_pie",
+        "name": "XiaoHuiHui's Big Pie",
+        "version": "0.0.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Run any Python code in game!",
+          "zh_cn": "小灰灰的游戏内执行 Python 语句大饼"
+        }
       }
     }
-  }
+  ]
 }

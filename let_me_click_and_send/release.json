@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "let_me_click_and_send",
   "latest_version": "1.0.0",
   "releases": [
@@ -19,30 +19,23 @@
       ],
       "description": "## 1.0.0 (2023-02-25)\n\n\n### Features\n\n* **let_me_click_and_send:** 🎉 add let_me_click_and_send ([d7e35ce](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/d7e35ce6c2a5dcde778277ecbc76278aa18cb3cc))",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "let_me_click_and_send-v1.0.0": {
-      "schema_version": 1,
-      "id": "let_me_click_and_send",
-      "name": "Let Me Click and Send",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "let_me_click_and_send",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Allowed click to send anything in 1.19",
-        "zh_cn": "允许在 1.19 点击发送任意信息"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "let_me_click_and_send",
+        "name": "Let Me Click and Send",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Allowed click to send anything in 1.19",
+          "zh_cn": "允许在 1.19 点击发送任意信息"
+        }
       }
     }
-  }
+  ]
 }

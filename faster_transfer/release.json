@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "faster_transfer",
   "latest_version": "0.1",
   "releases": [
@@ -19,35 +19,27 @@
       ],
       "description": "## 🚀 第一次提交\r\n- 好耶！",
       "prerelease": false,
-      "parsed_version": "0.1"
-    }
-  ],
-  "release_meta": {
-    "v0.1": {
-      "schema_version": 1,
-      "id": "faster_transfer",
-      "name": "Faster Transfer",
-      "version": "0.1.0",
-      "repository": "https://github.com/alex3236/FasterTransfer",
-      "branch": "master",
-      "related_path": "src",
-      "labels": [
-        "tool",
-        "api"
-      ],
-      "authors": [
-        "Alex3236"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.2.0"
-      },
-      "requirements": [
-        "speedcopy"
-      ],
-      "description": {
-        "en_us": ":rocket: Make web? file transfers faster!",
-        "zh_cn": ":rocket: 让任何 MCDR 插件的网络文件传输更迅速！"
+      "parsed_version": "0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "faster_transfer",
+        "name": "Faster Transfer",
+        "version": "0.1.0",
+        "repository": "https://github.com/alex3236/FasterTransfer",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "speedcopy"
+        ],
+        "description": {
+          "en_us": ":rocket: Make web? file transfers faster!",
+          "zh_cn": ":rocket: 让任何 MCDR 插件的网络文件传输更迅速！"
+        }
       }
     }
-  }
+  ]
 }

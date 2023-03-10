@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "advanced_whitelist_r",
   "latest_version": "1.0.3",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "小修了一下逻辑错误 :P",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.3",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
+      }
     },
     {
       "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2",
@@ -37,7 +55,25 @@
       ],
       "description": "反复横跳的修bug",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.2",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
+      }
     },
     {
       "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1",
@@ -55,78 +91,25 @@
       ],
       "description": "离线白名单改用uuid生成+原生白名单结合方式实现\r\n\r\n新增bot白名单功能",
       "prerelease": false,
-      "parsed_version": "1.0.1"
-    }
-  ],
-  "release_meta": {
-    "1.0.3": {
-      "schema_version": 1,
-      "id": "advanced_whitelist_r",
-      "name": "AdvancedWhitelistR",
-      "version": "1.0.3",
-      "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "noionion",
-        "GamerNoTitle"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "For outline-model Whitelist"
-      }
-    },
-    "1.0.2": {
-      "schema_version": 1,
-      "id": "advanced_whitelist_r",
-      "name": "AdvancedWhitelistR",
-      "version": "1.0.2",
-      "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "noionion",
-        "GamerNoTitle"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "For outline-model Whitelist"
-      }
-    },
-    "1.0.1": {
-      "schema_version": 1,
-      "id": "advanced_whitelist_r",
-      "name": "AdvancedWhitelistR",
-      "version": "1.0.1",
-      "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "noionion",
-        "GamerNoTitle"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "For outline-model Whitelist"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.1",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
       }
     }
-  }
+  ]
 }

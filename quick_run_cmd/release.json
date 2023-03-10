@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "quick_run_cmd",
   "latest_version": "2.0.0",
   "releases": [
@@ -19,34 +19,27 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "2.0.0": {
-      "schema_version": 1,
-      "id": "quick_run_cmd",
-      "name": "quick_run_cmd",
-      "version": "2.0.0",
-      "repository": "https://github.com/R1ckyH/quick_run_cmd",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Ricky"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged"
-      ],
-      "description": {
-        "en_us": "A plugin for run command quickly.",
-        "zh_cn": "一个快速运行自定义脚本的插件。"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_run_cmd",
+        "name": "quick_run_cmd",
+        "version": "2.0.0",
+        "repository": "https://github.com/R1ckyH/quick_run_cmd",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "A plugin for run command quickly.",
+          "zh_cn": "一个快速运行自定义脚本的插件。"
+        }
       }
     }
-  }
+  ]
 }

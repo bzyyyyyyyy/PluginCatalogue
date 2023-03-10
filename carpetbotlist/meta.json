@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "carpetbotlist",
   "name": "CarpetBotList",
   "version": "2.1.1",
   "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
-  "branch": "MCDR-2.x",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "ZeroKelvin"
   ],

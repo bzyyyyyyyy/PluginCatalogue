@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "start_stop_helper_r",
   "name": "StartStopHelperR",
   "version": "0.1.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-  "branch": "master",
-  "related_path": "start_stop_helper_r",
-  "labels": [
-    "management"
-  ],
   "authors": [
     "Fallen_Breath",
     "Andy Zhang"

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "carpet_tick",
   "latest_version": "1.1.1",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "## Fixes\r\n\r\n- Fixed the dependencies on `mcdreforged`",
       "prerelease": false,
-      "parsed_version": "1.1.1"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.1.1",
+        "repository": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      }
     },
     {
       "url": "https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0",
@@ -37,7 +55,27 @@
       ],
       "description": "## News\r\n\r\n - `!!help` command support",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.1.0",
+        "repository": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      }
     },
     {
       "url": "https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0",
@@ -55,80 +93,25 @@
       ],
       "description": "It works!",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1.1": {
-      "schema_version": 1,
-      "id": "carpet_tick",
-      "name": "Carpet Tick",
-      "version": "1.1.1",
-      "repository": "https://github.com/Ivan-1F/CarpetTick",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Get server status using carpet /tick command",
-        "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
-      }
-    },
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "carpet_tick",
-      "name": "Carpet Tick",
-      "version": "1.1.0",
-      "repository": "https://github.com/Ivan-1F/CarpetTick",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta"
-      },
-      "requirements": [
-        "mcdreforged~=2.3.2"
-      ],
-      "description": {
-        "en_us": "Get server status using carpet /tick command",
-        "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "carpet_tick",
-      "name": "Carpet Tick",
-      "version": "1.0.0",
-      "repository": "https://github.com/Ivan-1F/CarpetTick",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Get server status using carpet /tick command",
-        "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.0.0",
+        "repository": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
       }
     }
-  }
+  ]
 }

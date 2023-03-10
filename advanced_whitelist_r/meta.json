@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "advanced_whitelist_r",
   "name": "AdvancedWhitelistR",
   "version": "1.0.3",
   "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "management"
-  ],
   "authors": [
     "noionion",
     "GamerNoTitle"

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "uuid_api",
   "latest_version": "0.1.1",
   "releases": [
@@ -19,7 +19,23 @@
       ],
       "description": "## [0.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/uuid_api-v0.1.0...uuid_api-v0.1.1) (2022-06-30)\n\n\n### Bug Fixes\n\n* **uuid_api:** 🐛 fix import path ([ec63aa7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ec63aa74b3efa78d55c8700595aa32186054116d))",
       "prerelease": false,
-      "parsed_version": "0.1.1"
+      "parsed_version": "0.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "uuid_api",
+        "name": "UUIDAPI",
+        "version": "0.1.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "UUID API",
+          "zh_cn": "UUID API"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.0",
@@ -37,51 +53,23 @@
       ],
       "description": "## 0.1.0 (2022-06-30)\n\n\n### Features\n\n* **uuid_api:** ✨ use Serializable for config ([c7ada5a](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/c7ada5af1de67f513b0f5f0c263b44f630f19ebf))",
       "prerelease": false,
-      "parsed_version": "0.1.0"
-    }
-  ],
-  "release_meta": {
-    "uuid_api-v0.1.1": {
-      "schema_version": 1,
-      "id": "uuid_api",
-      "name": "UUIDAPI",
-      "version": "0.1.1",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "uuid_api",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "UUID API",
-        "zh_cn": "UUID API"
-      }
-    },
-    "uuid_api-v0.1.0": {
-      "schema_version": 1,
-      "id": "uuid_api",
-      "name": "UUIDAPI",
-      "version": "0.1.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "uuid_api",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "UUID API",
-        "zh_cn": "UUID API"
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "uuid_api",
+        "name": "UUIDAPI",
+        "version": "0.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "UUID API",
+          "zh_cn": "UUID API"
+        }
       }
     }
-  }
+  ]
 }

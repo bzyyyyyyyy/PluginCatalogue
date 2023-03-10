@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "mcd_seen",
   "name": "Seen",
   "version": "1.2.1",
   "repository": "https://github.com/TISUnion/Seen",
-  "branch": "MCDR",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "Pandaria",
     "Fallen_Breath",

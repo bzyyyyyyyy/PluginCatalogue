@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "bingo",
   "latest_version": "0.0.3",
   "releases": [
@@ -19,30 +19,23 @@
       ],
       "description": "## [0.0.3](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bingo-0.0.2...bingo-v0.0.3) (2023-02-26)\n\n\n### Bug Fixes\n\n* **bingo:** 👽️ fix plugin catalogue aciton warning ([0a7e82a](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/0a7e82abeded3127bd3180ecf06d193bafc6be07))",
       "prerelease": false,
-      "parsed_version": "0.0.3"
-    }
-  ],
-  "release_meta": {
-    "bingo-v0.0.3": {
-      "schema_version": 1,
-      "id": "bingo",
-      "name": "Bingo",
-      "version": "0.0.3",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "bingo",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Useful tool for Bingo game",
-        "zh_cn": "Bingo 游戏实用工具"
+      "parsed_version": "0.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "bingo",
+        "name": "Bingo",
+        "version": "0.0.3",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Useful tool for Bingo game",
+          "zh_cn": "Bingo 游戏实用工具"
+        }
       }
     }
-  }
+  ]
 }

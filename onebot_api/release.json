@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "onebot_api",
   "latest_version": "1.1.1",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "只是补个忘记了的更新",
       "prerelease": false,
-      "parsed_version": "1.1.1"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "onebot_api",
+        "name": "OneBot API",
+        "version": "1.1.1",
+        "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.4"
+        },
+        "requirements": [
+          "websocket-client>=1.2.0",
+          "mcdreforged>=2.0.4"
+        ],
+        "description": {
+          "en_us": "OneBot in MCDReforged"
+        }
+      }
     },
     {
       "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1",
@@ -37,59 +57,27 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.0.1"
-    }
-  ],
-  "release_meta": {
-    "1.1.1": {
-      "schema_version": 1,
-      "id": "onebot_api",
-      "name": "OneBot API",
-      "version": "1.1.1",
-      "repository": "https://github.com/HuajiMUR233/OneBotAPI",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Huaji_MUR233"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.4"
-      },
-      "requirements": [
-        "websocket-client>=1.2.0",
-        "mcdreforged>=2.0.4"
-      ],
-      "description": {
-        "en_us": "OneBot in MCDReforged"
-      }
-    },
-    "1.0.1": {
-      "schema_version": 1,
-      "id": "onebot_api",
-      "name": "OneBot API",
-      "version": "1.0.1",
-      "repository": "https://github.com/HuajiMUR233/OneBotAPI",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Huaji_MUR233"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.4"
-      },
-      "requirements": [
-        "websocket-client>=1.2.0",
-        "mcdreforged>=2.0.4"
-      ],
-      "description": {
-        "en_us": "OneBot in MCDReforged"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "onebot_api",
+        "name": "OneBot API",
+        "version": "1.0.1",
+        "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.4"
+        },
+        "requirements": [
+          "websocket-client>=1.2.0",
+          "mcdreforged>=2.0.4"
+        ],
+        "description": {
+          "en_us": "OneBot in MCDReforged"
+        }
       }
     }
-  }
+  ]
 }

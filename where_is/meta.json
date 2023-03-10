@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "where_is",
   "name": "Where Is",
   "version": "2.0.2+build.6",
   "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "information"
-  ],
   "authors": [
     "Ra1ny_Yuki"
   ],

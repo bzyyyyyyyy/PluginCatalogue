@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "mirror_control",
   "latest_version": "1.0.3",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "使只拉取region文件变为了拉取整个世界文件夹,修复了不会拉取末地和地狱的问题",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.3",
+        "repository": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2",
@@ -37,7 +55,25 @@
       ],
       "description": "使用ChatGPT对语言文件以及英文版README进行了翻译",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.2",
+        "repository": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1",
@@ -55,7 +91,25 @@
       ],
       "description": "修复了一些已知错误\r\n增加了若干功能",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.1",
+        "repository": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
+      }
     },
     {
       "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.0",
@@ -73,101 +127,25 @@
       ],
       "description": "Published",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v1.0.3": {
-      "schema_version": 1,
-      "id": "mirror_control",
-      "name": "Mirror Control",
-      "version": "1.0.3",
-      "repository": "https://github.com/charassss/Mirror-Control",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Chara_SS"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "mcdreforged~=2.6.0"
-      ],
-      "description": {
-        "en_us": "A plugin to control mirror server",
-        "zh_cn": "一个控制镜像服务器的插件"
-      }
-    },
-    "v1.0.2": {
-      "schema_version": 1,
-      "id": "mirror_control",
-      "name": "Mirror Control",
-      "version": "1.0.2",
-      "repository": "https://github.com/charassss/Mirror-Control",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Chara_SS"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "mcdreforged~=2.6.0"
-      ],
-      "description": {
-        "en_us": "A plugin to control mirror server",
-        "zh_cn": "一个控制镜像服务器的插件"
-      }
-    },
-    "v1.0.1": {
-      "schema_version": 1,
-      "id": "mirror_control",
-      "name": "Mirror Control",
-      "version": "1.0.1",
-      "repository": "https://github.com/charassss/Mirror-Control",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Chara_SS"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "mcdreforged~=2.6.0"
-      ],
-      "description": {
-        "en_us": "A plugin to control mirror server",
-        "zh_cn": "一个控制镜像服务器的插件"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "mirror_control",
-      "name": "Mirror Control",
-      "version": "1.0.0",
-      "repository": "https://github.com/charassss/Mirror-Control",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Chara_SS"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "mcdreforged~=2.6.0"
-      ],
-      "description": {
-        "en_us": "A plugin to control mirror server",
-        "zh_cn": "一个控制镜像服务器的插件"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "mirror_control",
+        "name": "Mirror Control",
+        "version": "1.0.0",
+        "repository": "https://github.com/charassss/Mirror-Control",
+        "authors": [
+          "Chara_SS"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin to control mirror server",
+          "zh_cn": "一个控制镜像服务器的插件"
+        }
       }
     }
-  }
+  ]
 }

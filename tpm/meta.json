@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "tpm",
   "name": "TpManager",
   "version": "0.3.3",
   "repository": "https://github.com/kmcsr/tpmanager_mcdr",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "zyxkad"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "cato",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,7 +19,24 @@
       ],
       "description": "[Support] HMCL 3.4.209 / Cato 1.1.1",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "cato",
+        "name": "Cato Plugin",
+        "version": "1.1.0",
+        "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+        "authors": [
+          "Harry-zklcdc"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Plugin Cato"
+        }
+      }
     },
     {
       "url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0",
@@ -37,53 +54,24 @@
       ],
       "description": "First Version",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "cato-v1.1.0": {
-      "schema_version": 1,
-      "id": "cato",
-      "name": "Cato Plugin",
-      "version": "1.1.0",
-      "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Harry-zklcdc"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-alpha.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Plugin Cato"
-      }
-    },
-    "cato-v1.0.0": {
-      "schema_version": 1,
-      "id": "cato",
-      "name": "Cato Plugin",
-      "version": "1.0.0",
-      "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Harry-zklcdc"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-alpha.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Plugin Cato"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "cato",
+        "name": "Cato Plugin",
+        "version": "1.0.0",
+        "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+        "authors": [
+          "Harry-zklcdc"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Plugin Cato"
+        }
       }
     }
-  }
+  ]
 }

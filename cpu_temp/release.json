@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "cpu_temp",
   "latest_version": "3.0.2",
   "releases": [
@@ -19,36 +19,29 @@
       ],
       "description": "# News & Changes\r\nSupport for [MCDR2.0](https://github.com/Fallen-Breath/MCDReforged)\r\n# BUGFIX\r\nFix bugs\r\n# Patches versions\r\n## v3.0.1\r\nBUGFIX\r\n## v3.0.2\r\nBUGFIX",
       "prerelease": false,
-      "parsed_version": "3.0.2"
-    }
-  ],
-  "release_meta": {
-    "v3.0.2": {
-      "schema_version": 1,
-      "id": "cpu_temp",
-      "name": "cpu_temp",
-      "version": "3.0.2",
-      "repository": "https://github.com/R1ckyH/cpu_temp",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Ricky"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "psutil",
-        "mcdreforged",
-        "APScheduler"
-      ],
-      "description": {
-        "en_us": "A plugin to check cpu temp regularly.",
-        "zh_cn": "服务器温度警报插件。"
+      "parsed_version": "3.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "cpu_temp",
+        "name": "cpu_temp",
+        "version": "3.0.2",
+        "repository": "https://github.com/R1ckyH/cpu_temp",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "psutil",
+          "mcdreforged",
+          "APScheduler"
+        ],
+        "description": {
+          "en_us": "A plugin to check cpu temp regularly.",
+          "zh_cn": "服务器温度警报插件。"
+        }
       }
     }
-  }
+  ]
 }

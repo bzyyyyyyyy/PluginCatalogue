@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "lazytp",
   "latest_version": "2.0.1",
   "releases": [
@@ -19,7 +19,29 @@
       ],
       "description": "Metadata fixes, License included in MCDR file",
       "prerelease": false,
-      "parsed_version": "2.0.1"
+      "parsed_version": "2.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "lazytp",
+        "name": "Lazy Teleport",
+        "version": "2.0.1",
+        "repository": "https://github.com/Lazy-Bing-Server/lazytp",
+        "authors": [
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "minecraft_data_api": ">=1.4.0",
+          "location_marker": ">=1.3.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.0"
+        ],
+        "description": {
+          "en_us": "A express gateway between each dimensions",
+          "zh_cn": "维度间的快速折跃通道"
+        }
+      }
     },
     {
       "url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0",
@@ -37,62 +59,28 @@
       ],
       "description": "first release",
       "prerelease": false,
-      "parsed_version": "2.0.0"
-    }
-  ],
-  "release_meta": {
-    "2.0.1": {
-      "schema_version": 1,
-      "id": "lazytp",
-      "name": "Lazy Teleport",
-      "version": "2.0.1",
-      "repository": "https://github.com/Lazy-Bing-Server/lazytp",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0",
-        "minecraft_data_api": ">=1.4.0",
-        "location_marker": ">=1.3.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.1.0"
-      ],
-      "description": {
-        "en_us": "A express gateway between each dimensions",
-        "zh_cn": "维度间的快速折跃通道"
-      }
-    },
-    "2.0.0": {
-      "schema_version": 1,
-      "id": "lazytp",
-      "name": "Lazy Teleport",
-      "version": "2.0.0",
-      "repository": "https://github.com/Lazy-Bing-Server/lazytp",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0",
-        "minecraft_data_api": ">=1.4.0",
-        "location_marker": ">=1.3.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0"
-      ],
-      "description": {
-        "en_us": "A express gateway between each dimensions"
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "lazytp",
+        "name": "Lazy Teleport",
+        "version": "2.0.0",
+        "repository": "https://github.com/Lazy-Bing-Server/lazytp",
+        "authors": [
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "minecraft_data_api": ">=1.4.0",
+          "location_marker": ">=1.3.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0"
+        ],
+        "description": {
+          "en_us": "A express gateway between each dimensions"
+        }
       }
     }
-  }
+  ]
 }

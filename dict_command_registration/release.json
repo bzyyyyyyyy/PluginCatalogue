@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "dict_command_registration",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/dict_command_registration-v1.0.1...dict_command_registration-v1.1.0) (2023-01-15)\n\n\n### Features\n\n* **dict_command_registration:** ✨ support multiple requirements ([fe35f38](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/fe35f38118f61b7fe01a2b71555f788f47f6f19e))\n\n\n### Bug Fixes\n\n* **dict_command_registration:** 🔊 move mcdr node print tree to logger.debug ([08f8b25](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/08f8b255b22c79df706ceca550c19b8ce402acbf))",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.7.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.2",
@@ -37,7 +55,25 @@
       ],
       "description": "## [1.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/dict_command_registration-v1.0.1...dict_command_registration-v1.0.2) (2022-12-29)\n\n\n### Bug Fixes\n\n* **dict_command_registration:** 🔊 move mcdr node print tree to logger.debug ([08f8b25](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/08f8b255b22c79df706ceca550c19b8ce402acbf))",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.1",
@@ -55,7 +91,25 @@
       ],
       "description": "## [1.0.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/dict_command_registration-v1.0.0...dict_command_registration-v1.0.1) (2022-12-29)\n\n\n### Bug Fixes\n\n* **dict_command_registration:** 🐛 support more types of help_message argument in register ([0a943c6](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/0a943c626cfd7e59a1427222aa8b5f29bf83f7df))",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.0",
@@ -73,101 +127,25 @@
       ],
       "description": "## 1.0.0 (2022-12-29)\n\n\n### Features\n\n* **dict_command_registration:** 🎉 new plugin `dict_command_registration` ([9f7abd2](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/9f7abd230fd16968a55763d066dd1ba00478fc0d))",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "dict_command_registration-v1.1.0": {
-      "schema_version": 1,
-      "id": "dict_command_registration",
-      "name": "Dict Command Registration",
-      "version": "1.1.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "dict_command_registration",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.7.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Register your command by a python dict",
-        "zh_cn": "用 Python 字典注册您的指令"
-      }
-    },
-    "dict_command_registration-v1.0.2": {
-      "schema_version": 1,
-      "id": "dict_command_registration",
-      "name": "Dict Command Registration",
-      "version": "1.0.2",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "dict_command_registration",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.5.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Register your command by a python dict",
-        "zh_cn": "用 Python 字典注册您的指令"
-      }
-    },
-    "dict_command_registration-v1.0.1": {
-      "schema_version": 1,
-      "id": "dict_command_registration",
-      "name": "Dict Command Registration",
-      "version": "1.0.1",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "dict_command_registration",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.5.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Register your command by a python dict",
-        "zh_cn": "用 Python 字典注册您的指令"
-      }
-    },
-    "dict_command_registration-v1.0.0": {
-      "schema_version": 1,
-      "id": "dict_command_registration",
-      "name": "Dict Command Registration",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "dict_command_registration",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.5.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Register your command by a python dict",
-        "zh_cn": "用 Python 字典注册您的指令"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
       }
     }
-  }
+  ]
 }

@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "seed",
   "name": "Seed",
   "version": "1.1.0",
   "repository": "https://github.com/OptiJava/Seed",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "information"
-  ],
   "authors": [
     "OptiJava"
   ],

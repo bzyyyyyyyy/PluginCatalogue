@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "welcome_msg",
   "name": "welcome_msg",
   "version": "1.1.0",
   "repository": "https://github.com/JAs0n319/Welcome_MSG",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "information"
-  ],
   "authors": [
     "JAs0n"
   ],

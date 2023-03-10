@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "crash_restart",
   "name": "Crash Restart",
   "version": "1.0.0",
   "repository": "https://github.com/MCDReforged/CrashRestart",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "tool"
-  ],
   "authors": [
     "Fallen_Breath"
   ],

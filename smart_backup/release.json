@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "smart_backup",
   "latest_version": "1.4.2",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.4.2"
+      "parsed_version": "1.4.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.2",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.1",
@@ -37,7 +55,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.4.1"
+      "parsed_version": "1.4.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.1",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.0",
@@ -55,7 +91,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.4.0"
+      "parsed_version": "1.4.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.0",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.3.0",
@@ -73,7 +127,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.3.0"
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.3.0",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.1",
@@ -91,7 +163,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.2.1"
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.2.1",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.0",
@@ -109,7 +199,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.2.0"
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.2.0",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.1.1",
@@ -127,7 +235,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.1.1"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.1.1",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.1.0",
@@ -145,7 +271,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.1.0",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      }
     },
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.0.0",
@@ -163,215 +307,24 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v1.4.2": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.4.2",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个多功能Minecraft存档备份插件"
-      }
-    },
-    "v1.4.1": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.4.1",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个多功能Minecraft存档备份插件"
-      }
-    },
-    "v1.4.0": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.4.0",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个多功能Minecraft存档备份插件"
-      }
-    },
-    "v1.3.0": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.3.0",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
-    "v1.2.1": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.2.1",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
-    "v1.2.0": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.2.0",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
-    "v1.1.1": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.1.1",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.1.0",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.0.0",
-      "repository": "https://github.com/kmcsr/smart_backup_mcdr",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.0.0",
+        "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin"
+        }
       }
     }
-  }
+  ]
 }

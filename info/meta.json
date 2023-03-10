@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "info",
   "name": "Info",
   "version": "0.2.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-  "branch": "master",
-  "related_path": "info",
-  "labels": [
-    "information"
-  ],
   "authors": [
     "Andy Zhang"
   ],

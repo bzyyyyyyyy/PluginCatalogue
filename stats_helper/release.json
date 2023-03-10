@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "stats_helper",
   "latest_version": "7.5.1",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "- Restricts `#all` tag usage\r\n- Fixed bot filter in default config doesn't work",
       "prerelease": false,
-      "parsed_version": "7.5.1"
+      "parsed_version": "7.5.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.5.1",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0",
@@ -37,7 +57,27 @@
       ],
       "description": "- use `#all` as stat_target to query the sum of the stat class",
       "prerelease": false,
-      "parsed_version": "7.5.0"
+      "parsed_version": "7.5.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.5.0",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0",
@@ -55,7 +95,27 @@
       ],
       "description": "- Added config option `player_name_blacklist` for you to customize the blacklist for filtering out bots (#8)",
       "prerelease": false,
-      "parsed_version": "7.4.0"
+      "parsed_version": "7.4.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.4.0",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.3.1",
@@ -73,7 +133,27 @@
       ],
       "description": "- Added `server_path` and `world_folder` in configure file\r\n- Fixed #5",
       "prerelease": false,
-      "parsed_version": "7.3.1"
+      "parsed_version": "7.3.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.3.1",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.2.0",
@@ -91,7 +171,27 @@
       ],
       "description": "- MCDR 2.1+ translation logic\r\n- Config file: select if save-all command is used when executing stuffs\r\n\r\n```json\r\n{\r\n    \"save_world_on_query\": false,\r\n    \"save_world_on_rank\": false,\r\n    \"save_world_on_scoreboard\": true\r\n}\r\n```",
       "prerelease": false,
-      "parsed_version": "7.2.0"
+      "parsed_version": "7.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.2.0",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.3",
@@ -109,7 +209,27 @@
       ],
       "description": "Added LICENSE into plugin\r\n\r\nProper help message formatting",
       "prerelease": false,
-      "parsed_version": "7.1.3"
+      "parsed_version": "7.1.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.3",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.7"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1",
@@ -127,7 +247,27 @@
       ],
       "description": "Fixed `add_player` command not run in a new thread",
       "prerelease": false,
-      "parsed_version": "7.1.1"
+      "parsed_version": "7.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.1",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.4"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b4"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.0",
@@ -145,217 +285,27 @@
       ],
       "description": "- MCDR 2.0 packed plugin!\r\n- translation support\r\n- command tree",
       "prerelease": false,
-      "parsed_version": "7.1.0"
-    }
-  ],
-  "release_meta": {
-    "v7.5.1": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.5.1",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.5.0": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.5.0",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.4.0": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.4.0",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.3.1": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.3.1",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.2.0": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.2.0",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.1.3": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.1.3",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.7"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b7"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.1.1": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.1.1",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.4"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b4"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
-      }
-    },
-    "v7.1.0": {
-      "schema_version": 1,
-      "id": "stats_helper",
-      "name": "Stats Helper",
-      "version": "7.1.0",
-      "repository": "https://github.com/TISUnion/StatsHelper",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool",
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.4"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b4"
-      ],
-      "description": {
-        "en_us": "A Minecraft statistic helper",
-        "zh_cn": "一个 Minecraft 统计信息助手"
+      "parsed_version": "7.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.0",
+        "repository": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.4"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b4"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
       }
     }
-  }
+  ]
 }

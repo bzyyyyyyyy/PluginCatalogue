@@ -1,15 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "player_manager",
   "name": "Player Manager",
   "version": "1.2.1",
   "repository": "https://github.com/PRcT-Server/MCDRPlugins",
-  "branch": "master",
-  "related_path": "PlayerManager",
-  "labels": [
-    "tool",
-    "management"
-  ],
   "authors": [
     "hail122"
   ],

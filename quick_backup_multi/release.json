@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "quick_backup_multi",
   "latest_version": "1.7.0",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "- Slot comment rename support with `!!qb rename <slot> <comment>`\r\n- Fixed the operation lock showing the wrong operation name",
       "prerelease": false,
-      "parsed_version": "1.7.0"
+      "parsed_version": "1.7.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.7.0",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0",
@@ -37,7 +57,27 @@
       ],
       "description": "- Supports handling symbolic link world folder in the backing up / restoring logic (#29)",
       "prerelease": false,
-      "parsed_version": "1.6.0"
+      "parsed_version": "1.6.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.6.0",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0",
@@ -55,7 +95,27 @@
       ],
       "description": "- New config entry: `saved_world_keywords`\r\n  - You can set custom keyword to suit your custom server with custom `/save-all` output\r\n  - Default value: `[\"Saved the game\", \"Saved the world\"]`, works for vanilla Minecraft servers",
       "prerelease": false,
-      "parsed_version": "1.5.0"
+      "parsed_version": "1.5.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.5.0",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4",
@@ -73,7 +133,27 @@
       ],
       "description": "- Better & Neater operation conflict logic\r\n- Async world deleting",
       "prerelease": false,
-      "parsed_version": "1.4.4"
+      "parsed_version": "1.4.4",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.4",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.3",
@@ -91,7 +171,27 @@
       ],
       "description": "- Fixed a English translation issue (#27)\r\n- Now QBM uses nested translation file format\r\n  - Requires MCDR >=2.1.2",
       "prerelease": false,
-      "parsed_version": "1.4.3"
+      "parsed_version": "1.4.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.3",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2",
@@ -109,7 +209,27 @@
       ],
       "description": "Fixed `ignored_files` not working",
       "prerelease": false,
-      "parsed_version": "1.4.2"
+      "parsed_version": "1.4.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.2",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1",
@@ -127,7 +247,27 @@
       ],
       "description": "- Added  `ignored_files` option with default value `['session.lock']` in config file for #22\r\n  - Removed option `ignore_session_lock`\r\n- Upgraded to MCDR 2.1+ better translation logic\r\n",
       "prerelease": false,
-      "parsed_version": "1.4.1"
+      "parsed_version": "1.4.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.1",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.3.3",
@@ -145,7 +285,27 @@
       ],
       "description": "- Supports backup file in `world_names` list\r\n- Fixed error on !!qb reload",
       "prerelease": false,
-      "parsed_version": "1.3.3"
+      "parsed_version": "1.3.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.3.3",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.2.2",
@@ -163,234 +323,27 @@
       ],
       "description": "MCDR 2.0",
       "prerelease": false,
-      "parsed_version": "1.2.2"
-    }
-  ],
-  "release_meta": {
-    "v1.7.0": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.7.0",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.6.0": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.6.0",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.5.0": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.5.0",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.4.4": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.4.4",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.4.3": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.4.3",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.4.2": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.4.2",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.4.1": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.4.1",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0-beta"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.3.3": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.3.3",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.1"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.1"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
-      }
-    },
-    "v1.2.2": {
-      "schema_version": 1,
-      "id": "quick_backup_multi",
-      "name": "Quick Backup Multi",
-      "version": "1.2.2",
-      "repository": "https://github.com/TISUnion/QuickBackupM",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.3"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b3"
-      ],
-      "description": {
-        "en_us": "A backup / restore plugin, with multiple backup slot",
-        "zh_cn": "多槽位备份/回档插件"
+      "parsed_version": "1.2.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.2.2",
+        "repository": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
       }
     }
-  }
+  ]
 }

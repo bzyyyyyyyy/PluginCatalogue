@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "xiaohuihuis_big_pie",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "xiaohuihuis_big_pie",
+  "labels": [
+    "information",
+    "tool",
+    "management",
+    "api"
+  ],
+  "introduction": {
+    "en_us": "<!-- markdownlint-disable MD036 -->\n# XiaoHuiHui's Big Pie\n\n> 小灰灰的游戏内执行 Python 语句大饼\n>\n> Run any Python code in game!\n\n**警告：该插件没有权限验证且可以执行任意代码，请确定您知悉所有后果**\n\n## 使用\n\n使用 `!!xhh start` 开始编写，以 `!!xhh stop` 结束\n\n您需要使用 `raise` 来返回结果\n",
+    "zh_cn": "<!-- markdownlint-disable MD036 -->\n# XiaoHuiHui's Big Pie\n\n> 小灰灰的游戏内执行 Python 语句大饼\n>\n> Run any Python code in game!\n\n**警告：该插件没有权限验证且可以执行任意代码，请确定您知悉所有后果**\n\n## 使用\n\n使用 `!!xhh start` 开始编写，以 `!!xhh stop` 结束\n\n您需要使用 `raise` 来返回结果\n"
+  }
+}

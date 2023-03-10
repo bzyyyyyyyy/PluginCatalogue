@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "eulagree",
   "latest_version": "1.0.0",
   "releases": [
@@ -19,32 +19,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "1.0.0": {
-      "schema_version": 1,
-      "id": "eulagree",
-      "name": "EULAgree",
-      "version": "1.0.0",
-      "repository": "https://github.com/HuajiMURsMC/EULAgree",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "Huaji_MUR233"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "ruamel.yaml~=0.17"
-      ],
-      "description": {
-        "en_us": "I always agree with EULA, don't ask me",
-        "zh_cn": "我总是同意EULA，不要问我"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "eulagree",
+        "name": "EULAgree",
+        "version": "1.0.0",
+        "repository": "https://github.com/HuajiMURsMC/EULAgree",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "ruamel.yaml~=0.17"
+        ],
+        "description": {
+          "en_us": "I always agree with EULA, don't ask me",
+          "zh_cn": "我总是同意EULA，不要问我"
+        }
       }
     }
-  }
+  ]
 }

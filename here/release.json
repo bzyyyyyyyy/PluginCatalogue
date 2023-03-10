@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "here",
   "latest_version": "1.2.2",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "Fixed extra `\"` in dimension string with rcon on in 1.16+",
       "prerelease": false,
-      "parsed_version": "1.2.2"
+      "parsed_version": "1.2.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "here",
+        "name": "Here",
+        "version": "1.2.2",
+        "repository": "https://github.com/TISUnion/Here",
+        "authors": [
+          "Fallen_Breath",
+          "nathan21hz",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Broadcast your position and high light yourself",
+          "zh_cn": "显示坐标并高亮玩家"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.1",
@@ -37,7 +55,25 @@
       ],
       "description": "- Fixed coordinate convert does not work\r\n- Fixed typo in description",
       "prerelease": false,
-      "parsed_version": "1.2.1"
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "here",
+        "name": "Here",
+        "version": "1.2.1",
+        "repository": "https://github.com/TISUnion/Here",
+        "authors": [
+          "Fallen_Breath",
+          "nathan21hz",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Broadcast your position and high light yourself",
+          "zh_cn": "显示坐标并高亮玩家"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.0",
@@ -55,7 +91,25 @@
       ],
       "description": "- Fixed voxelmap compatibility\r\n- Refactored dimension logic codewise",
       "prerelease": false,
-      "parsed_version": "1.2.0"
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "here",
+        "name": "Here",
+        "version": "1.2.0",
+        "repository": "https://github.com/TISUnion/Here",
+        "authors": [
+          "Fallen_Breath",
+          "nathan21hz",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Broadcast your position and high light yourself",
+          "zh_cn": "一显示坐标并高亮玩家"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.1.2",
@@ -73,7 +127,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.1.2"
+      "parsed_version": "1.1.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "here",
+        "name": "Here",
+        "version": "1.1.2",
+        "repository": "https://github.com/TISUnion/Here",
+        "authors": [
+          "Fallen_Breath",
+          "nathan21hz",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Broadcast your position and high light yourself",
+          "zh_cn": "一显示坐标并高亮玩家"
+        }
+      }
     },
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.1.1",
@@ -91,124 +163,25 @@
       ],
       "description": "MCDR 2.0",
       "prerelease": false,
-      "parsed_version": "1.1.1"
-    }
-  ],
-  "release_meta": {
-    "v1.2.2": {
-      "schema_version": 1,
-      "id": "here",
-      "name": "Here",
-      "version": "1.2.2",
-      "repository": "https://github.com/TISUnion/Here",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "nathan21hz",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Broadcast your position and high light yourself",
-        "zh_cn": "显示坐标并高亮玩家"
-      }
-    },
-    "v1.2.1": {
-      "schema_version": 1,
-      "id": "here",
-      "name": "Here",
-      "version": "1.2.1",
-      "repository": "https://github.com/TISUnion/Here",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "nathan21hz",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Broadcast your position and high light yourself",
-        "zh_cn": "显示坐标并高亮玩家"
-      }
-    },
-    "v1.2.0": {
-      "schema_version": 1,
-      "id": "here",
-      "name": "Here",
-      "version": "1.2.0",
-      "repository": "https://github.com/TISUnion/Here",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "nathan21hz",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Broadcast your position and high light yourself",
-        "zh_cn": "一显示坐标并高亮玩家"
-      }
-    },
-    "v1.1.2": {
-      "schema_version": 1,
-      "id": "here",
-      "name": "Here",
-      "version": "1.1.2",
-      "repository": "https://github.com/TISUnion/Here",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "nathan21hz",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Broadcast your position and high light yourself",
-        "zh_cn": "一显示坐标并高亮玩家"
-      }
-    },
-    "v1.1.1": {
-      "schema_version": 1,
-      "id": "here",
-      "name": "Here",
-      "version": "1.1.1",
-      "repository": "https://github.com/TISUnion/Here",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "information"
-      ],
-      "authors": [
-        "Fallen_Breath",
-        "nathan21hz",
-        "Ra1ny_Yuki"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "Broadcast your position and high light yourself",
-        "zh_cn": "一显示坐标并高亮玩家"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "here",
+        "name": "Here",
+        "version": "1.1.1",
+        "repository": "https://github.com/TISUnion/Here",
+        "authors": [
+          "Fallen_Breath",
+          "nathan21hz",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Broadcast your position and high light yourself",
+          "zh_cn": "一显示坐标并高亮玩家"
+        }
       }
     }
-  }
+  ]
 }

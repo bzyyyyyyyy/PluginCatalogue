@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "multi_whitelist",
   "latest_version": "3.0.0",
   "releases": [
@@ -19,34 +19,27 @@
       ],
       "description": "# News & Changes\r\nSupport for [MCDR2.0](https://github.com/Fallen-Breath/MCDReforged)\r\n# BUGFIX\r\nFix bugs\r\n## Known issue\r\nsome of the messages in zh_cn didn't translate\r\n## future\r\nmeight be transfer to [ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) plugin",
       "prerelease": false,
-      "parsed_version": "3.0.0"
-    }
-  ],
-  "release_meta": {
-    "v3.0.0": {
-      "schema_version": 1,
-      "id": "multi_whitelist",
-      "name": "multi_whitelist",
-      "version": "3.0.0",
-      "repository": "https://github.com/R1ckyH/multi_whitelist",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management"
-      ],
-      "authors": [
-        "Ricky"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged"
-      ],
-      "description": {
-        "en_us": "A plugin can control whitelist with multi servers.",
-        "zh_cn": "基于minecraft的白名单功能。"
+      "parsed_version": "3.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "multi_whitelist",
+        "name": "multi_whitelist",
+        "version": "3.0.0",
+        "repository": "https://github.com/R1ckyH/multi_whitelist",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "A plugin can control whitelist with multi servers.",
+          "zh_cn": "基于minecraft的白名单功能。"
+        }
       }
     }
-  }
+  ]
 }

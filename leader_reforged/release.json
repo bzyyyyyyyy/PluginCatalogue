@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "leader_reforged",
   "latest_version": "1.1.2",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "- Added help message for `!!leader - *` into in-game help menu.",
       "prerelease": false,
-      "parsed_version": "1.1.2"
+      "parsed_version": "1.1.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.2",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.1",
@@ -37,7 +55,25 @@
       ],
       "description": "- Added usage `!!leader - *` for unmarking all players.",
       "prerelease": false,
-      "parsed_version": "1.1.1"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.1",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched",
@@ -55,7 +91,25 @@
       ],
       "description": "- Fixed bug `staticmethod object is not callable` on some Python interpreters.",
       "prerelease": false,
-      "parsed_version": "1.1.0-patched"
+      "parsed_version": "1.1.0-patched",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.0-patched",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0",
@@ -73,7 +127,25 @@
       ],
       "description": "This is Leader Reforged 1.1.0!\r\nWe have added some new features, so you can use it more conveniently!\r\n- Modified usage `!!leader`, now it shows help messages.\r\n- Added usage `!!leader + [Player]` for marking players.\r\n- Added usage `!!leader - [Player]` for unmarking players.\r\n- Added usage `!!leader ?` for querying present leaders.\r\n\r\nThere are many more changes behind, read our source code if you are interested in it.",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.0",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3",
@@ -91,7 +163,25 @@
       ],
       "description": "- Refactored command implement.",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.3",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.2",
@@ -109,7 +199,25 @@
       ],
       "description": "- Now you can control the maximum number of leaders by editing `config/leader_reforged/config.json`, which will contain more configurations with development.",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.2",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.1",
@@ -127,7 +235,25 @@
       ],
       "description": "- Reimplemented multilingual support.",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.1",
+        "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.0",
@@ -145,171 +271,8 @@
       ],
       "description": "This is the first release of Leader-Reforged!\r\n- Added basic usage `!!leader` and `!!leader [Playername]`.",
       "prerelease": false,
-      "parsed_version": "1.0.0"
+      "parsed_version": "1.0.0",
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/Minecraft-AMS/Leader-Reforged/v1.0.0/mcdreforged.plugin.json, status_code 404: b'404: Not Found'"
     }
-  ],
-  "release_meta": {
-    "v1.1.2": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.1.2",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.1.1": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.1.1",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.1.0-patched": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.1.0-patched",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.1.0",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.0.3": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.0.3",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.0.2": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.0.2",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.0.1": {
-      "schema_version": 1,
-      "id": "leader_reforged",
-      "name": "Leader Reforged",
-      "version": "1.0.1",
-      "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "XavierWah"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
-        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
-      }
-    },
-    "v1.0.0": "Failed to decode json from response! url: https://raw.githubusercontent.com/Minecraft-AMS/Leader-Reforged/v1.0.0/mcdreforged.plugin.json, status_code 404: b'404: Not Found'"
-  }
+  ]
 }

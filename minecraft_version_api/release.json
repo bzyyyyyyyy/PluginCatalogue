@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "minecraft_version_api",
   "latest_version": "1.1.1",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "## Fixes\r\n\r\n- Fixed the dependencies on `mcdreforged` and `parse`",
       "prerelease": false,
-      "parsed_version": "1.1.1"
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.1.1",
+        "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "parse"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
+      }
     },
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0",
@@ -37,7 +57,28 @@
       ],
       "description": "## Changes\r\n\r\n - 22w03a, 22w05a, 22w06a, 22w07a will be normalized to 1.18.2 snapshots\r\n - Supports MCDReforged [`get_server_information`](https://mcdreforged.readthedocs.io/zh_CN/latest/plugin_dev/classes/ServerInterface.html#get-server-information) api (MCDR 2.1+)\r\nHowever you can still use this plugin with MCDR 2.1-",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.1.0",
+        "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2",
+          "parse~=1.19.0"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
+      }
     },
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0",
@@ -55,86 +96,28 @@
       ],
       "description": "Use `minecraft_version_api.get_minecraft_version()` to get the version of the Minecraft server!",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "v1.1.1": {
-      "schema_version": 1,
-      "id": "minecraft_version_api",
-      "name": "Minecraft Version API",
-      "version": "1.1.1",
-      "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "parse"
-      ],
-      "description": {
-        "en_us": "A api plugin to get the Minecraft server version",
-        "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
-      }
-    },
-    "v1.1.0": {
-      "schema_version": 1,
-      "id": "minecraft_version_api",
-      "name": "Minecraft Version API",
-      "version": "1.1.0",
-      "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged~=2.3.2",
-        "parse~=1.19.0"
-      ],
-      "description": {
-        "en_us": "A api plugin to get the Minecraft server version",
-        "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
-      }
-    },
-    "v1.0.0": {
-      "schema_version": 1,
-      "id": "minecraft_version_api",
-      "name": "Minecraft Version API",
-      "version": "1.0.0",
-      "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged~=2.3.2",
-        "parse~=1.19.0"
-      ],
-      "description": {
-        "en_us": "A api plugin to get the Minecraft server version",
-        "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "minecraft_version_api",
+        "name": "Minecraft Version API",
+        "version": "1.0.0",
+        "repository": "https://github.com/Ivan-1F/MinecraftVersionAPI",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2",
+          "parse~=1.19.0"
+        ],
+        "description": {
+          "en_us": "A api plugin to get the Minecraft server version",
+          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
+        }
       }
     }
-  }
+  ]
 }

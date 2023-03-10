@@ -1,15 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "daycount_nbt",
   "name": "DayCount NBT",
   "version": "2.2.1",
   "repository": "https://github.com/alex3236/daycount-NBT",
-  "branch": "main",
-  "related_path": "src",
-  "labels": [
-    "information",
-    "api"
-  ],
   "authors": [
     "Alex3236"
   ],

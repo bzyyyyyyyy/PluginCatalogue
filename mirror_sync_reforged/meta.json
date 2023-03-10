@@ -1,14 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "mirror_sync_reforged",
   "name": "Mirror Sync Reforged",
   "version": "1.3.0",
   "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "management"
-  ],
   "authors": [
     "Ivan1F"
   ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "simple_translator",
   "latest_version": "1.3.1",
   "releases": [
@@ -19,7 +19,27 @@
       ],
       "description": "- fix requirements",
       "prerelease": false,
-      "parsed_version": "1.3.1"
+      "parsed_version": "1.3.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "simple_translator",
+        "name": "SimpleTranslator",
+        "version": "1.3.1",
+        "repository": "https://github.com/skuzow/simple-translator",
+        "authors": [
+          "skuzow"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged >= 2.0.0",
+          "googletrans == 4.0.0rc1"
+        ],
+        "description": {
+          "en_us": "In-game translator"
+        }
+      }
     },
     {
       "url": "https://github.com/skuzow/simple-translator/releases/tag/v1.3.0",
@@ -37,59 +57,27 @@
       ],
       "description": "- name change & some improvements",
       "prerelease": false,
-      "parsed_version": "1.3.0"
-    }
-  ],
-  "release_meta": {
-    "v1.3.1": {
-      "schema_version": 1,
-      "id": "simple_translator",
-      "name": "SimpleTranslator",
-      "version": "1.3.1",
-      "repository": "https://github.com/skuzow/simple-translator",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "skuzow"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged >= 2.0.0",
-        "googletrans == 4.0.0rc1"
-      ],
-      "description": {
-        "en_us": "In-game translator"
-      }
-    },
-    "v1.3.0": {
-      "schema_version": 1,
-      "id": "simple_translator",
-      "name": "SimpleTranslator",
-      "version": "1.3.0",
-      "repository": "https://github.com/skuzow/simple-translator",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "skuzow"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.0"
-      },
-      "requirements": [
-        "mcdreforged>=2.1.0",
-        "googletrans==4.0.0rc1"
-      ],
-      "description": {
-        "en_us": "In-game translator"
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "simple_translator",
+        "name": "SimpleTranslator",
+        "version": "1.3.0",
+        "repository": "https://github.com/skuzow/simple-translator",
+        "authors": [
+          "skuzow"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.0",
+          "googletrans==4.0.0rc1"
+        ],
+        "description": {
+          "en_us": "In-game translator"
+        }
       }
     }
-  }
+  ]
 }

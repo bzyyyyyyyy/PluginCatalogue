@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "more_command_nodes",
   "latest_version": "1.1.0",
   "releases": [
@@ -19,7 +19,25 @@
       ],
       "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.3...more_command_nodes-v1.1.0) (2022-07-18)\n\n\n### Features\n\n* **more_command_nodes:** ✨ set EnumeratedText to inherit Enumeration ([ce366a7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ce366a7bc14876e66dc2509720ce91f452c8c1d9))",
       "prerelease": false,
-      "parsed_version": "1.1.0"
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "more_command_nodes",
+        "name": "MoreCommandNodes",
+        "version": "1.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "More command nodes",
+          "zh_cn": "更多的指令节点"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.3",
@@ -37,7 +55,23 @@
       ],
       "description": "## [1.0.3](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.2...more_command_nodes-v1.0.3) (2022-07-18)\n\n\n### Bug Fixes\n\n* **more_command_nodes:** 🐛 fix FloatsArgument extra spaces issue ([97c12d5](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/97c12d568379959d527c7bc3d96e91e167854f47))",
       "prerelease": false,
-      "parsed_version": "1.0.3"
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 2,
+        "id": "more_command_nodes",
+        "name": "MoreCommandNodes",
+        "version": "1.0.3",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "More command nodes",
+          "zh_cn": "更多的指令节点"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.2",
@@ -55,7 +89,23 @@
       ],
       "description": "## [1.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.1...more_command_nodes-v1.0.2) (2022-07-08)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* **more_command_nodes:** 🐛 fix parse of FloatsArgument ([dc65f2c](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/dc65f2c81943235eb0e4c2dc4965f75a57fb2844))",
       "prerelease": false,
-      "parsed_version": "1.0.2"
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 2,
+        "id": "more_command_nodes",
+        "name": "MoreCommandNodes",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "More command nodes",
+          "zh_cn": "更多的指令节点"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.1",
@@ -73,7 +123,23 @@
       ],
       "description": "## [1.0.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.0...more_command_nodes-v1.0.1) (2022-07-08)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* **more_command_nodes:** 🐛 fix Exception used in FloatsArgument ([284ba8f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/284ba8f4a9a58310faafcffa9196e035b2328ace))\r\n* **more_command_nodes:** 🐛 fix import util ([25f933b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/25f933b11dfc35d914df43c133bece5efce6af75))\r\n* **more_command_nodes:** 🐛 fix range in FloatsArgument ([4fa552f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4fa552f5e4a5efb9296b1324a527d3888f90bb66))",
       "prerelease": false,
-      "parsed_version": "1.0.1"
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "more_command_nodes",
+        "name": "MoreCommandNodes",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "More command nodes",
+          "zh_cn": "更多的指令节点"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.0",
@@ -91,116 +157,23 @@
       ],
       "description": "## 1.0.0 (2022-07-08)\n\n\n### Features\n\n* **more_command_nodes:** 🎉 release MoreCommandNodes ([4aefc2b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4aefc2b728482040a90200cd9e9c5612ed9726a5))",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "more_command_nodes-v1.1.0": {
-      "schema_version": 1,
-      "id": "more_command_nodes",
-      "name": "MoreCommandNodes",
-      "version": "1.1.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "more_command_nodes",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {
-        "mcdreforged": "^2.5"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "More command nodes",
-        "zh_cn": "更多的指令节点"
-      }
-    },
-    "more_command_nodes-v1.0.3": {
-      "schema_version": 1,
-      "id": "more_command_nodes",
-      "name": "MoreCommandNodes",
-      "version": "1.0.3",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "more_command_nodes",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "More command nodes",
-        "zh_cn": "更多的指令节点"
-      }
-    },
-    "more_command_nodes-v1.0.2": {
-      "schema_version": 1,
-      "id": "more_command_nodes",
-      "name": "MoreCommandNodes",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "more_command_nodes",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "More command nodes",
-        "zh_cn": "更多的指令节点"
-      }
-    },
-    "more_command_nodes-v1.0.1": {
-      "schema_version": 1,
-      "id": "more_command_nodes",
-      "name": "MoreCommandNodes",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "more_command_nodes",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "More command nodes",
-        "zh_cn": "更多的指令节点"
-      }
-    },
-    "more_command_nodes-v1.0.0": {
-      "schema_version": 1,
-      "id": "more_command_nodes",
-      "name": "MoreCommandNodes",
-      "version": "1.0.0",
-      "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-      "branch": "master",
-      "related_path": "more_command_nodes",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Andy Zhang"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "More command nodes",
-        "zh_cn": "更多的指令节点"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "more_command_nodes",
+        "name": "MoreCommandNodes",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "More command nodes",
+          "zh_cn": "更多的指令节点"
+        }
       }
     }
-  }
+  ]
 }

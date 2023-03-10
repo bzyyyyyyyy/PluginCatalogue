@@ -1,15 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "stats_helper",
   "name": "Stats Helper",
   "version": "7.5.1",
   "repository": "https://github.com/TISUnion/StatsHelper",
-  "branch": "master",
-  "related_path": ".",
-  "labels": [
-    "tool",
-    "information"
-  ],
   "authors": [
     "Fallen_Breath"
   ],

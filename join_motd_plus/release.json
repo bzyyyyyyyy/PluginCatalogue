@@ -1,7 +1,6 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "join_motd_plus",
   "latest_version": "N/A",
-  "releases": [],
-  "release_meta": {}
+  "releases": []
 }

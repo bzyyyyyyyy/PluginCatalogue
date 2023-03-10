@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "minecraft_data_api",
   "latest_version": "1.4.1",
   "releases": [
@@ -19,36 +19,29 @@
       ],
       "description": "Release for MCDR 2.0",
       "prerelease": false,
-      "parsed_version": "1.4.1"
-    }
-  ],
-  "release_meta": {
-    "v1.4.1": {
-      "schema_version": 1,
-      "id": "minecraft_data_api",
-      "name": "Minecraft Data API",
-      "version": "1.4.1",
-      "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
-      "branch": "next",
-      "related_path": ".",
-      "labels": [
-        "api"
-      ],
-      "authors": [
-        "Fallen_Breath"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0-beta.3"
-      },
-      "requirements": [
-        "mcdreforged>=2.0.0b3",
-        "hjson",
-        "parse"
-      ],
-      "description": {
-        "en_us": "A MCDReforged api plugin to get player data information and more",
-        "zh_cn": "一个用获得玩家信息等数据的的 API"
+      "parsed_version": "1.4.1",
+      "meta": {
+        "schema_version": 2,
+        "id": "minecraft_data_api",
+        "name": "Minecraft Data API",
+        "version": "1.4.1",
+        "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3",
+          "hjson",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A MCDReforged api plugin to get player data information and more",
+          "zh_cn": "一个用获得玩家信息等数据的的 API"
+        }
       }
     }
-  }
+  ]
 }

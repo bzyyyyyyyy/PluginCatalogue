@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "carpet_bot_manager",
   "latest_version": "0.3.0",
   "releases": [
@@ -19,33 +19,26 @@
       ],
       "description": "**What's new**\n- Use nested translation file﻿\n- Move the entrypoint out of `__init__.py`\n- Sync online bot list after add bot\n- Always show spawn and kill button in `!!bot list` now\n",
       "prerelease": false,
-      "parsed_version": "0.3.0"
-    }
-  ],
-  "release_meta": {
-    "v0.3.0": {
-      "schema_version": 1,
-      "id": "carpet_bot_manager",
-      "name": "Carpet Bot Manager",
-      "version": "0.3.0",
-      "repository": "https://github.com/FAS-Server/CarpetBotManager",
-      "branch": "main",
-      "related_path": ".",
-      "labels": [
-        "tool"
-      ],
-      "authors": [
-        "YehowahLiu"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.1.2",
-        "minecraft_data_api": ">=1.4.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
-        "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
+      "parsed_version": "0.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "carpet_bot_manager",
+        "name": "Carpet Bot Manager",
+        "version": "0.3.0",
+        "repository": "https://github.com/FAS-Server/CarpetBotManager",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2",
+          "minecraft_data_api": ">=1.4.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+          "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
+        }
       }
     }
-  }
+  ]
 }

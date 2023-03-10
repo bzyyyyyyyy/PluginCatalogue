@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "id": "bot_plugin",
   "latest_version": "1.0.0",
   "releases": [
@@ -19,33 +19,25 @@
       ],
       "description": "N/A",
       "prerelease": false,
-      "parsed_version": "1.0.0"
-    }
-  ],
-  "release_meta": {
-    "1.0.0": {
-      "schema_version": 1,
-      "id": "bot_plugin",
-      "name": "Bot Plugin",
-      "version": "1.0.0",
-      "repository": "https://github.com/DancingSnow0517/Bot_Manager",
-      "branch": "master",
-      "related_path": ".",
-      "labels": [
-        "management",
-        "tool"
-      ],
-      "authors": [
-        "DancingSnow0517"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.3.0",
-        "minecraft_data_api": ">=1.4.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "管理 carpet 机器人"
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "bot_plugin",
+        "name": "Bot Plugin",
+        "version": "1.0.0",
+        "repository": "https://github.com/DancingSnow0517/Bot_Manager",
+        "authors": [
+          "DancingSnow0517"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.3.0",
+          "minecraft_data_api": ">=1.4.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "管理 carpet 机器人"
+        }
       }
     }
-  }
+  ]
 }
