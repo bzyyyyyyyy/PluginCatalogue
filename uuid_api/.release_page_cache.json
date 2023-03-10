@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"001633cd77cf563505058f1a62260959d480c4dd93061ea758a7d5f4072c175d\"",
+      "etag": "\"8cf5533755b792119a7113b19174793256a2b4a0a67f59664cd56bc5eb8b19ca\"",
       "release_tags": [
         "uuid_api-v0.1.1",
         "uuid_api-v0.1.0"
