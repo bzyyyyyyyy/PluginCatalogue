@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge",
   "name": "ChatBridge v2 for MCDR",
-  "version": "2.4.1",
+  "version": "2.5.0",
   "repository": "https://github.com/TISUnion/ChatBridge",
   "authors": [
     "Fallen_Breath"
