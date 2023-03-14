@@ -2,14 +2,14 @@
   "schema_version": 2,
   "id": "minecraft_command_register",
   "name": "Minecraft Command Register",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "authors": [
     "Andy Zhang",
     "ZhuRuoLing"
   ],
   "dependencies": {
-    "mcdreforged": "2.7.1"
+    "mcdreforged": "2.7.2"
   },
   "requirements": [],
   "description": {
