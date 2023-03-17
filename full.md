@@ -320,7 +320,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.0.6
   - Metadata version: 1.0.6
   - Release version: 1.0.6
-- Total downloads: 712
+- Total downloads: 713
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
@@ -503,7 +503,7 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 215 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
+| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 216 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
 | [Bot-v1.0.5.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.5) | 1.0.5 | 2022/12/29 15:19:31 | 13.55KB | 122 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.5/Bot-v1.0.5.mcdr) |
 | [Bot-v1.0.4.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.4) | 1.0.4 | 2022/12/29 14:53:06 | 13.55KB | 4 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.4/Bot-v1.0.4.mcdr) |
 
@@ -934,7 +934,7 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 - Version: 3.0.2
   - Metadata version: 3.0.2
   - Release version: 3.0.2
-- Total downloads: 276
+- Total downloads: 278
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
 - Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
@@ -965,7 +965,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 276 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
+| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 278 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
 
 ## crash_restart
 
@@ -1250,7 +1250,7 @@ Show time in Minecraft
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 323
+- Total downloads: 324
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
@@ -1527,7 +1527,7 @@ Params:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DictCommandRegistration-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.1.0) | 1.1.0 | 2023/01/15 11:00:37 | 3.11KB | 197 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.1.0/DictCommandRegistration-v1.1.0.mcdr) |
+| [DictCommandRegistration-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.1.0) | 1.1.0 | 2023/01/15 11:00:37 | 3.11KB | 198 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.1.0/DictCommandRegistration-v1.1.0.mcdr) |
 | [DictCommandRegistration-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.2) | 1.0.2 | 2022/12/29 14:27:40 | 3.03KB | 110 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.0.2/DictCommandRegistration-v1.0.2.mcdr) |
 | [DictCommandRegistration-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.1) | 1.0.1 | 2022/12/29 11:10:08 | 3.01KB | 7 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.0.1/DictCommandRegistration-v1.0.1.mcdr) |
 
@@ -1620,7 +1620,7 @@ I always agree with EULA, don't ask me
 - Version: 0.1
   - Metadata version: 0.1.0
   - Release version: 0.1
-- Total downloads: 275
+- Total downloads: 277
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
 - Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
@@ -1650,7 +1650,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 275 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
+| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 277 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
 
 ## gamemode
 
@@ -1661,7 +1661,7 @@ Make file transfers faster!
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 592
+- Total downloads: 596
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
@@ -1733,8 +1733,8 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Gamemode-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v1.0.0) | 1.0.0 | 2022/12/02 14:11:43 | 3.06KB | 321 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v1.0.0/Gamemode-v1.0.0.mcdr) |
-| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 271 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
+| [Gamemode-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v1.0.0) | 1.0.0 | 2022/12/02 14:11:43 | 3.06KB | 323 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v1.0.0/Gamemode-v1.0.0.mcdr) |
+| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 273 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
 
 ## here
 
@@ -3074,7 +3074,7 @@ Now, I'll introduce the content of the config file:
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 679
+- Total downloads: 680
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
@@ -3140,7 +3140,7 @@ classDiagram
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MoreCommandNodes-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0) | 1.1.0 | 2022/07/18 15:27:09 | 1.39KB | 623 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.1.0/MoreCommandNodes-v1.1.0.mcdr) |
+| [MoreCommandNodes-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0) | 1.1.0 | 2022/07/18 15:27:09 | 1.39KB | 624 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.1.0/MoreCommandNodes-v1.1.0.mcdr) |
 | [MoreCommandNodes-v1.0.3.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.3) | 1.0.3 | 2022/07/18 14:35:28 | 1.4KB | 7 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.3/MoreCommandNodes-v1.0.3.mcdr) |
 | [MoreCommandNodes-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.2) | 1.0.2 | 2022/07/08 14:04:27 | 1.34KB | 40 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.2/MoreCommandNodes-v1.0.2.mcdr) |
 
@@ -3472,7 +3472,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.0
   - Metadata version: 1.4.0
   - Release version: 1.4.0
-- Total downloads: 645
+- Total downloads: 646
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
@@ -3505,7 +3505,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0) | 1.4.0 | 2022/09/30 15:07:46 | 103.03KB | 225 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0) | 1.4.0 | 2022/09/30 15:07:46 | 103.03KB | 226 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 242 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3) | 1.2.3 | 2022/03/28 07:00:16 | 101.56KB | 112 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz) |
 
