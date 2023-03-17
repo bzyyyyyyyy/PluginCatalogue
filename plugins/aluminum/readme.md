@@ -8,8 +8,8 @@
 
 - Plugin ID: `aluminum`
 - Plugin Name: Aluminum
-- Version: 0.1.3
-  - Metadata version: 0.1.3
+- Version: 0.2.0
+  - Metadata version: 0.2.0
   - Release version: N/A
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
