@@ -1,42 +1,8 @@
 {
   "schema_version": 6,
   "id": "todolist",
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.3",
   "releases": [
-    {
-      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.4",
-      "name": "todolist-v1.0.4",
-      "tag_name": "todolist-v1.0.4",
-      "created_at": "2023-03-18T17:02:27Z",
-      "assets": [
-        {
-          "name": "ToDoList-v1.0.4.mcdr",
-          "size": 4780,
-          "download_count": 0,
-          "created_at": "2023-03-18T17:06:48Z",
-          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.4/ToDoList-v1.0.4.mcdr"
-        }
-      ],
-      "description": "## What's Changed\r\n* 加入了tag功能\r\n* [Hotfix] 修復todolist的add模式，於輸入五個參數的狀況下不會儲存detail的問題 by @dream-rhythm in https://github.com/Flash-Z/MCDReforgedPlugins/pull/1\r\n\r\n## New Contributors\r\n* @dream-rhythm made their first contribution in https://github.com/Flash-Z/MCDReforgedPlugins/pull/1\r\n\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.3...todolist-v1.0.4",
-      "prerelease": false,
-      "parsed_version": "1.0.4",
-      "meta": {
-        "schema_version": 2,
-        "id": "todolist",
-        "name": "ToDoList",
-        "version": "1.0.4",
-        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
-        "authors": [
-          "Flash-Z"
-        ],
-        "dependencies": {},
-        "requirements": [],
-        "description": {
-          "en_us": "ToDoList",
-          "zh_cn": "ToDoList，待办清单"
-        }
-      }
-    },
     {
       "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.3",
       "name": "todolist-v1.0.3",
