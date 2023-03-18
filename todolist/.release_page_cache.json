@@ -3,8 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"b8b8ee21bf55b2ae08f42ab3fc1cb1977f83313cf9ba79e1ca82050e95da3165\"",
+      "etag": "\"c8ed2803954ed6bfbae2b9ccc0f33ca26983cc4621c20a1584859577436a1687\"",
       "release_tags": [
+        "todolist-v1.0.4",
         "todolist-v1.0.3",
         "todolist-v1.0.2",
         "todolist-v1.0.1",
