@@ -49,7 +49,7 @@ Plugin Amount: 43
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`Tool`](/labels/tool/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
-| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/03/19 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/02/08 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
 | [Whisper](/plugins/whisper/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Send some private message to others in a faster way.(Vanilla feature supplements) | 2023/02/20 | [`Tool`](/labels/tool/readme.md) |
 | [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2023/02/26 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
