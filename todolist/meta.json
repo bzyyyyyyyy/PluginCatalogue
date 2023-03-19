@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "todolist",
   "name": "ToDoList",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
   "authors": [
     "Flash-Z"
