@@ -1898,7 +1898,7 @@ Params:
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 2969
+- 总下载量: 2971
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
 - 仓库插件页: https://github.com/TISUnion/joinMOTD/tree/master
@@ -1925,7 +1925,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1133 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1135 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1836 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
@@ -4728,7 +4728,8 @@ Only matches the IP address received by the server and player name, and the play
 # MCDR-ToDoList
 适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)的ToDoList插件，可查看项目名称、描述、进度及创建者等
 ## 展示:
-![!!td list](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-02-01_21-58-39.png)
+![!!td list](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-20.png)
+![!!td tag](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-54.png)
 ## 操作:
 | 指令 | 用途 |
 | - | - |
@@ -4737,11 +4738,14 @@ Only matches the IP address received by the server and player name, and the play
 | !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
 | !!td del \<name> | 删除名为\<name>的项目 |
 | !!td reload | 重载配置文件 |
+| !!td tag list | 列出所有tag |
+| !!td tag list \<tag> | 列出\<tag>下的项目 |
+| !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
+| !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
 注：指令第二项也可只输入首字母，如 !!td list->!!td l
 
 ## ToDo:
-1. tags功能（已在配置文件中预留，等待填坑）
-2. 分页功能
+1. 分页功能
 ### 下载
 
 > :warning: 注意：使用插件之前，先阅读仓库中的 README。
@@ -4858,7 +4862,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 52
+- 总下载量: 54
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/Welcome_MSG
 - 仓库插件页: https://github.com/JAs0n319/Welcome_MSG/tree/master
@@ -4885,7 +4889,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 52 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
+| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 54 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
 | [welcome_msg-v1.0.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.0.0) | 1.0.0 | 2023/02/02 03:52:13 | 1.29KB | 0 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.0.0/welcome_msg-v1.0.0.mcdr) |
 
 ## where_is
