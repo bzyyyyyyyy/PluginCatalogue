@@ -818,7 +818,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 0.0.3
   - Metadata version: 0.0.3
   - Release version: 0.0.3
-- Total downloads: 19
+- Total downloads: 21
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
@@ -863,7 +863,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ColoredChat-v0.0.3.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.3) | 0.0.3 | 2023/02/26 00:06:36 | 1.54KB | 19 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/colored_chat-v0.0.3/ColoredChat-v0.0.3.mcdr) |
+| [ColoredChat-v0.0.3.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.3) | 0.0.3 | 2023/02/26 00:06:36 | 1.54KB | 21 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/colored_chat-v0.0.3/ColoredChat-v0.0.3.mcdr) |
 
 ## command_exporter
 
@@ -4640,9 +4640,9 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 - Plugin ID: `todolist`
 - Plugin Name: ToDoList
-- Version: 1.0.3
-  - Metadata version: 1.1.0
-  - Release version: 1.0.3
+- Version: 1.1.1
+  - Metadata version: 1.1.1
+  - Release version: 1.1.1
 - Total downloads: 37
 - Authors: [Flash-Z](https://github.com/Flash-Z)
 - Repository: https://github.com/Flash-Z/MCDReforgedPlugins
@@ -4675,8 +4675,8 @@ Worried about infrequent backups leading to serious progress losses due to the w
 | !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
 | !!td del \<name> | 删除名为\<name>的项目 |
 | !!td reload | 重载配置文件 |
-| !!td tag list | 列出所有tag |
-| !!td tag list \<tag> | 列出\<tag>下的项目 |
+| !!td tag | 列出所有tag |
+| !!td tag \<tag> | 列出\<tag>下的项目 |
 | !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
 | !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
 注：指令第二项也可只输入首字母，如 !!td list->!!td l
@@ -4689,9 +4689,9 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [ToDoList-v1.1.1.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.1.1) | 1.1.1 | 2023/03/19 05:37:52 | 4.02KB | 0 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.1.1/ToDoList-v1.1.1.mcdr) |
 | [ToDoList-v1.0.3.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.3) | 1.0.3 | 2023/02/15 09:50:19 | 3.32KB | 22 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.3/ToDoList-v1.0.3.mcdr) |
 | [ToDoList-v1.0.2.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.2) | 1.0.2 | 2023/02/05 06:01:13 | 3.27KB | 7 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.2/ToDoList-v1.0.2.mcdr) |
-| [ToDoList-v1.0.1.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.1) | 1.0.1 | 2023/02/03 06:38:11 | 2.97KB | 2 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.1/ToDoList-v1.0.1.mcdr) |
 
 ## tpm
 
