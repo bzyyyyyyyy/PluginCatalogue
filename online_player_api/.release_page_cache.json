@@ -3,8 +3,10 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"9463d0a29856f24151ad4e107bc4c086a6f65a814c12ef7c1b40321c756d9e23\"",
-      "release_tags": [],
+      "etag": "\"0ef6102fae111a88fdc016cbe75d1e5b6c7a923043ed7a1f23ea40b1ed5015d4\"",
+      "release_tags": [
+        "online_player_api-v1.0.0"
+      ],
       "empty": false
     },
     {
