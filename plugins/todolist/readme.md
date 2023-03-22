@@ -51,6 +51,7 @@
 
 ## ToDo:
 1. 分页功能
+2. 更加便捷的tag操作（思路不多）
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
