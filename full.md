@@ -2721,7 +2721,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 4817
+- Total downloads: 4819
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
@@ -2752,7 +2752,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 4817 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 4819 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -4342,7 +4342,7 @@ testing basic server problem.
 - Version: 1.4.2
   - Metadata version: 1.4.2
   - Release version: 1.4.2
-- Total downloads: 261
+- Total downloads: 264
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_backup_mcdr
 - Repository plugin page: https://github.com/kmcsr/smart_backup_mcdr/tree/master
@@ -4370,7 +4370,7 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartBackup-v1.4.2.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2022/05/11 17:33:33 | 26.41KB | 198 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.2/SmartBackup-v1.4.2.mcdr) |
+| [SmartBackup-v1.4.2.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2022/05/11 17:33:33 | 26.41KB | 201 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.2/SmartBackup-v1.4.2.mcdr) |
 | [SmartBackup-v1.4.1.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.1) | 1.4.1 | 2022/05/09 01:49:49 | 12.93KB | 7 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.1/SmartBackup-v1.4.1.mcdr) |
 | [SmartBackup-v1.4.0.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.0) | 1.4.0 | 2022/05/07 19:37:53 | 12.93KB | 4 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.0/SmartBackup-v1.4.0.mcdr) |
 
