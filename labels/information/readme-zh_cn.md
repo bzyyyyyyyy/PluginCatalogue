@@ -22,7 +22,7 @@
 | [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2023/03/04 | [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | QQ 相关实用功能 | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
-| [Seed](/plugins/seed/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | Get world seed without op permission. | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [Seed](/plugins/seed/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 在没有op权限的情况下获取种子 | 2023/03/23 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/03/19 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
