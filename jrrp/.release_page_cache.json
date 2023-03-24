@@ -3,6 +3,14 @@
   "release_pages": [
     {
       "index": 1,
+      "etag": "\"8cf2d71239bc8517ffbce561d05e709c705b114992a0d2da032df7f06f2ac499\"",
+      "release_tags": [
+        "3.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
       "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
       "release_tags": [],
       "empty": true
