@@ -1,8 +1,45 @@
 {
   "schema_version": 6,
   "id": "minecraft_command_register",
-  "latest_version": "1.2.4",
+  "latest_version": "1.3.0",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.0",
+      "name": "minecraft_command_register: v1.3.0",
+      "tag_name": "minecraft_command_register-v1.3.0",
+      "created_at": "2023-03-26T19:16:31Z",
+      "assets": [
+        {
+          "name": "MinecraftCommandRegister-v1.3.0.mcdr",
+          "size": 1610,
+          "download_count": 0,
+          "created_at": "2023-03-26T19:17:13Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.0/MinecraftCommandRegister-v1.3.0.mcdr"
+        }
+      ],
+      "description": "## [1.3.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.2.4...minecraft_command_register-v1.3.0) (2023-03-26)\n\n\n### Features\n\n* **minecraft_command_register:** ✨ upgrade to 1.3.0 as MCDR upgrade to 2.8.1 ([c6981ae](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/c6981ae3a0acee1aaba3c21133420347bbd6bba7))",
+      "prerelease": false,
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 2,
+        "id": "minecraft_command_register",
+        "name": "Minecraft Command Register",
+        "version": "1.3.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "authors": [
+          "Andy Zhang",
+          "ZhuRuoLing"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.8.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register MCDReforged commands in Minecraft",
+          "zh_cn": "在 Minecraft 中注册 MCDReforged 指令"
+        }
+      }
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.2.4",
       "name": "minecraft_command_register: v1.2.4",
