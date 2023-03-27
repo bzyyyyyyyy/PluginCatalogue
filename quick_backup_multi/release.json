@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "quick_backup_multi",
   "latest_version": "1.8.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.8.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.8.0",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -59,11 +60,12 @@
       "prerelease": false,
       "parsed_version": "1.7.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.7.0",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -97,11 +99,12 @@
       "prerelease": false,
       "parsed_version": "1.6.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.6.0",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -135,11 +138,12 @@
       "prerelease": false,
       "parsed_version": "1.5.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.5.0",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -173,11 +177,12 @@
       "prerelease": false,
       "parsed_version": "1.4.4",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.4.4",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -211,11 +216,12 @@
       "prerelease": false,
       "parsed_version": "1.4.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.4.3",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -249,11 +255,12 @@
       "prerelease": false,
       "parsed_version": "1.4.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.4.2",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -287,11 +294,12 @@
       "prerelease": false,
       "parsed_version": "1.4.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.4.1",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -325,11 +333,12 @@
       "prerelease": false,
       "parsed_version": "1.3.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.3.3",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],
@@ -363,11 +372,12 @@
       "prerelease": false,
       "parsed_version": "1.2.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_backup_multi",
         "name": "Quick Backup Multi",
         "version": "1.2.2",
         "repository": "https://github.com/TISUnion/QuickBackupM",
+        "link": "https://github.com/TISUnion/QuickBackupM",
         "authors": [
           "Fallen_Breath"
         ],

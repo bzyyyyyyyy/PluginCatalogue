@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "daycount_nbt",
   "name": "DayCount NBT",
   "version": "2.2.1",
   "repository": "https://github.com/alex3236/daycount-NBT",
+  "link": "https://github.com/alex3236/daycount-NBT",
   "authors": [
     "Alex3236"
   ],

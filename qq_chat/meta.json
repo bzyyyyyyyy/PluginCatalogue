@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "qq_chat",
   "name": "QQChat",
   "version": "1.0.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
   "authors": [
     "Andy Zhang"
   ],

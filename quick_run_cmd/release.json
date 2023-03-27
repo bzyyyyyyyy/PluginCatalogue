@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "quick_run_cmd",
   "latest_version": "2.0.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "2.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "quick_run_cmd",
         "name": "quick_run_cmd",
         "version": "2.0.0",
         "repository": "https://github.com/R1ckyH/quick_run_cmd",
+        "link": "https://github.com/R1ckyH/quick_run_cmd",
         "authors": [
           "Ricky"
         ],

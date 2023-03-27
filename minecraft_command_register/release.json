@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "minecraft_command_register",
   "latest_version": "1.3.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.3.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.3.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -58,11 +59,12 @@
       "prerelease": false,
       "parsed_version": "1.2.4",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.2.4",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -95,11 +97,12 @@
       "prerelease": false,
       "parsed_version": "1.2.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.2.3",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -132,11 +135,12 @@
       "prerelease": false,
       "parsed_version": "1.2.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.2.2",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -169,11 +173,12 @@
       "prerelease": false,
       "parsed_version": "1.2.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.2.1",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -206,11 +211,12 @@
       "prerelease": false,
       "parsed_version": "1.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.2.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -243,11 +249,12 @@
       "prerelease": false,
       "parsed_version": "1.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.1.1",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -280,11 +287,12 @@
       "prerelease": false,
       "parsed_version": "1.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.1.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"
@@ -317,11 +325,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "minecraft_command_register",
         "name": "Minecraft Command Register",
         "version": "1.0.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
         "authors": [
           "Andy Zhang",
           "ZhuRuoLing"

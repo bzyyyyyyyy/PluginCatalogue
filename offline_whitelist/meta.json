@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "offline_whitelist",
   "name": "OfflineWhitelist",
   "version": "0.1.4",
   "repository": "https://github.com/skuzow/offline-whitelist",
+  "link": "https://github.com/skuzow/offline-whitelist",
   "authors": [
     "skuzow"
   ],

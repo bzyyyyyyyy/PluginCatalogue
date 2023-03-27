@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "permanent_backup",
   "latest_version": "1.0.3",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.0.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "permanent_backup",
         "name": "Permanent Backup",
         "version": "1.0.3",
         "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "link": "https://github.com/MCDReforged/PermanentBackup",
         "authors": [
           "Fallen_Breath"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "permanent_backup",
         "name": "Permanent Backup",
         "version": "1.0.2",
         "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "link": "https://github.com/MCDReforged/PermanentBackup",
         "authors": [
           "Fallen_Breath"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "permanent_backup",
         "name": "Permanent Backup",
         "version": "1.0.1",
         "repository": "https://github.com/MCDReforged/PermanentBackup",
+        "link": "https://github.com/MCDReforged/PermanentBackup",
         "authors": [
           "Fallen_Breath"
         ],

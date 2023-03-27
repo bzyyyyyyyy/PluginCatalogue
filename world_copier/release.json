@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "world_copier",
   "latest_version": "0.1.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "world_copier",
         "name": "World Copier",
         "version": "0.1.0",
         "repository": "https://github.com/MCDReforged/WorldCopier",
+        "link": "https://github.com/MCDReforged/WorldCopier",
         "authors": [
           "Alex3236"
         ],

@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "the_offline_ops",
   "name": "The Offline ops",
   "version": "1.1",
   "repository": "https://github.com/ltBerryshdo/the_offline_ops",
+  "link": "https://github.com/ltBerryshdo/the_offline_ops",
   "authors": [
     "ltBerryshdo"
   ],

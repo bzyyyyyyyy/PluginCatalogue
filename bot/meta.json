@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "bot",
   "name": "Bot",
   "version": "1.0.6",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
   "authors": [
     "Andy Zhang"
   ],

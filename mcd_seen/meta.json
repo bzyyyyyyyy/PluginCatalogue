@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "mcd_seen",
   "name": "Seen",
   "version": "1.2.1",
   "repository": "https://github.com/TISUnion/Seen",
+  "link": "https://github.com/TISUnion/Seen",
   "authors": [
     "Pandaria",
     "Fallen_Breath",

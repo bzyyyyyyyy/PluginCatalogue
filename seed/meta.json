@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "seed",
   "name": "Seed",
   "version": "1.2.0",
   "repository": "https://github.com/OptiJava/Seed",
+  "link": "https://github.com/OptiJava/Seed",
   "authors": [
     "OptiJava"
   ],

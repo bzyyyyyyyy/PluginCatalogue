@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "chatbridge",
   "latest_version": "2.5.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "2.5.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.5.0",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -61,11 +62,12 @@
       "prerelease": false,
       "parsed_version": "2.4.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.4.1",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -101,11 +103,12 @@
       "prerelease": false,
       "parsed_version": "2.3.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.3.0",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -141,11 +144,12 @@
       "prerelease": false,
       "parsed_version": "2.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.2.0",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -181,11 +185,12 @@
       "prerelease": false,
       "parsed_version": "2.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.1.1",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -221,11 +226,12 @@
       "prerelease": false,
       "parsed_version": "2.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.5",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -261,11 +267,12 @@
       "prerelease": false,
       "parsed_version": "2.0.4",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.4",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -301,11 +308,12 @@
       "prerelease": false,
       "parsed_version": "2.0.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.3",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -341,11 +349,12 @@
       "prerelease": false,
       "parsed_version": "2.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.2",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -381,11 +390,12 @@
       "prerelease": false,
       "parsed_version": "2.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.1",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],
@@ -421,11 +431,12 @@
       "prerelease": false,
       "parsed_version": "2.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.0.0",
         "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
           "Fallen_Breath"
         ],

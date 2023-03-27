@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "leader_reforged",
   "name": "Leader Reforged",
   "version": "1.1.2",
   "repository": "https://github.com/Minecraft-AMS/Leader-Reforged",
+  "link": null,
   "authors": [
     "XavierWah"
   ],

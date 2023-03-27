@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "daycount_nbt",
   "latest_version": "2.2.1",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "2.2.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "DayCount NBT",
         "version": "2.2.1",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/alex3236/daycount-NBT",
         "authors": [
           "Alex3236"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "2.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "DayCount NBT",
         "version": "2.1.1",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/alex3236/daycount-NBT",
         "authors": [
           "Alex3236"
         ],
@@ -95,11 +97,12 @@
       "prerelease": false,
       "parsed_version": "2.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "DayCount NBT",
         "version": "2.1.0",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/alex3236/daycount-NBT",
         "authors": [
           "Alex3236"
         ],
@@ -133,11 +136,12 @@
       "prerelease": false,
       "parsed_version": "2.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "DayCount NBT",
         "version": "2.0.2",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
         "authors": [
           "Alex3236"
         ],
@@ -171,11 +175,12 @@
       "prerelease": false,
       "parsed_version": "2.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "DayCount NBT",
         "version": "2.0.1",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
         "authors": [
           "Alex3236"
         ],
@@ -209,11 +214,12 @@
       "prerelease": false,
       "parsed_version": "2.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "daycount_nbt",
         "name": "joinMOTD++",
         "version": "2.0.0",
         "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
         "authors": [
           "Alex3236"
         ],

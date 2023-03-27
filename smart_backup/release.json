@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "smart_backup",
   "latest_version": "1.4.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.4.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.4.2",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.4.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.4.1",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.4.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.4.0",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.3.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.3.0",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -165,11 +169,12 @@
       "prerelease": false,
       "parsed_version": "1.2.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.2.1",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -201,11 +206,12 @@
       "prerelease": false,
       "parsed_version": "1.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.2.0",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -237,11 +243,12 @@
       "prerelease": false,
       "parsed_version": "1.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.1.1",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -273,11 +280,12 @@
       "prerelease": false,
       "parsed_version": "1.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.1.0",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -309,11 +317,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.0.0",
         "repository": "https://github.com/kmcsr/smart_backup_mcdr",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
         ],

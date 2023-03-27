@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "mirror_server_reforged",
   "name": "MirrorServerReforged",
   "version": "1.0.7",
   "repository": "https://github.com/EMUnion/MirrorServerReforged",
+  "link": "https://github.com/EMUnion/MirrorServerReforged",
   "authors": [
     "GamerNoTitle"
   ],

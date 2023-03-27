@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "jrrps",
   "latest_version": "2.3.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "2.3.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "jrrps",
         "name": "Jrrps Plg",
         "version": "2.3.2",
         "repository": "https://github.com/SkyDynamic/jrrps",
+        "link": "https://github.com/SkyDynamic/jrrps",
         "authors": [
           "SkyDynamic"
         ],

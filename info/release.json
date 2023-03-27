@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "info",
   "latest_version": "0.2.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "info",
         "name": "Info",
         "version": "0.2.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info",
         "authors": [
           "Andy Zhang"
         ],
@@ -58,11 +59,12 @@
       "prerelease": false,
       "parsed_version": "0.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "info",
         "name": "Info",
         "version": "0.1.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info",
         "authors": [
           "Andy Zhang"
         ],

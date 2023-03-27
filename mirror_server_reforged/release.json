@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "mirror_server_reforged",
   "latest_version": "1.0.7",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.0.7",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.7",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.0.6",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.6",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.0.5",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.5",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.0.4",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.4",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -165,11 +169,12 @@
       "prerelease": false,
       "parsed_version": "1.0.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.3",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -201,11 +206,12 @@
       "prerelease": false,
       "parsed_version": "1.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.2",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],
@@ -237,11 +243,12 @@
       "prerelease": false,
       "parsed_version": "1.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_reforged",
         "name": "MirrorServerReforged",
         "version": "1.0.1",
         "repository": "https://github.com/EMUnion/MirrorServerReforged",
+        "link": "https://github.com/EMUnion/MirrorServerReforged",
         "authors": [
           "GamerNoTitle"
         ],

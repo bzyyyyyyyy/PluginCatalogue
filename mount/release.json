@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "mount",
   "latest_version": "0.2.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mount",
         "name": "Mount",
         "version": "0.2.0",
         "repository": "https://github.com/FAS-Server/Mount",
+        "link": "https://github.com/FAS-Server/Mount",
         "authors": [
           "YehowahLiu"
         ],
@@ -61,11 +62,12 @@
       "prerelease": false,
       "parsed_version": "0.1.0-beta1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mount",
         "name": "Mount",
         "version": "0.1.0-beta1",
         "repository": "https://github.com/FAS-Server/Mount",
+        "link": "https://github.com/FAS-Server/Mount",
         "authors": [
           "YehowahLiu"
         ],

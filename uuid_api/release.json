@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "uuid_api",
   "latest_version": "0.1.1",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "uuid_api",
         "name": "UUIDAPI",
         "version": "0.1.1",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api",
         "authors": [
           "Andy Zhang"
         ],
@@ -55,11 +56,12 @@
       "prerelease": false,
       "parsed_version": "0.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "uuid_api",
         "name": "UUIDAPI",
         "version": "0.1.0",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api",
         "authors": [
           "Andy Zhang"
         ],

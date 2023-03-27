@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "online",
   "name": "Online",
   "version": "1.4.1-alpha1",
   "repository": "https://github.com/FAS-Server/Online",
+  "link": "https://github.com/FAS-Server/online",
   "authors": [
     "A-JiuA",
     "Nineking",

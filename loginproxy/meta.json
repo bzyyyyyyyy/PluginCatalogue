@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "loginproxy",
   "name": "LoginProxy",
   "version": "0.5.3",
   "repository": "https://github.com/kmcsr/login_proxy_mcdr",
+  "link": "https://github.com/kmcsr/login_proxy_mcdr",
   "authors": [
     "zyxkad"
   ],

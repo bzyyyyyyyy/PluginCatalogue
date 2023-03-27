@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "kpi",
   "latest_version": "1.4.5",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.4.5",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.5",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.4.4",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.4",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.4.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.3",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.4.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.2",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -165,11 +169,12 @@
       "prerelease": false,
       "parsed_version": "1.4.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -201,11 +206,12 @@
       "prerelease": false,
       "parsed_version": "1.4.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.4.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -237,11 +243,12 @@
       "prerelease": false,
       "parsed_version": "1.3.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.3.3",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -273,11 +280,12 @@
       "prerelease": false,
       "parsed_version": "1.3.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.3.2",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -309,11 +317,12 @@
       "prerelease": false,
       "parsed_version": "1.3.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.3.1",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -345,11 +354,12 @@
       "prerelease": false,
       "parsed_version": "1.3.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.3.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -381,11 +391,12 @@
       "prerelease": false,
       "parsed_version": "1.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.2.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -417,11 +428,12 @@
       "prerelease": false,
       "parsed_version": "1.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.1.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -453,11 +465,12 @@
       "prerelease": false,
       "parsed_version": "1.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.0.2",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -489,11 +502,12 @@
       "prerelease": false,
       "parsed_version": "1.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.0.1",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],
@@ -525,11 +539,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "kpi",
         "name": "KPI",
         "version": "1.0.0",
         "repository": "https://github.com/kmcsr/kpi_mcdr",
+        "link": "https://github.com/kmcsr/kpi_mcdr",
         "authors": [
           "zyxkad"
         ],

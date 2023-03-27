@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "chatbridgereforged_mc",
   "latest_version": "0.2.7",
   "releases": [
@@ -42,11 +42,12 @@
       "prerelease": false,
       "parsed_version": "0.2.7",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridgereforged_mc",
         "name": "ChatBridgeReforged_MC",
         "version": "0.2.7-dev032",
         "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
         "authors": [
           "Ricky"
         ],
@@ -102,11 +103,12 @@
       "prerelease": false,
       "parsed_version": "0.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridgereforged_mc",
         "name": "ChatBridgeReforged_MC",
         "version": "0.1.1-dev024",
         "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
         "authors": [
           "Ricky"
         ],
@@ -162,11 +164,12 @@
       "prerelease": false,
       "parsed_version": "0.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "chatbridgereforged_mc",
         "name": "ChatBridgeReforged_MC",
         "version": "0.0.2-dev022",
         "repository": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
         "authors": [
           "Ricky"
         ],

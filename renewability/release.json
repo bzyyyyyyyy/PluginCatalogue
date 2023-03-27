@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "renewability",
   "latest_version": "1.1.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "renewability",
         "name": "Renewability",
         "version": "1.1.0",
         "repository": "https://github.com/Fidelxyz/MCDR-Renewability",
+        "link": "https://github.com/Fidelxyz/MCDR-Renewability",
         "authors": [
           "Fidel Yin"
         ],

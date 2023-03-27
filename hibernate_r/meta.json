@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "id": "hibernate_r",
   "name": "HibernateR",
   "version": "1.0.0",
   "repository": "https://github.com/HIM049/MCDR_HibernateR",
+  "link": "https://github.com/HIM049/MCDR_HibernateR",
   "authors": [
     "HIM049",
     "sout_Nantang"

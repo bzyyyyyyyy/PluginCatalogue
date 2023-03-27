@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "here",
   "latest_version": "1.2.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.2.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "here",
         "name": "Here",
         "version": "1.2.2",
         "repository": "https://github.com/TISUnion/Here",
+        "link": "https://github.com/TISUnion/Here",
         "authors": [
           "Fallen_Breath",
           "nathan21hz",
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.2.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "here",
         "name": "Here",
         "version": "1.2.1",
         "repository": "https://github.com/TISUnion/Here",
+        "link": "https://github.com/TISUnion/Here",
         "authors": [
           "Fallen_Breath",
           "nathan21hz",
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "here",
         "name": "Here",
         "version": "1.2.0",
         "repository": "https://github.com/TISUnion/Here",
+        "link": "https://github.com/TISUnion/Here",
         "authors": [
           "Fallen_Breath",
           "nathan21hz",
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.1.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "here",
         "name": "Here",
         "version": "1.1.2",
         "repository": "https://github.com/TISUnion/Here",
+        "link": "https://github.com/TISUnion/Here",
         "authors": [
           "Fallen_Breath",
           "nathan21hz",
@@ -165,11 +169,12 @@
       "prerelease": false,
       "parsed_version": "1.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "here",
         "name": "Here",
         "version": "1.1.1",
         "repository": "https://github.com/TISUnion/Here",
+        "link": "https://github.com/TISUnion/Here",
         "authors": [
           "Fallen_Breath",
           "nathan21hz",

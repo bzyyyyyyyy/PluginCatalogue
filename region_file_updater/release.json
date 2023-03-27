@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "region_file_updater",
   "latest_version": "1.5.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.5.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "region_file_updater",
         "name": "Region file Updater",
         "version": "1.5.2",
         "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "link": "https://github.com/TISUnion/RegionFileUpdater",
         "authors": [
           "Fallen_Breath"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.5.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "region_file_updater",
         "name": "Region file Updater",
         "version": "1.5.0",
         "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "link": "https://github.com/TISUnion/RegionFileUpdater",
         "authors": [
           "Fallen_Breath"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.5.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "region_file_updater",
         "name": "Region file Updater",
         "version": "1.5.0",
         "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "link": "https://github.com/TISUnion/RegionFileUpdater",
         "authors": [
           "Fallen_Breath"
         ],
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.4.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "region_file_updater",
         "name": "Region file Updater",
         "version": "1.4.1",
         "repository": "https://github.com/TISUnion/RegionFileUpdater",
+        "link": "https://github.com/TISUnion/RegionFileUpdater",
         "authors": [
           "Fallen_Breath"
         ],

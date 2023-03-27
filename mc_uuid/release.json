@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "mc_uuid",
   "latest_version": "1.0.0",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mc_uuid",
         "name": "Minecraft UUID API",
         "version": "1.0.0",
         "repository": "https://github.com/HuajiMUR233/MCUUID",
+        "link": "https://github.com/HuajiMUR233/MCUUID",
         "authors": [
           "Huaji_MUR233"
         ],

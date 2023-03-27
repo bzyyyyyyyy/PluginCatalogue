@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "bingo",
   "latest_version": "0.0.3",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.0.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "bingo",
         "name": "Bingo",
         "version": "0.0.3",
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo",
         "authors": [
           "Andy Zhang"
         ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "location_marker",
   "latest_version": "1.3.1",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.3.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "location_marker",
         "name": "Location Marker",
         "version": "1.3.1",
         "repository": "https://github.com/TISUnion/LocationMarker",
+        "link": "https://github.com/TISUnion/LocationMarker",
         "authors": [
           "Fallen_Breath",
           "Van_Involution"

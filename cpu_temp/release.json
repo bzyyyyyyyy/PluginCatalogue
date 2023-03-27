@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "cpu_temp",
   "latest_version": "3.0.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "3.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "cpu_temp",
         "name": "cpu_temp",
         "version": "3.0.2",
         "repository": "https://github.com/R1ckyH/cpu_temp",
+        "link": "https://github.com/R1ckyH/cpu_temp",
         "authors": [
           "Ricky"
         ],

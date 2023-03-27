@@ -71,13 +71,14 @@ For `MetaInfo` object in `ReleaseSummary` object, the information is fetched fro
 
 ```json5
 {
-  "schema_version": 2,
+  "schema_version": 3,
 
   // Basic information
   "id": "my_plugin",  // id of the plugin
   "name": "MyPlugin",  // name of the plugin
   "version": "1.2.0",  // version of the plugin
-  "repository": "https://github.com/Myself/MyPlugin",  // plugin's GitHub repository url
+  "repository": "https://github.com/Myself/MyPlugin",  // plugin's GitHub repository url, from plugin_info.json
+  "link": "https://home.myself.me",  // plugin's main page, from mcdreforged.plugin.json. Might not be a GitHub url
   "authors": ["MyName"],  // a list of string, names of plugin's authors
   
   // A map of (string -> string) that maps plugin id -> version requirement
@@ -108,7 +109,7 @@ The release summary of the plugin, which contains necessary information of all r
 
 ```json5
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "my_plugin",  // The id of the plugin that this ReleaseSummary belongs to
   
   // The latest version of the plugin

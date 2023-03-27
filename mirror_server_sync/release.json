@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "mirror_server_sync",
   "latest_version": "1.0.1",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_sync",
         "name": "Mirror Server Sync",
         "version": "1.0.0",
         "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+        "link": "https://github.com/VisualSpliter/MirrorServerSync",
         "authors": [
           "MRNOBODY-ZST",
           "Power-tile"
@@ -56,11 +57,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_server_sync",
         "name": "Mirror Server Sync",
         "version": "1.0.0",
         "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+        "link": "https://github.com/VisualSpliter/MirrorServerSync",
         "authors": [
           "MRNOBODY-ZST",
           "Power-tile"

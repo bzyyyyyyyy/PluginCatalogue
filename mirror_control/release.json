@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "mirror_control",
   "latest_version": "1.0.3",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "1.0.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_control",
         "name": "Mirror Control",
         "version": "1.0.3",
         "repository": "https://github.com/charassss/Mirror-Control",
+        "link": "https://github.com/charassss/Mirror-Control",
         "authors": [
           "Chara_SS"
         ],
@@ -57,11 +58,12 @@
       "prerelease": false,
       "parsed_version": "1.0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_control",
         "name": "Mirror Control",
         "version": "1.0.2",
         "repository": "https://github.com/charassss/Mirror-Control",
+        "link": "https://github.com/charassss/Mirror-Control",
         "authors": [
           "Chara_SS"
         ],
@@ -93,11 +95,12 @@
       "prerelease": false,
       "parsed_version": "1.0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_control",
         "name": "Mirror Control",
         "version": "1.0.1",
         "repository": "https://github.com/charassss/Mirror-Control",
+        "link": "https://github.com/charassss/Mirror-Control",
         "authors": [
           "Chara_SS"
         ],
@@ -129,11 +132,12 @@
       "prerelease": false,
       "parsed_version": "1.0.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "mirror_control",
         "name": "Mirror Control",
         "version": "1.0.0",
         "repository": "https://github.com/charassss/Mirror-Control",
+        "link": "https://github.com/charassss/Mirror-Control",
         "authors": [
           "Chara_SS"
         ],

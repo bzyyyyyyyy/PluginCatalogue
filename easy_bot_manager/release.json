@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "easy_bot_manager",
   "latest_version": "0.2",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "0.2",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "easy_bot_manager",
         "name": "Easy Bot Manager",
         "version": "0.2",
         "repository": "https://github.com/LiuTed/EasyBotManager",
+        "link": null,
         "authors": [
           "LiuTed"
         ],
@@ -59,11 +60,12 @@
       "prerelease": false,
       "parsed_version": "0.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "easy_bot_manager",
         "name": "Easy-to-use Carpet Bot Manager Plugin",
         "version": "0.1",
         "repository": "https://github.com/LiuTed/EasyBotManager",
+        "link": null,
         "authors": [
           "LiuTed"
         ],

@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "id": "stats_helper",
   "latest_version": "7.5.1",
   "releases": [
@@ -21,11 +21,12 @@
       "prerelease": false,
       "parsed_version": "7.5.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.5.1",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -59,11 +60,12 @@
       "prerelease": false,
       "parsed_version": "7.5.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.5.0",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -97,11 +99,12 @@
       "prerelease": false,
       "parsed_version": "7.4.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.4.0",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -135,11 +138,12 @@
       "prerelease": false,
       "parsed_version": "7.3.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.3.1",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -173,11 +177,12 @@
       "prerelease": false,
       "parsed_version": "7.2.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.2.0",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -211,11 +216,12 @@
       "prerelease": false,
       "parsed_version": "7.1.3",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.1.3",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -249,11 +255,12 @@
       "prerelease": false,
       "parsed_version": "7.1.1",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.1.1",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
@@ -287,11 +294,12 @@
       "prerelease": false,
       "parsed_version": "7.1.0",
       "meta": {
-        "schema_version": 2,
+        "schema_version": 3,
         "id": "stats_helper",
         "name": "Stats Helper",
         "version": "7.1.0",
         "repository": "https://github.com/TISUnion/StatsHelper",
+        "link": "https://github.com/TISUnion/StatsHelper",
         "authors": [
           "Fallen_Breath"
         ],
