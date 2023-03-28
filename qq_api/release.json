@@ -80,44 +80,6 @@
       }
     },
     {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.1.0",
-      "name": "qq_api: v1.1.0",
-      "tag_name": "qq_api-v1.1.0",
-      "created_at": "2023-02-03T21:02:27Z",
-      "assets": [
-        {
-          "name": "QQAPI-v1.1.0.mcdr",
-          "size": 1639,
-          "download_count": 5,
-          "created_at": "2023-02-03T22:07:45Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.1.0/QQAPI-v1.1.0.mcdr"
-        }
-      ],
-      "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/qq_api-v1.0.0...qq_api-v1.1.0) (2023-02-03)\r\n\r\n\r\n### Features\r\n\r\n* **qq_api:** ✨ add MessageEvent ([c6f37b7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/c6f37b79d9c988cec7e6fead2479abdca3beebb7))",
-      "prerelease": false,
-      "parsed_version": "1.1.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "qq_api",
-        "name": "QQAPI",
-        "version": "1.0.0",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
-        "authors": [
-          "Andy Zhang"
-        ],
-        "dependencies": {},
-        "requirements": [
-          "aiocqhttp",
-          "uvicorn"
-        ],
-        "description": {
-          "en_us": "Connect Minecraft and QQ",
-          "zh_cn": "连接 MC 与 QQ"
-        }
-      }
-    },
-    {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.0.0",
       "name": "qq_api: v1.0.0",
       "tag_name": "qq_api-v1.0.0",

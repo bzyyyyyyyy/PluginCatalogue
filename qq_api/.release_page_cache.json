@@ -3,11 +3,10 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"3f429f63d7e484a68e9c46eddbfcd3f73528376f11561eb0fea5145c10e99a03\"",
+      "etag": "\"af73ec2d2bad83c51f46273a97be98f8ee23b45bf93287837309051ed0775838\"",
       "release_tags": [
         "qq_api-v1.2.0",
         "qq_api-v1.1.1",
-        "qq_api-v1.1.0",
         "qq_api-v1.0.0"
       ],
       "empty": false
