@@ -1,8 +1,48 @@
 {
   "schema_version": 7,
   "id": "mcdreforged_plugin_manager",
-  "latest_version": "1.3.2",
+  "latest_version": "1.3.3",
   "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.3",
+      "name": "MCDReforgedPluginManager v1.3.3",
+      "tag_name": "v1.3.3",
+      "created_at": "2023-04-02T14:29:45Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.3.3.mcdr",
+          "size": 22309,
+          "download_count": 0,
+          "created_at": "2023-04-02T14:32:45Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.3/MCDReforgedPluginManager-v1.3.3.mcdr"
+        }
+      ],
+      "description": "## Changes\r\n\r\n- Compat the new `plugin.json` file from PluginCatalogue (resolved #4)\r\n- Stop using removed api `Serializable.update_from`\r\n- Fixed incorrect link in MCDR meta",
+      "prerelease": false,
+      "parsed_version": "1.3.3",
+      "meta": {
+        "schema_version": 3,
+        "id": "mcdreforged_plugin_manager",
+        "name": "MCDReforged Plugin Manager",
+        "version": "1.3.3",
+        "repository": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
+        "link": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0",
+          "requests"
+        ],
+        "description": {
+          "en_us": "Manage your mcdreforged plugins with ease",
+          "zh_cn": "轻松管理你的 MCDReforged 插件"
+        }
+      }
+    },
     {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.2",
       "name": "MCDReforgedPluginManager v1.3.2",
