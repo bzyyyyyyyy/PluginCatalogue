@@ -8,10 +8,10 @@
 
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
-- 版本: 1.3.0
-  - 元数据版本: 1.3.0
-  - 发布版本: 1.3.0
-- 总下载量: 253
+- 版本: 1.3.1
+  - 元数据版本: 1.3.1
+  - 发布版本: 1.3.1
+- 总下载量: 255
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
@@ -22,7 +22,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.8.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.8.2 |
 
 ### 包依赖
 
@@ -52,6 +52,7 @@
 | 2.7.2 | 1.2.4 |
 | 2.8.0 | None  |
 | 2.8.1 | 1.3.0 |
+| 2.8.2 | 1.3.1 |
 
 ## 安装指南
 
@@ -65,7 +66,8 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftCommandRegister-v1.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.0) | 1.3.0 | 2023/03/26 19:17:13 | 1.57KB | 10 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.0/MinecraftCommandRegister-v1.3.0.mcdr) |
+| [MinecraftCommandRegister-v1.3.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.1) | 1.3.1 | 2023/04/03 08:47:57 | 1.57KB | 0 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.1/MinecraftCommandRegister-v1.3.1.mcdr) |
+| [MinecraftCommandRegister-v1.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.0) | 1.3.0 | 2023/03/26 19:17:13 | 1.57KB | 12 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.0/MinecraftCommandRegister-v1.3.0.mcdr) |
 | [MinecraftCommandRegister-v1.2.4.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.2.4) | 1.2.4 | 2023/03/14 21:18:39 | 1.57KB | 16 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.2.4/MinecraftCommandRegister-v1.2.4.mcdr) |
 | [MinecraftCommandRegister-v1.2.3.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.2.3) | 1.2.3 | 2023/01/26 17:44:16 | 1.57KB | 55 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.2.3/MinecraftCommandRegister-v1.2.3.mcdr) |
 | [MinecraftCommandRegister-v1.2.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.2.2) | 1.2.2 | 2023/01/15 10:45:18 | 1.57KB | 27 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.2.2/MinecraftCommandRegister-v1.2.2.mcdr) |
