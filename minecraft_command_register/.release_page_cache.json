@@ -3,8 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"3d1a54a0a29331650bf5b6e5a3ef1bd8166ac52f142fa1ddd77e69f88b7f6737\"",
+      "etag": "\"a98f1939d35a061867dde77a13c459398d234b5717e6531891fb8e76027f7821\"",
       "release_tags": [
+        "minecraft_command_register-v1.3.1",
         "minecraft_command_register-v1.3.0",
         "minecraft_command_register-v1.2.4",
         "minecraft_command_register-v1.2.3",
