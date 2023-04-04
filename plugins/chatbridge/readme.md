@@ -9,7 +9,7 @@
 - Plugin ID: `chatbridge`
 - Plugin Name: ChatBridge v2 for MCDR
 - Version: 2.5.0
-  - Metadata version: 2.5.0
+  - Metadata version: 2.5.1
   - Release version: 2.5.0
 - Total downloads: 1575
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)

@@ -9,7 +9,7 @@
 - 插件 ID: `chatbridge`
 - 插件名: ChatBridge v2 for MCDR
 - 版本: 2.5.0
-  - 元数据版本: 2.5.0
+  - 元数据版本: 2.5.1
   - 发布版本: 2.5.0
 - 总下载量: 1575
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
