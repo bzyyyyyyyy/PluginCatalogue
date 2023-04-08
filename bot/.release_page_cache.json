@@ -3,13 +3,15 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"5c5dffee13582c55a598c8406b1543ec6d26f41977b22bece3abb3568afbb1d9\"",
+      "etag": "\"147bc75e5d05ae5ebe1cedecf8fb7949d0e2449527e547c73385c3dd9700a6e6\"",
       "release_tags": [
         "bot-v1.0.6",
         "bot-v1.0.5",
         "bot-v1.0.4",
         "bot-v1.0.3",
         "bot-v1.0.2",
+        "bot-v1.0.1",
+        "bot-v1.0.0",
         "bot-v0.1.0"
       ],
       "empty": false
