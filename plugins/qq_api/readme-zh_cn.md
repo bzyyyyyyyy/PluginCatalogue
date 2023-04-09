@@ -27,8 +27,6 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
 
 ### 介绍
 

@@ -7,30 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `lazytp`
-- Plugin Name: Lazy Teleport
-- Version: 2.0.1
-  - Metadata version: 2.0.1
-  - Release version: 2.0.1
+- Version: *Data fetching failed*
 - Total downloads: 2750
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
 - Repository plugin page: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A express gateway between each dimensions
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
-| [location_marker](/plugins/location_marker/readme.md) | \>=1.3.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.0 |
+*Data fetching failed*
 
 ### Introduction
 

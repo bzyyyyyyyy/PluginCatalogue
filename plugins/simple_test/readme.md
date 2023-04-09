@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `simple_test`
-- Plugin Name: simple_test
-- Version: 3.0.0
-  - Metadata version: 3.0.0
-  - Release version: 3.0.0
+- Version: *Data fetching failed*
 - Total downloads: 266
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/simple_test
 - Repository plugin page: https://github.com/R1ckyH/simple_test/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: testing basic server problem.
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [javaproperties](https://pypi.org/project/javaproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*Data fetching failed*
 
 ### Introduction
 
