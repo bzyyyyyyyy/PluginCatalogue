@@ -12,7 +12,7 @@
         {
           "name": "DayCountNBT-v2.2.1.mcdr",
           "size": 1520,
-          "download_count": 557,
+          "download_count": 559,
           "created_at": "2022-10-01T02:10:09Z",
           "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.2.1/DayCountNBT-v2.2.1.mcdr"
         }
@@ -109,7 +109,9 @@
         "dependencies": {
           "mcdreforged": ">=2.2.0"
         },
-        "requirements": [],
+        "requirements": [
+          "nbtlib"
+        ],
         "description": {
           "en_us": "Get and export server opening times.",
           "zh_cn": "获取和输出服务器开服时间。"
@@ -185,7 +187,9 @@
         "dependencies": {
           "mcdreforged": ">=2.0.1"
         },
-        "requirements": [],
+        "requirements": [
+          "nbtlib"
+        ],
         "description": {
           "en_us": "Get and export server opening times.",
           "zh_cn": "获取和输出服务器开服时间。"
