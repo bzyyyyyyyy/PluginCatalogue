@@ -27,6 +27,8 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
 
 ### Introduction
 

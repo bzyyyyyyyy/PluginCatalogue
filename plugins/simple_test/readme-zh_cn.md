@@ -7,21 +7,29 @@
 ### 基本信息
 
 - 插件 ID: `simple_test`
-- 版本: *数据拉取失败*
+- 插件名: simple_test
+- 版本: 3.0.0
+  - 元数据版本: 3.0.0
+  - 发布版本: 3.0.0
 - 总下载量: 266
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/simple_test
 - 仓库插件页: https://github.com/R1ckyH/simple_test/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 服务器基础自检插件。
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [javaproperties](https://pypi.org/project/javaproperties) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### 介绍
 
