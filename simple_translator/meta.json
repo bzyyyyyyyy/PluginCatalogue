@@ -11,7 +11,10 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0"
   },
-  "requirements": [],
+  "requirements": [
+    "mcdreforged >= 2.0.0",
+    "googletrans == 4.0.0rc1"
+  ],
   "description": {
     "en_us": "In-game translator"
   }

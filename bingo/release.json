@@ -20,7 +20,23 @@
       "description": "## [0.0.3](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bingo-0.0.2...bingo-v0.0.3) (2023-02-26)\n\n\n### Bug Fixes\n\n* **bingo:** 👽️ fix plugin catalogue aciton warning ([0a7e82a](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/0a7e82abeded3127bd3180ecf06d193bafc6be07))",
       "prerelease": false,
       "parsed_version": "0.0.3",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/bingo-v0.0.3/bingo/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100156-IAD 1681046680 4103686033</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "bingo",
+        "name": "Bingo",
+        "version": "0.0.3",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Useful tool for Bingo game",
+          "zh_cn": "Bingo 游戏实用工具"
+        }
+      }
     }
   ]
 }

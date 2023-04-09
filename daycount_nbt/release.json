@@ -57,7 +57,27 @@
       "description": "## 🔨 问题修复\r\n- 适配新版 nbtlib",
       "prerelease": false,
       "parsed_version": "2.1.1",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/alex3236/daycount-NBT/v2.1.1/src/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000028-IAD 1681046680 18988225</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.1",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib>=2.0.0"
+        ],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.1",
@@ -113,7 +133,27 @@
       "description": "## 🔨 问题修复\r\n- 修复配置文件路径问题",
       "prerelease": false,
       "parsed_version": "2.0.2",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/alex3236/daycount-NBT/v2.0.2/src/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100176-IAD 1681046680 1138509625</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.2",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      }
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.1",
@@ -169,7 +209,27 @@
       "description": "## 新特性 🚀🚀🚀\r\n- MCDR 2！",
       "prerelease": false,
       "parsed_version": "2.0.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/alex3236/daycount-NBT/v2.0.0/src/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000072-IAD 1681046680 227918763</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "daycount_nbt",
+        "name": "joinMOTD++",
+        "version": "2.0.0",
+        "repository": "https://github.com/alex3236/daycount-NBT",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      }
     }
   ]
 }

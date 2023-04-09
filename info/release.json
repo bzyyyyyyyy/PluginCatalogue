@@ -58,7 +58,25 @@
       "description": "## [0.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/info-v0.0.2...info-v0.1.0) (2022-06-30)\n\n\n### Features\n\n* **info:** ✨ use rtr instead of tr for multilang ([1d052aa](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/1d052aab180eae647534f31cc4762e8e44735f82))",
       "prerelease": false,
       "parsed_version": "0.1.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/info-v0.1.0/info/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000075-IAD 1681046677 727516667</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "info",
+        "name": "Info",
+        "version": "0.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "psutil"
+        ],
+        "description": {
+          "en_us": "Get server info",
+          "zh_cn": "获取服务器信息"
+        }
+      }
     }
   ]
 }

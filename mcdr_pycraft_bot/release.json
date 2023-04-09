@@ -59,7 +59,27 @@
       "description": "MCDR 2.0 format\r\n\r\nupdated pycraft to PR#230 (~mc1.17)\r\n\r\n",
       "prerelease": false,
       "parsed_version": "1.1.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/MCDReforged/MCDR-bot/v1.1.0/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kcgs7200072-IAD 1681046698 657590961</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "mcdr_pycraft_bot",
+        "name": "MCDR Bot",
+        "version": "1.1.0",
+        "repository": "https://github.com/MCDReforged/MCDR-bot",
+        "link": "https://github.com/MCDReforged/MCDR-bot",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography>=1.5",
+          "requests",
+          "PyNBT"
+        ],
+        "description": {
+          "en_us": "MCDR Bot powered by pyCraft",
+          "zh_cn": "使用 pycraft 的假人插件"
+        }
+      }
     }
   ]
 }

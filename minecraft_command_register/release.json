@@ -20,7 +20,26 @@
       "description": "## [1.3.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.3.1...minecraft_command_register-v1.3.2) (2023-04-04)\n\n\n### Features\n\n* **minecraft_command_register:** ✨ MCDR 2.8.3 ([55e8b8f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/55e8b8ff8347b3e12a0870e0fd5cf038b578fd54))",
       "prerelease": false,
       "parsed_version": "1.3.2",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/minecraft_command_register-v1.3.2/minecraft_command_register/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100064-IAD 1681046698 1562760904</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "minecraft_command_register",
+        "name": "Minecraft Command Register",
+        "version": "1.3.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
+        "authors": [
+          "Andy Zhang",
+          "ZhuRuoLing"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.8.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register MCDReforged commands in Minecraft",
+          "zh_cn": "在 Minecraft 中注册 MCDReforged 指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.1",
@@ -77,7 +96,26 @@
       "description": "## [1.3.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.2.4...minecraft_command_register-v1.3.0) (2023-03-26)\n\n\n### Features\n\n* **minecraft_command_register:** ✨ upgrade to 1.3.0 as MCDR upgrade to 2.8.1 ([c6981ae](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/c6981ae3a0acee1aaba3c21133420347bbd6bba7))",
       "prerelease": false,
       "parsed_version": "1.3.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/minecraft_command_register-v1.3.0/minecraft_command_register/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100045-IAD 1681046698 1558173821</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "minecraft_command_register",
+        "name": "Minecraft Command Register",
+        "version": "1.3.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
+        "authors": [
+          "Andy Zhang",
+          "ZhuRuoLing"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.8.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register MCDReforged commands in Minecraft",
+          "zh_cn": "在 Minecraft 中注册 MCDReforged 指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.2.4",
@@ -286,7 +324,26 @@
       "description": "## [1.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.1.0...minecraft_command_register-v1.1.1) (2022-11-20)\n\n\n### Bug Fixes\n\n* **minecraft_command_register:** 🐛 fix execute command ([87157ed](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/87157ed152095976acd7c7ac06491ce03e4724f2))",
       "prerelease": false,
       "parsed_version": "1.1.1",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/minecraft_command_register-v1.1.1/minecraft_command_register/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kcgs7200140-IAD 1681046713 4171651335</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "minecraft_command_register",
+        "name": "Minecraft Command Register",
+        "version": "1.1.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
+        "authors": [
+          "Andy Zhang",
+          "ZhuRuoLing"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register MCDReforged commands in Minecraft",
+          "zh_cn": "在 Minecraft 中注册 MCDReforged 指令"
+        }
+      }
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.1.0",
