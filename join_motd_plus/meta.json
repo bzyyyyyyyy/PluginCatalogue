@@ -11,10 +11,7 @@
   "dependencies": {
     "mcdreforged": ">=2.2.0"
   },
-  "requirements": [
-    "mcdreforged>=2.0.1",
-    "requests"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "Display content when players join the server. (with many useful features)",
     "zh_cn": "在玩家进入服务器时展示内容。（特色功能++）"

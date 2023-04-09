@@ -9,9 +9,7 @@
     "Huaji_MUR233"
   ],
   "dependencies": {},
-  "requirements": [
-    "requests>=2.25.1"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "Minecraft UUID API"
   }

@@ -9,10 +9,7 @@
     "Andy Zhang"
   ],
   "dependencies": {},
-  "requirements": [
-    "aiocqhttp",
-    "uvicorn==0.20.0"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "Connect Minecraft and QQ",
     "zh_cn": "连接 MC 与 QQ"

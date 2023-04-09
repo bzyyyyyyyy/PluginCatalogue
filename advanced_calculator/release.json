@@ -20,23 +20,7 @@
       "description": "## [0.3.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-v0.3.0...advanced_calculator-v0.3.1) (2023-01-19)\n\n\n### Bug Fixes\n\n* **advanced_calculator:** 🐛 fix double \"*\" too expensive to eval ([ceec10e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ceec10ea57e1887f998f3e3f6abdb0634d2f8e60))",
       "prerelease": false,
       "parsed_version": "0.3.1",
-      "meta": {
-        "schema_version": 3,
-        "id": "advanced_calculator",
-        "name": "AdvancedCalculator",
-        "version": "0.3.1",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
-        "authors": [
-          "Andy Zhang"
-        ],
-        "dependencies": {},
-        "requirements": [],
-        "description": {
-          "en_us": "Provides multiple convenient in-game calculations",
-          "zh_cn": "提供游戏内多种便捷计算"
-        }
-      }
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/advanced_calculator-v0.3.1/advanced_calculator/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100131-IAD 1681046677 3959551535</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0",
@@ -90,23 +74,7 @@
       "description": "## [0.2.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-v0.2.0...advanced_calculator-v0.2.1) (2022-07-21)\n\n\n### Bug Fixes\n\n* **advanced_calculator:** 🔒️ add security eval check in !!calc item command (fix [#54](https://github.com/AnzhiZhang/MCDReforgedPlugins/issues/54)) ([444dd85](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/444dd859a7c8a9fc65c612027893689ae9d7e314))",
       "prerelease": false,
       "parsed_version": "0.2.1",
-      "meta": {
-        "schema_version": 3,
-        "id": "advanced_calculator",
-        "name": "AdvancedCalculator",
-        "version": "0.2.1",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
-        "authors": [
-          "Andy Zhang"
-        ],
-        "dependencies": {},
-        "requirements": [],
-        "description": {
-          "en_us": "Provides multiple convenient in-game calculations",
-          "zh_cn": "提供游戏内多种便捷计算"
-        }
-      }
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/advanced_calculator-v0.2.1/advanced_calculator/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kjyo7100060-IAD 1681046678 3380301466</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0",

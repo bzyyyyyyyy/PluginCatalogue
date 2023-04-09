@@ -57,25 +57,7 @@
       "description": "## [1.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/dict_command_registration-v1.0.1...dict_command_registration-v1.0.2) (2022-12-29)\n\n\n### Bug Fixes\n\n* **dict_command_registration:** 🔊 move mcdr node print tree to logger.debug ([08f8b25](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/08f8b255b22c79df706ceca550c19b8ce402acbf))",
       "prerelease": false,
       "parsed_version": "1.0.2",
-      "meta": {
-        "schema_version": 3,
-        "id": "dict_command_registration",
-        "name": "Dict Command Registration",
-        "version": "1.0.2",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration",
-        "authors": [
-          "Andy Zhang"
-        ],
-        "dependencies": {
-          "mcdreforged": "^2.5.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "Register your command by a python dict",
-          "zh_cn": "用 Python 字典注册您的指令"
-        }
-      }
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/dict_command_registration-v1.0.2/dict_command_registration/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 first byte timeout</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 first byte timeout</h1>\\n    <p>first byte timeout</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kcgs7200134-IAD 1681046677 1966020955</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
     },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.1",
