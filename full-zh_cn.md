@@ -1169,7 +1169,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 285
+- 总下载量: 286
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/delayexe_mcdr
 - 仓库插件页: https://github.com/kmcsr/delayexe_mcdr/tree/master
@@ -1198,7 +1198,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 101 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
+| [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 102 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
 | [DelayExe-v1.2.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/10/23 06:19:23 | 4.78KB | 23 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.2/DelayExe-v1.2.2.mcdr) |
 | [DelayExe-v1.2.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/09/18 02:03:14 | 4.77KB | 18 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.1/DelayExe-v1.2.1.mcdr) |
 
@@ -2067,7 +2067,7 @@ Params:
 - 版本: 1.4.5
   - 元数据版本: 1.4.5
   - 发布版本: 1.4.5
-- 总下载量: 311
+- 总下载量: 312
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2095,7 +2095,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.5.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.5) | 1.4.5 | 2023/03/03 23:35:37 | 25.48KB | 44 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.5/KPI-v1.4.5.mcdr) |
+| [KPI-v1.4.5.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.5) | 1.4.5 | 2023/03/03 23:35:37 | 25.48KB | 45 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.5/KPI-v1.4.5.mcdr) |
 | [KPI-v1.4.4.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.4) | 1.4.4 | 2023/03/01 19:10:06 | 24.82KB | 6 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.4/KPI-v1.4.4.mcdr) |
 | [KPI-v1.4.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.3) | 1.4.3 | 2023/03/01 04:36:46 | 24.79KB | 3 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.3/KPI-v1.4.3.mcdr) |
 
@@ -2319,7 +2319,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 版本: 0.5.3
   - 元数据版本: 0.5.3
   - 发布版本: 0.5.3
-- 总下载量: 190
+- 总下载量: 191
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
@@ -2348,7 +2348,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.5.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3) | 0.5.3 | 2023/03/04 00:14:20 | 25.14KB | 19 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr) |
+| [LoginProxy-v0.5.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3) | 0.5.3 | 2023/03/04 00:14:20 | 25.14KB | 20 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr) |
 | [LoginProxy-v0.5.2.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.2) | 0.5.2 | 2023/03/01 19:18:15 | 24.15KB | 4 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.2/LoginProxy-v0.5.2.mcdr) |
 | [LoginProxy-v0.5.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.1) | 0.5.1 | 2022/12/28 01:52:08 | 23.06KB | 73 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.1/LoginProxy-v0.5.1.mcdr) |
 
@@ -3484,7 +3484,7 @@ classDiagram
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 148
+- 总下载量: 149
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
@@ -3531,7 +3531,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 148 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
+| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 149 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
 
 ## pcrc
 
@@ -3674,7 +3674,7 @@ classDiagram
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
-- 总下载量: 199
+- 总下载量: 200
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
@@ -3846,7 +3846,7 @@ example:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QQAPI-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.2.0) | 1.2.0 | 2023/02/26 23:51:01 | 1.77KB | 85 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.2.0/QQAPI-v1.2.0.mcdr) |
+| [QQAPI-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.2.0) | 1.2.0 | 2023/02/26 23:51:01 | 1.77KB | 86 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.2.0/QQAPI-v1.2.0.mcdr) |
 | [QQAPI-v1.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.1.1) | 1.1.1 | 2023/02/03 22:10:47 | 1.58KB | 90 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.1.1/QQAPI-v1.1.1.mcdr) |
 | [QQAPI-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.1.0) | 1.1.0 | 2023/02/03 22:07:45 | 1.6KB | 9 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.1.0/QQAPI-v1.1.0.mcdr) |
 
@@ -4166,7 +4166,7 @@ example:
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 1573
+- 总下载量: 1574
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 仓库插件页: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
@@ -4192,7 +4192,7 @@ example:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1573 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1574 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## seed
 
@@ -4450,7 +4450,7 @@ example:
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 230
+- 总下载量: 231
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
@@ -4481,7 +4481,7 @@ example:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 83 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
+| [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 84 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
 | [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 5 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
 | [SmartServerTime-v1.2.3.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.3) | 1.2.3 | 2022/11/20 20:44:57 | 17.49KB | 4 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.3/SmartServerTime-v1.2.3.mcdr) |
 
@@ -4867,7 +4867,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 79
+- 总下载量: 82
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/Welcome_MSG
 - 仓库插件页: https://github.com/JAs0n319/Welcome_MSG/tree/master
@@ -4894,7 +4894,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 79 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
+| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 82 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
 | [welcome_msg-v1.0.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.0.0) | 1.0.0 | 2023/02/02 03:52:13 | 1.29KB | 0 | [下载](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.0.0/welcome_msg-v1.0.0.mcdr) |
 
 ## where_is

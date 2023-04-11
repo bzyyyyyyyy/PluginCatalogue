@@ -1171,7 +1171,7 @@ Show time in Minecraft
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 285
+- Total downloads: 286
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
 - Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
@@ -1200,7 +1200,7 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 101 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
+| [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 102 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
 | [DelayExe-v1.2.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/10/23 06:19:23 | 4.78KB | 23 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.2/DelayExe-v1.2.2.mcdr) |
 | [DelayExe-v1.2.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/09/18 02:03:14 | 4.77KB | 18 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.1/DelayExe-v1.2.1.mcdr) |
 
@@ -2069,7 +2069,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.5
   - Metadata version: 1.4.5
   - Release version: 1.4.5
-- Total downloads: 311
+- Total downloads: 312
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2097,7 +2097,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.5.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.5) | 1.4.5 | 2023/03/03 23:35:37 | 25.48KB | 44 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.5/KPI-v1.4.5.mcdr) |
+| [KPI-v1.4.5.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.5) | 1.4.5 | 2023/03/03 23:35:37 | 25.48KB | 45 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.5/KPI-v1.4.5.mcdr) |
 | [KPI-v1.4.4.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.4) | 1.4.4 | 2023/03/01 19:10:06 | 24.82KB | 6 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.4/KPI-v1.4.4.mcdr) |
 | [KPI-v1.4.3.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.3) | 1.4.3 | 2023/03/01 04:36:46 | 24.79KB | 3 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.3/KPI-v1.4.3.mcdr) |
 
@@ -2321,7 +2321,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 0.5.3
   - Metadata version: 0.5.3
   - Release version: 0.5.3
-- Total downloads: 190
+- Total downloads: 191
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
@@ -2350,7 +2350,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.5.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3) | 0.5.3 | 2023/03/04 00:14:20 | 25.14KB | 19 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr) |
+| [LoginProxy-v0.5.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.3) | 0.5.3 | 2023/03/04 00:14:20 | 25.14KB | 20 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.3/LoginProxy-v0.5.3.mcdr) |
 | [LoginProxy-v0.5.2.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.2) | 0.5.2 | 2023/03/01 19:18:15 | 24.15KB | 4 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.2/LoginProxy-v0.5.2.mcdr) |
 | [LoginProxy-v0.5.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.5.1) | 0.5.1 | 2022/12/28 01:52:08 | 23.06KB | 73 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.5.1/LoginProxy-v0.5.1.mcdr) |
 
@@ -3419,7 +3419,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 148
+- Total downloads: 149
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
@@ -3466,7 +3466,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 148 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
+| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 149 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
 
 ## pcrc
 
@@ -3609,7 +3609,7 @@ Database-based Carpet fake player management
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 199
+- Total downloads: 200
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
@@ -3781,7 +3781,7 @@ example:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QQAPI-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.2.0) | 1.2.0 | 2023/02/26 23:51:01 | 1.77KB | 85 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.2.0/QQAPI-v1.2.0.mcdr) |
+| [QQAPI-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.2.0) | 1.2.0 | 2023/02/26 23:51:01 | 1.77KB | 86 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.2.0/QQAPI-v1.2.0.mcdr) |
 | [QQAPI-v1.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.1.1) | 1.1.1 | 2023/02/03 22:10:47 | 1.58KB | 90 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.1.1/QQAPI-v1.1.1.mcdr) |
 | [QQAPI-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_api-v1.1.0) | 1.1.0 | 2023/02/03 22:07:45 | 1.6KB | 9 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_api-v1.1.0/QQAPI-v1.1.0.mcdr) |
 
@@ -4101,7 +4101,7 @@ Allow players to clone non-renewable items.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1573
+- Total downloads: 1574
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
@@ -4127,7 +4127,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1573 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1574 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## seed
 
@@ -4387,7 +4387,7 @@ testing basic server problem.
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 230
+- Total downloads: 231
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
 - Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
@@ -4418,7 +4418,7 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 83 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
+| [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 84 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
 | [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 5 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
 | [SmartServerTime-v1.2.3.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.3) | 1.2.3 | 2022/11/20 20:44:57 | 17.49KB | 4 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.3/SmartServerTime-v1.2.3.mcdr) |
 
@@ -4804,7 +4804,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 79
+- Total downloads: 82
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/Welcome_MSG
 - Repository plugin page: https://github.com/JAs0n319/Welcome_MSG/tree/master
@@ -4831,7 +4831,7 @@ Send welcome message
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 79 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
+| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 82 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
 | [welcome_msg-v1.0.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.0.0) | 1.0.0 | 2023/02/02 03:52:13 | 1.29KB | 0 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.0.0/welcome_msg-v1.0.0.mcdr) |
 
 ## where_is
