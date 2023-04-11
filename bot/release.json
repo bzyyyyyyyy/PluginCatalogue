@@ -163,6 +163,45 @@
       }
     },
     {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2",
+      "name": "bot: v1.0.2",
+      "tag_name": "bot-v1.0.2",
+      "created_at": "2022-07-22T02:15:29Z",
+      "assets": [
+        {
+          "name": "Bot-v1.0.2.mcdr",
+          "size": 13375,
+          "download_count": 269,
+          "created_at": "2022-07-22T02:16:19Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.2/Bot-v1.0.2.mcdr"
+        }
+      ],
+      "description": "## [1.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bot-v1.0.1...bot-v1.0.2) (2022-07-22)\n\n\n### Bug Fixes\n\n* **bot:** 🐛 pass arg for raise exception ([22c74d6](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/22c74d6d08a49445e3f0cb8e9f4b7ebcd6ecda94))",
+      "prerelease": false,
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      }
+    },
+    {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.1",
       "name": "bot: v1.0.1",
       "tag_name": "bot-v1.0.1",
