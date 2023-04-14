@@ -41,6 +41,45 @@
       }
     },
     {
+      "url": "https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0",
+      "name": "CarpetTick v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-04-07T09:27:09Z",
+      "assets": [
+        {
+          "name": "CarpetTick-v1.1.0.mcdr",
+          "size": 3559,
+          "download_count": 86,
+          "created_at": "2022-04-07T09:28:18Z",
+          "browser_download_url": "https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n - `!!help` command support",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "carpet_tick",
+        "name": "Carpet Tick",
+        "version": "1.1.0",
+        "repository": "https://github.com/Ivan-1F/CarpetTick",
+        "link": "https://github.com/Ivan-1F/CarpetTick",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "Get server status using carpet /tick command",
+          "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
+        }
+      }
+    },
+    {
       "url": "https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0",
       "name": "CarpetTick v1.0.0",
       "tag_name": "v1.0.0",
