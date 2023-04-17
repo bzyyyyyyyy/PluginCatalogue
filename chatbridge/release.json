@@ -168,6 +168,47 @@
       }
     },
     {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
+      "name": "",
+      "tag_name": "v2.2.0",
+      "created_at": "2022-03-10T06:22:09Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 41540,
+          "download_count": 465,
+          "created_at": "2022-03-10T06:23:41Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz"
+        }
+      ],
+      "description": "## CLI server changes:\r\n- Better thread name displaying\r\n- Auto-trim login timeout connections\r\n- Added secret `thread_dump` command in cli server for debug",
+      "prerelease": false,
+      "parsed_version": "2.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.2.0",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
+    },
+    {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1",
       "name": "",
       "tag_name": "v2.1.1",
@@ -189,6 +230,47 @@
         "id": "chatbridge",
         "name": "ChatBridge v2 for MCDR",
         "version": "2.1.1",
+        "repository": "https://github.com/TISUnion/ChatBridge",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0",
+      "name": "",
+      "tag_name": "v2.1.0",
+      "created_at": "2021-11-16T11:24:40Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 40833,
+          "download_count": 188,
+          "created_at": "2021-11-16T11:27:38Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz"
+        }
+      ],
+      "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
+      "prerelease": false,
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.5",
         "repository": "https://github.com/TISUnion/ChatBridge",
         "link": "https://github.com/TISUnion/ChatBridge",
         "authors": [
