@@ -1898,7 +1898,7 @@ Params:
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 3074
+- 总下载量: 3075
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
 - 仓库插件页: https://github.com/TISUnion/joinMOTD/tree/master
@@ -1925,7 +1925,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1231 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1232 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1843 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
@@ -3144,7 +3144,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 761
+- 总下载量: 762
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
@@ -3997,7 +3997,7 @@ example:
 - 版本: 1.8.0
   - 元数据版本: 1.8.0
   - 发布版本: 1.8.0
-- 总下载量: 10021
+- 总下载量: 10022
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 仓库插件页: https://github.com/TISUnion/QuickBackupM/tree/master
@@ -4033,7 +4033,7 @@ example:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.8.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.8.0) | 1.8.0 | 2023/03/13 18:58:51 | 22.45KB | 308 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.8.0/QuickBackupM-v1.8.0.mcdr) |
+| [QuickBackupM-v1.8.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.8.0) | 1.8.0 | 2023/03/13 18:58:51 | 22.45KB | 309 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.8.0/QuickBackupM-v1.8.0.mcdr) |
 | [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 1595 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1598 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 
