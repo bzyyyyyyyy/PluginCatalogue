@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 95
+插件数量: 94
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,6 @@
 | [OnlinePlayerAPI](/plugins/online_player_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在线玩家 API | 2023/02/03 | [`API`](/labels/api/readme-zh_cn.md) |
 | [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | 2022/09/30 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [PlayerLastJoin](/plugins/player_last_play/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度 | 2023/04/24 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Player Manager](/plugins/player_manager/readme-zh_cn.md) | [hail122](https://github.com/linstar-fxt) | 帮助你管理假人 | 2022/07/08 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [QQAPI](/plugins/qq_api/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 连接 MC 与 QQ | 2023/02/26 | [`API`](/labels/api/readme-zh_cn.md) |
 | [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | QQ 相关实用功能 | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |

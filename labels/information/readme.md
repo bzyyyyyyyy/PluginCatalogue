@@ -6,7 +6,7 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 20
+Plugin Amount: 19
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ Plugin Amount: 20
 | [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | 2021/08/16 | [`Information`](/labels/information/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2023/03/04 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
-| [PlayerLastJoin](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | 2023/04/24 | [`Information`](/labels/information/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/26 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Seed](/plugins/seed/readme.md) | [OptiJava](https://github.com/OptiJava) | Get world seed without op permission. | 2023/03/23 | [`Information`](/labels/information/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
