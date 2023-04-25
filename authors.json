@@ -1,9 +1,13 @@
 {
-  "amount": 40,
+  "amount": 41,
   "authors": {
     "A-JiuA": {
       "name": "A-JiuA",
       "link": "https://github.com/A-JiuA"
+    },
+    "Aimerny": {
+      "name": "Aimerny",
+      "link": "https://github.com/Aimerny"
     },
     "Alex3236": {
       "name": "Alex3236",
