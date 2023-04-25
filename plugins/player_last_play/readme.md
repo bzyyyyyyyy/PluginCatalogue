@@ -7,9 +7,9 @@
 ### Basic Information
 
 - Plugin ID: `player_last_play`
-- Plugin Name: PlayerLastJoin
+- Plugin Name: PlayerLastPlay
 - Version: 1.0.1
-  - Metadata version: 1.0.0
+  - Metadata version: 1.0.1
   - Release version: 1.0.1
 - Total downloads: 1
 - Authors: [Aimerny](https://github.com/Aimerny)

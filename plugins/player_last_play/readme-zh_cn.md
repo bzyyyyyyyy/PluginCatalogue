@@ -7,9 +7,9 @@
 ### 基本信息
 
 - 插件 ID: `player_last_play`
-- 插件名: PlayerLastJoin
+- 插件名: PlayerLastPlay
 - 版本: 1.0.1
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
 - 总下载量: 1
 - 作者: [Aimerny](https://github.com/Aimerny)
