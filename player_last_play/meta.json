@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
   "id": "player_last_play",
-  "name": "PlayerLastJoin",
-  "version": "1.0.0",
+  "name": "PlayerLastPlay",
+  "version": "1.0.1",
   "repository": "https://github.com/Aimerny/playerLastPlay",
   "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
   "authors": [
