@@ -731,7 +731,7 @@ flowchart LR
 - 版本: 2.5.1
   - 元数据版本: 2.5.1
   - 发布版本: 2.5.1
-- 总下载量: 1669
+- 总下载量: 1670
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
 - 仓库插件页: https://github.com/TISUnion/ChatBridge/tree/master
@@ -2067,7 +2067,7 @@ Params:
 - 版本: 1.4.5
   - 元数据版本: 1.4.5
   - 发布版本: 1.4.5
-- 总下载量: 336
+- 总下载量: 337
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master

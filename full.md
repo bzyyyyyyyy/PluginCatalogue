@@ -731,7 +731,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.5.1
   - Metadata version: 2.5.1
   - Release version: 2.5.1
-- Total downloads: 1669
+- Total downloads: 1670
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
@@ -2069,7 +2069,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.5
   - Metadata version: 1.4.5
   - Release version: 1.4.5
-- Total downloads: 336
+- Total downloads: 337
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
