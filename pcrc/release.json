@@ -1,8 +1,57 @@
 {
   "schema_version": 7,
   "id": "pcrc",
-  "latest_version": "1.3.0",
+  "latest_version": "1.4.0",
   "releases": [
+    {
+      "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0",
+      "name": "PCRC v1.4.0",
+      "tag_name": "v1.4.0",
+      "created_at": "2022-09-30T14:18:00Z",
+      "assets": [
+        {
+          "name": "PCRC.exe",
+          "size": 9960652,
+          "download_count": 206,
+          "created_at": "2022-09-30T15:07:46Z",
+          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.exe"
+        },
+        {
+          "name": "PCRC.pyz",
+          "size": 105502,
+          "download_count": 280,
+          "created_at": "2022-09-30T15:07:46Z",
+          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz"
+        }
+      ],
+      "description": "- Added hot reload support for PCRC config. Notes that not all config entries support hot-reload, e.g. `authenticate_type` is not hot-reload-able\r\n- Added config entry `on_joined_commands` (#22). With that you can make PCRC bot executing custom commands (or even custom chat messages) when joining the game\r\n- Fixed daytime overriding feature not working (#31)\r\n- Fixed entity filtering features not working\r\n",
+      "prerelease": false,
+      "parsed_version": "1.4.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.4.0",
+        "repository": "https://github.com/Fallen-Breath/PCRC",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      }
+    },
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0",
       "name": "PCRC v1.3.0",
