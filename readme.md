@@ -84,7 +84,7 @@ Plugin Amount: 95
 | [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | 2023/02/03 | [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | 2022/09/30 | [`Tool`](/labels/tool/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | 2021/08/17 | [`Management`](/labels/management/readme.md) |
-| [PlayerLastPlay](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | 2023/04/24 | [`Information`](/labels/information/readme.md) |
+| [PlayerLastPlay](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | 2023/05/04 | [`Information`](/labels/information/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | 2022/07/08 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | 2023/02/26 | [`API`](/labels/api/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/26 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
