@@ -9,7 +9,7 @@
 - 插件 ID: `todolist`
 - 插件名: ToDoList
 - 版本: 1.1.1
-  - 元数据版本: 1.1.2
+  - 元数据版本: 1.1.3
   - 发布版本: 1.1.1
 - 总下载量: 113
 - 作者: [Flash-Z](https://github.com/Flash-Z)
