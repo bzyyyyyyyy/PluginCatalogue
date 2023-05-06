@@ -9,7 +9,7 @@
 - Plugin ID: `todolist`
 - Plugin Name: ToDoList
 - Version: 1.1.1
-  - Metadata version: 1.1.1
+  - Metadata version: 1.1.2
   - Release version: 1.1.1
 - Total downloads: 113
 - Authors: [Flash-Z](https://github.com/Flash-Z)
