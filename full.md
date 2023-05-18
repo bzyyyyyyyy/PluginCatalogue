@@ -1746,7 +1746,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 8035
+- Total downloads: 8037
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Repository plugin page: https://github.com/TISUnion/Here/tree/master
@@ -1773,7 +1773,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2481 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2483 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1510 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1331 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -3562,9 +3562,9 @@ Display the online players for Group server, with click event to quickly join ev
 - Plugin ID: `player_last_play`
 - Plugin Name: PlayerLastPlay
 - Version: 1.0.3
-  - Metadata version: 1.0.2
+  - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 29
+- Total downloads: 30
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
@@ -3591,7 +3591,7 @@ Record the last playing time of server members to facilitate the statistics of s
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [playerLastPlay-v1.0.3.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.3) | 1.0.3 | 2023/05/16 03:42:15 | 3.57KB | 4 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.3/playerLastPlay-v1.0.3.mcdr) |
+| [playerLastPlay-v1.0.3.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.3) | 1.0.3 | 2023/05/16 03:42:15 | 3.57KB | 5 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.3/playerLastPlay-v1.0.3.mcdr) |
 | [playerLastPlay-v1.0.2.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.2) | 1.0.2 | 2023/05/04 16:43:05 | 3.57KB | 14 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.2/playerLastPlay-v1.0.2.mcdr) |
 | [playerLastPlay-v1.0.1.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.1) | 1.0.1 | 2023/04/29 06:51:38 | 1.94KB | 9 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.1/playerLastPlay-v1.0.1.mcdr) |
 

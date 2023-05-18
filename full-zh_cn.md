@@ -1744,7 +1744,7 @@ Params:
 - 版本: 1.2.2
   - 元数据版本: 1.2.2
   - 发布版本: 1.2.2
-- 总下载量: 8035
+- 总下载量: 8037
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 仓库插件页: https://github.com/TISUnion/Here/tree/master
@@ -1771,7 +1771,7 @@ Params:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2481 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 2483 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1510 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1331 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -3627,9 +3627,9 @@ classDiagram
 - 插件 ID: `player_last_play`
 - 插件名: PlayerLastPlay
 - 版本: 1.0.3
-  - 元数据版本: 1.0.2
+  - 元数据版本: 1.0.3
   - 发布版本: 1.0.3
-- 总下载量: 29
+- 总下载量: 30
 - 作者: [Aimerny](https://github.com/Aimerny)
 - 仓库: https://github.com/Aimerny/playerLastPlay
 - 仓库插件页: https://github.com/Aimerny/playerLastPlay/tree/master
@@ -3657,7 +3657,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [playerLastPlay-v1.0.3.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.3) | 1.0.3 | 2023/05/16 03:42:15 | 3.57KB | 4 | [下载](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.3/playerLastPlay-v1.0.3.mcdr) |
+| [playerLastPlay-v1.0.3.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.3) | 1.0.3 | 2023/05/16 03:42:15 | 3.57KB | 5 | [下载](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.3/playerLastPlay-v1.0.3.mcdr) |
 | [playerLastPlay-v1.0.2.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.2) | 1.0.2 | 2023/05/04 16:43:05 | 3.57KB | 14 | [下载](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.2/playerLastPlay-v1.0.2.mcdr) |
 | [playerLastPlay-v1.0.1.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.1) | 1.0.1 | 2023/04/29 06:51:38 | 1.94KB | 9 | [下载](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.1/playerLastPlay-v1.0.1.mcdr) |
 
