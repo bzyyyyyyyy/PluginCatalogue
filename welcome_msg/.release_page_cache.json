@@ -3,7 +3,7 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"6249a21591d349dc09457695481816c09ac34625f361bf80a54358654416e177\"",
+      "etag": "\"0c71fd96f38588e351400508e1b7a2b33c78ad157262b9e039d337172e9d376c\"",
       "release_tags": [
         "welcome_msg-v1.1.0",
         "welcome_msg-v1.0.0"
