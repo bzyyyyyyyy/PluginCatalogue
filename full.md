@@ -320,7 +320,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.0.6
   - Metadata version: 1.0.6
   - Release version: 1.0.6
-- Total downloads: 960
+- Total downloads: 962
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
@@ -503,7 +503,7 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 390 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
+| [Bot-v1.0.6.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.6) | 1.0.6 | 2023/01/19 16:58:58 | 13.6KB | 392 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.6/Bot-v1.0.6.mcdr) |
 | [Bot-v1.0.5.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.5) | 1.0.5 | 2022/12/29 15:19:31 | 13.55KB | 136 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.5/Bot-v1.0.5.mcdr) |
 | [Bot-v1.0.4.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.4) | 1.0.4 | 2022/12/29 14:53:06 | 13.55KB | 12 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.4/Bot-v1.0.4.mcdr) |
 
@@ -1786,7 +1786,7 @@ Make file transfers faster!
 - Version: 1.0.3
   - Metadata version: 1.0.0
   - Release version: 1.0.3
-- Total downloads: 67
+- Total downloads: 69
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - Repository: https://github.com/HIM049/MCDR_HibernateR
 - Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
@@ -1816,7 +1816,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [HibernateR.v1.0.3.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.3) | 1.0.3 | 2023/02/16 08:08:36 | 4.64KB | 53 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.3/HibernateR.v1.0.3.mcdr) |
+| [HibernateR.v1.0.3.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.3) | 1.0.3 | 2023/02/16 08:08:36 | 4.64KB | 55 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.3/HibernateR.v1.0.3.mcdr) |
 | [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.1) | 1.0.1 | 2023/02/14 06:01:55 | 4.63KB | 7 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.1/HibernateR.mcdr) |
 | [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/0.1.0) | 0.1.0 | 2023/02/13 17:53:02 | 11.76KB | 7 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/0.1.0/HibernateR.mcdr) |
 
@@ -1986,7 +1986,7 @@ Features:
 - Version: 3.0.0
   - Metadata version: 3.0.0
   - Release version: 3.0.0
-- Total downloads: 263
+- Total downloads: 265
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
 - Repository plugin page: https://github.com/HuajiMURsMC/jrrp/tree/master
@@ -2016,7 +2016,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Jrrp-v3.0.0.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0) | 3.0.0 | 2022/08/28 11:29:45 | 13.98KB | 263 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/3.0.0/Jrrp-v3.0.0.mcdr) |
+| [Jrrp-v3.0.0.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0) | 3.0.0 | 2022/08/28 11:29:45 | 13.98KB | 265 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/3.0.0/Jrrp-v3.0.0.mcdr) |
 
 ## jrrps
 
@@ -2281,7 +2281,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 2584
+- Total downloads: 2586
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
@@ -2310,7 +2310,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2584 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2586 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
 
@@ -2407,7 +2407,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1821
+- Total downloads: 1823
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
 - Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
@@ -2435,7 +2435,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftUUIDAPI-v1.0.0.mcdr](https://github.com/HuajiMURsMC/MCUUID/releases/tag/1.0.0) | 1.0.0 | 2021/08/16 15:53:02 | 1.85KB | 1821 | [Download](https://github.com/HuajiMURsMC/MCUUID/releases/download/1.0.0/MinecraftUUIDAPI-v1.0.0.mcdr) |
+| [MinecraftUUIDAPI-v1.0.0.mcdr](https://github.com/HuajiMURsMC/MCUUID/releases/tag/1.0.0) | 1.0.0 | 2021/08/16 15:53:02 | 1.85KB | 1823 | [Download](https://github.com/HuajiMURsMC/MCUUID/releases/download/1.0.0/MinecraftUUIDAPI-v1.0.0.mcdr) |
 
 ## mcd_seen
 
@@ -2656,7 +2656,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.3.2
   - Metadata version: 1.3.2
   - Release version: 1.3.2
-- Total downloads: 401
+- Total downloads: 403
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
@@ -2712,7 +2712,7 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftCommandRegister-v1.3.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.2) | 1.3.2 | 2023/04/04 11:16:47 | 1.57KB | 75 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.2/MinecraftCommandRegister-v1.3.2.mcdr) |
+| [MinecraftCommandRegister-v1.3.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.2) | 1.3.2 | 2023/04/04 11:16:47 | 1.57KB | 77 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.2/MinecraftCommandRegister-v1.3.2.mcdr) |
 | [MinecraftCommandRegister-v1.3.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.1) | 1.3.1 | 2023/04/03 08:47:57 | 1.57KB | 4 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.1/MinecraftCommandRegister-v1.3.1.mcdr) |
 | [MinecraftCommandRegister-v1.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.3.0) | 1.3.0 | 2023/03/26 19:17:13 | 1.57KB | 15 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.3.0/MinecraftCommandRegister-v1.3.0.mcdr) |
 
@@ -2725,7 +2725,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 5200
+- Total downloads: 5202
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
@@ -2756,7 +2756,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5200 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5202 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -3419,7 +3419,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 219
+- Total downloads: 221
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
@@ -3466,7 +3466,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 219 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
+| [OnlinePlayerAPI-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0) | 1.0.0 | 2023/02/03 20:33:11 | 877B | 221 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr) |
 
 ## pcrc
 
@@ -3832,7 +3832,7 @@ example:
 - Plugin ID: `qq_chat`
 - Plugin Name: QQChat
 - Version: 1.0.1
-  - Metadata version: 1.0.1
+  - Metadata version: 1.1.0
   - Release version: 1.0.1
 - Total downloads: 197
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -3860,49 +3860,56 @@ example:
 
 > 用于连接 `Minecraft` 和 `QQ` 的插件
 
-## 配置
+## 功能说明
 
-`groups`
+### 名词定义
 
-默认值: `[1234561, 1234562]`
+| 名词       |          含义          | 备注                                                         |
+| ---------- | :--------------------: | ------------------------------------------------------------ |
+| **qcp**    |     QQChatPlus插件     | -                                                            |
+| **群友**   |     QQ群聊中的玩家     | -                                                            |
+| **玩家**   |    MC服务器中的玩家    | -                                                            |
+| **管理**   | 对于qcp的管理员(admin) | `admins`                                                     |
+| **主群**   |   服务器的主要交流群   | `main_group`  一般指服务器最大的群，包括所有人，有且只有一个，如配置多个群将取第一个 |
+| **管理群** |      服务器管理群      | `manage_groups` 此群群友无论是否配置为管理，在此群中都具有管理的权限 |
+| **同步群** |   服务器聊天板同步群   | `message_sync_groups` 同步所有玩家的发言，在此群中发送非命令的消息也会同步到服务器 |
 
-交互的群组列表
+### 
 
-`admins`
+### 场景说明
 
-默认值: `[1234563, 1234564]`
+1. 管理可以在任何场景下（包括群聊和私聊）都具有对应权限(包括`mc`,`list`,`command`,`whitelist`,`mcdr`)
+2. 管理群中，所有人均获得管理权限，即使有的人没有在`admins`中
+3. MCDR指令的执行没有返回信息，不太适用于需要交互的场景（除非你知道MCDR会输出什么），请自行判断与使用
 
-可以私聊执行管理员指令的qq号
 
-`whitelist_add_with_bound`
 
-默认值: `False`
+## 配置说明
 
-玩家绑定游戏ID时添加白名单
+| 配置项                        | 含义                       | 默认值               | 注意事项                                                     |
+| ----------------------------- | -------------------------- | -------------------- | ------------------------------------------------------------ |
+| `main_group`                  | 主群                       | `[123456]`           | 有且只有一个                                                 |
+| `manage_groups`               | 管理群                     | `[1234563, 1234564]` | 非必填                                                       |
+| `message_sync_groups`         | 同步群                     | `[1234567, 1234568]` | 非必填                                                       |
+| `server_name`                 | 服务器名                   | `'survival'`         | 发送到qq时会加上server_name的前缀                            |
+| `admins`                      | 管理列表                   | `[1234565, 1234566]` | 理论上非必填（                                               |
+| `sync_group_only_admin:`      | 同步群是否只包含管理       | `true`               | 如果关闭，成员权限同主群<br />如果打开。成员权限同管理群     |
+| `whitelist_add_with_bound`    | 群友绑定id时自动添加白名单 | `false`              | 离线服使用大概率有问题                                       |
+| `whitelist_remove_with_leave` | 玩家退群自动移除白名单     | `true`               | 须防止冒名绑定id                                             |
+| `mc_to_qq`                    | mc发言同步qq群             | `false`              | 主群只同步使用`!!qq`指令的信息<br />同步群全部同步           |
+| `qq_to_mc`                    | qq群发言同步mc             | `false`              | 主群只同步使用`/mc`指令的信息<br />同步群全部同步            |
+| `list`                        | 开启`/list`指令            | `true`               | Whynot?                                                      |
+| `mc`                          | 开启`/mc`指令              | `true`               | +1                                                           |
+| `qq`                          | 开启`/qq`指令              | `true`               | +1                                                           |
+| `mcdr`                        | 开启`/mcdr`指令            | `false`              | **仅仅建议紧急运维时使用，没有返回信息，没有返回信息，没有返回信息** |
+| `command_prefix`                          | 触发机器人指令的前缀              | `['/']`               | 配置单字符如`'/'`,`'#'`时，指令格式为`/list`等<br />配置多字符如`'mc'`,`'bot'`时，指令格式为`mc list`，需在前缀与指令之间添加空格 |
 
-`whitelist_remove_with_leave`
 
-默认值: `True`
+## 命令帮助
 
-玩家退群时移除白名单
+**注：以前缀为`'/'`为例，实际指令请参考配置文件**
 
-`forwards`
-
-默认值: `{'mc_to_qq': False, 'qq_to_mc': False}`
-
-设置是否自动在 Minecraft 和 QQ 之间转发消息
-
-`commands`
-
-默认值: `{'list': True, 'mc': True, 'qq': True,}`
-
-设置是否启用命令
-
-## 功能
-
-### 普通玩家命令
-
-`/help` 查看帮助
+> 普通玩家命令帮助如下
 
 `/list` 获取在线玩家列表
 
@@ -3910,17 +3917,9 @@ example:
 
 `/mc <msg>` 向游戏内发送消息
 
-`!!qq <msg>` 向qq群发送消息
+`!!qq <msg>` 游戏内向主群发送消息
 
-需要注意普通玩家只能在群里执行指令，而管理可以私聊执行 `/list` 和 `/mc`
-
-### 管理员命令
-
-管理员命令只能私聊机器人执行, 管理员QQ号需要添加到配置文件中
-
-#### 基础帮助
-
-`/help` 查看帮助
+> 管理员命令帮助如下
 
 `/bound` 查看绑定相关帮助
 
@@ -3928,7 +3927,11 @@ example:
 
 `/command <command>` 执行任意指令
 
-#### 绑定相关
+`/mc <msg>` 向游戏内发送消息
+
+`/mcdr <mcdr command>` 执行mcdr指令(可不添加`!!`前缀，无回显，谨慎使用)
+
+> bound指令帮助
 
 `/bound list` 查看绑定列表
 
@@ -3938,7 +3941,7 @@ example:
 
 `/bound <qq number> <ID>` 绑定新ID
 
-#### 白名单相关
+> whitelist指令帮助
 
 `/whitelist add <target>` 添加白名单成员
 
@@ -3952,8 +3955,7 @@ example:
 
 `/whitelist remove <target>` 删除白名单成员
 
-`<target>` 可以是玩家名/目标选择器/UUID
-
+注: `<target>` 可以是玩家名/目标选择器/UUID
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
