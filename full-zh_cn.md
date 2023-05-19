@@ -3901,7 +3901,7 @@ example:
   - 元数据版本: 2.0.0
   - 发布版本: 1.0.1
 - 总下载量: 197
-- 作者: [Andy Zhang](https://github.com/AnzhiZhang)
+- 作者: [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - 标签: [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)

@@ -3835,7 +3835,7 @@ example:
   - Metadata version: 2.0.0
   - Release version: 1.0.1
 - Total downloads: 197
-- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
 - Labels: [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md)
