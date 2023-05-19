@@ -6,7 +6,7 @@
 
 Plugin Index with label `Information`
 
-Plugin Amount: 21
+Plugin Amount: 20
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -23,7 +23,6 @@ Plugin Amount: 21
 | [Online](/plugins/online/readme.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | Display the online players for Group server, with click event to quickly join every sub-server. | 2021/09/07 | [`Information`](/labels/information/readme.md) |
 | [PlayerLastPlay](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | 2023/05/16 | [`Information`](/labels/information/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | 2023/02/26 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
-| [QQChatPlus](/plugins/qq_chat_plus/readme.md) | [Aimerny](https://github.com/Aimerny) | QQ Chat plug-in Plus version, supports more features | 2023/05/18 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Seed](/plugins/seed/readme.md) | [OptiJava](https://github.com/OptiJava) | Get world seed without op permission. | 2023/03/23 | [`Information`](/labels/information/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |

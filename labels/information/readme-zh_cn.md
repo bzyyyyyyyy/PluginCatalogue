@@ -6,7 +6,7 @@
 
 具有标签 `信息` 的插件的索引
 
-插件数量: 21
+插件数量: 20
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -23,7 +23,6 @@
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [PlayerLastPlay](/plugins/player_last_play/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度 | 2023/05/16 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | QQ 相关实用功能 | 2023/02/26 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
-| [QQChatPlus](/plugins/qq_chat_plus/readme-zh_cn.md) | [Aimerny](https://github.com/Aimerny) | QQ Chat 插件Plus版本，支持更多功能 | 2023/05/18 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Seed](/plugins/seed/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 在没有op权限的情况下获取种子 | 2023/03/23 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |

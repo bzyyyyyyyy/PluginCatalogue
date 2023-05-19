@@ -4029,46 +4029,6 @@ example:
 | [QQChat-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v1.0.1) | 1.0.1 | 2023/02/26 23:53:03 | 3.35KB | 111 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_chat-v1.0.1/QQChat-v1.0.1.mcdr) |
 | [QQChat-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/qq_chat-v1.0.0) | 1.0.0 | 2023/02/03 22:36:22 | 3.36KB | 86 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/qq_chat-v1.0.0/QQChat-v1.0.0.mcdr) |
 
-## qq_chat_plus
-
-### 基本信息
-
-- 插件 ID: `qq_chat_plus`
-- 插件名: QQChatPlus
-- 版本: 1.0.0
-  - 元数据版本: 1.0.0
-  - 发布版本: 1.0.0
-- 总下载量: 0
-- 作者: [Aimerny](https://github.com/Aimerny)
-- 仓库: https://github.com/Aimerny/QQChatPlus
-- 仓库插件页: https://github.com/Aimerny/QQChatPlus/tree/master
-- 标签: [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: QQ Chat 插件Plus版本，支持更多功能
-
-### 插件依赖
-
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [qq_api](/plugins/qq_api/readme-zh_cn.md) | ^1.2.0 |
-| [online_player_api](/plugins/online_player_api/readme-zh_cn.md) | ^1.0.0 |
-
-### 包依赖
-
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-
-### 介绍
-
-QQ Chat 插件Plus版本，支持更多功能
-### 下载
-
-> :warning: 注意：使用插件之前，先阅读仓库中的 README。
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
-| [qq_chat_plus-v1.0.0.mcdr](https://github.com/Aimerny/QQChatPlus/releases/tag/v1.0.0) | 1.0.0 | 2023/05/18 18:06:17 | 7.17KB | 0 | [下载](https://github.com/Aimerny/QQChatPlus/releases/download/v1.0.0/qq_chat_plus-v1.0.0.mcdr) |
-
 ## quick_backup_multi
 
 ### 基本信息
@@ -4750,7 +4710,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 3473
+- 总下载量: 3476
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
@@ -4778,7 +4738,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.3.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.3.0) | 1.3.0 | 2023/03/26 04:25:52 | 17.84KB | 199 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.3.0/TimedQBM-v1.3.0.mcdr) |
+| [TimedQBM-v1.3.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.3.0) | 1.3.0 | 2023/03/26 04:25:52 | 17.84KB | 202 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.3.0/TimedQBM-v1.3.0.mcdr) |
 | [TimedQBM-v1.2.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.2.0) | 1.2.0 | 2023/01/24 16:36:46 | 17.61KB | 269 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.2.0/TimedQBM-v1.2.0.mcdr) |
 | [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 1233 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 
