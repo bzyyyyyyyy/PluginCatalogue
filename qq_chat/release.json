@@ -28,7 +28,8 @@
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
         "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
         "authors": [
-          "Andy Zhang"
+          "Andy Zhang",
+          "Aimerny"
         ],
         "dependencies": {
           "qq_api": "^1.2.0",
@@ -68,7 +69,8 @@
         "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
         "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
         "authors": [
-          "Andy Zhang"
+          "Andy Zhang",
+          "Aimerny"
         ],
         "dependencies": {
           "qq_api": "^1.0.0",
