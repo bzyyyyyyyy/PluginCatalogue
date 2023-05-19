@@ -1,0 +1,22 @@
+{
+  "schema_version": 3,
+  "id": "qq_chat_plus",
+  "name": "QQChatPlus",
+  "version": "1.0.0",
+  "repository": "https://github.com/Aimerny/QQChatPlus",
+  "link": "https://github.com/Aimerny/QQChatPlus",
+  "authors": [
+    "Aimerny"
+  ],
+  "dependencies": {
+    "qq_api": "^1.2.0",
+    "online_player_api": "^1.0.0"
+  },
+  "requirements": [
+    "aiocqhttp"
+  ],
+  "description": {
+    "en_us": "QQ Chat plug-in Plus version, supports more features",
+    "zh_cn": "QQ Chat 插件Plus版本，支持更多功能"
+  }
+}
