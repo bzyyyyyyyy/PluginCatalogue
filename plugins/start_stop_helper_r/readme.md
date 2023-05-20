@@ -14,7 +14,7 @@
 - Total downloads: 504
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Start and stop server helper
 
