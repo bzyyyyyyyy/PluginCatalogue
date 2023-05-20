@@ -20,24 +20,7 @@
       "description": "## [0.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/start_stop_helper_r-v0.0.2...start_stop_helper_r-v0.1.0) (2022-06-30)\n\n\n### Features\n\n* **start_stop_helper_r:** 🌐 use rtr to translate ([0de9797](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/0de9797a66f8584af6caa947adcc88e46e3480bb))",
       "prerelease": false,
       "parsed_version": "0.1.0",
-      "meta": {
-        "schema_version": 3,
-        "id": "start_stop_helper_r",
-        "name": "StartStopHelperR",
-        "version": "0.1.0",
-        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r",
-        "authors": [
-          "Fallen_Breath",
-          "Andy Zhang"
-        ],
-        "dependencies": {},
-        "requirements": [],
-        "description": {
-          "en_us": "Start and stop server helper",
-          "zh_cn": "开关服助手"
-        }
-      }
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/start_stop_helper_r-v0.1.0/.archived/start_stop_helper_r/mcdreforged.plugin.json, status_code 404: b'404: Not Found'"
     }
   ]
 }
