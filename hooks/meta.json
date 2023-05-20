@@ -1,0 +1,19 @@
+{
+  "schema_version": 3,
+  "id": "hooks",
+  "name": "hooks",
+  "version": "1.0.0",
+  "repository": "https://github.com/OptiJava/hooks",
+  "link": "https://github.com/OptiJava/hooks",
+  "authors": [
+    "OptiJava"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.7.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "Provides some triggers and interfaces for various scripts, allowing MCDR to automatically trigger scripts based on certain conditions, making it more convenient to use fully automated management scripts to do various things. Pursuing full automation in server management and maintenance!",
+    "zh_cn": "为各种脚本提供了一些触发器和接口，让mcdr自动根据某些条件触发脚本，更方便的使用全自动化管理脚本去做各种事情。追求服务器管理、维护全自动化！"
+  }
+}

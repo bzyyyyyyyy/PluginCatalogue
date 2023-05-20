@@ -3,9 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"50e8a3406f85fc6263fa30bfa03207747e8bfca535a142427255bb65ebbb31fc\"",
+      "etag": "\"510b810cd9ff0c8e644b6660d8e2ab744bedfe36a18b69b1a7057585cae1d32c\"",
       "release_tags": [
-        "let_me_click_and_send-v1.0.0"
+        "v1.0"
       ],
       "empty": false
     },
