@@ -13,14 +13,13 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 96
+Plugin Amount: 94
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
 | [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | 2023/01/19 | [`Tool`](/labels/tool/readme.md) |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme.md) | [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle) | For outline-model Whitelist | 2023/01/04 | [`Management`](/labels/management/readme.md) |
 | [allow_suicide](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | allow player suicide with no op | 2023/02/03 | [`Tool`](/labels/tool/readme.md) |
-| [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | N/A | [`Management`](/labels/management/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
@@ -51,7 +50,6 @@ Plugin Amount: 96
 | [hooks](/plugins/hooks/readme.md) | [OptiJava](https://github.com/OptiJava) | Allow MCDR to trigger custom scripts under specific conditions. | 2023/05/20 | [`Management`](/labels/management/readme.md) |
 | [Info](/plugins/info/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Get server info | 2023/02/22 | [`Information`](/labels/information/readme.md) |
 | [Join MOTD](/plugins/join_motd/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Send player a MOTD when he joins | 2022/05/22 | [`Information`](/labels/information/readme.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | Display content when players join the server. (with many useful features) | N/A | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
 | [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2023/03/03 | [`API`](/labels/api/readme.md) |

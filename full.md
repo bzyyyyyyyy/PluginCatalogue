@@ -139,48 +139,6 @@ Allow player suicide without op
 | --- | --- | --- | --- | --- | --- |
 | [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 173 | [Download](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
 
-## aluminum
-
-### Basic Information
-
-- Plugin ID: `aluminum`
-- Plugin Name: Aluminum
-- Version: 0.2.0
-  - Metadata version: 0.2.0
-  - Release version: N/A
-- Total downloads: 0
-- Authors: [Alex3236](https://github.com/alex3236)
-- Repository: https://github.com/MCDReforged/Aluminum
-- Repository plugin page: https://github.com/MCDReforged/Aluminum/tree/master/src
-- Labels: [`Management`](/labels/management/readme.md)
-- Description: A MCDReforged plugin manager.
-
-### Dependencies
-
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
-
-### Requirements
-
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
-| [requests](https://pypi.org/project/requests) |  |
-
-### Introduction
-
-A MCDR plugin manager.
-
-:warning: **Read README in repository before use!**
-
-### Download
-
-> :warning: Warning: Read the README file in plugin repository before using it.
-
-| File | Version | Upload Time | Size | Downloads | Operations |
-| --- | --- | --- | --- | --- | --- |
-
 ## auto_plugin_reloader
 
 ### Basic Information
@@ -1970,53 +1928,6 @@ Pursuing full automation in server management and maintenance!
 | --- | --- | --- | --- | --- | --- |
 | [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1330 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1848 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
-
-## join_motd_plus
-
-### Basic Information
-
-- Plugin ID: `join_motd_plus`
-- Plugin Name: joinMOTD++
-- Version: 3.1.3
-  - Metadata version: 3.1.3
-  - Release version: N/A
-- Total downloads: 0
-- Authors: [Alex3236](https://github.com/alex3236)
-- Repository: https://github.com/alex3236/joinMOTD_Plus
-- Repository plugin page: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
-- Labels: [`Information`](/labels/information/readme.md)
-- Description: Display content when players join the server. (with many useful features)
-
-### Dependencies
-
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
-
-### Requirements
-
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
-| [requests](https://pypi.org/project/requests) |  |
-
-### Introduction
-
-Display content when players join the server.
-
-Features:
-- Customize the display of almost any information
-- Support Json grabbing from the web
-- Compatible with most days fetching plugins
-- ...
-
-:warning: **Read README in repository before use!**
-### Download
-
-> :warning: Warning: Read the README file in plugin repository before using it.
-
-| File | Version | Upload Time | Size | Downloads | Operations |
-| --- | --- | --- | --- | --- | --- |
 
 ## jrrp
 
@@ -4590,7 +4501,7 @@ testing basic server problem.
 - Version: 7.5.1
   - Metadata version: 7.5.1
   - Release version: 7.5.1
-- Total downloads: 7200
+- Total downloads: 7201
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
@@ -4619,7 +4530,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 1206 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 1207 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 135 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 79 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 

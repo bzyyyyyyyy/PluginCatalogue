@@ -13,14 +13,13 @@
 
 -------
 
-插件数量: 96
+插件数量: 94
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
 | [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2023/01/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme-zh_cn.md) | [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle) | For outline-model Whitelist | 2023/01/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [allow_suicide](/plugins/allow_suicide/readme-zh_cn.md) | [JAs0n](https://github.com/JAs0n319) | 允许玩家在没有op权限时自杀 | 2023/02/03 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2023/02/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -51,7 +50,6 @@
 | [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/05/20 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 获取服务器信息 | 2023/02/22 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2022/05/22 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | 2022/03/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2023/03/03 | [`API`](/labels/api/readme-zh_cn.md) |

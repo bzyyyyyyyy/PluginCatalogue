@@ -139,48 +139,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 173 | [下载](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
 
-## aluminum
-
-### 基本信息
-
-- 插件 ID: `aluminum`
-- 插件名: Aluminum
-- 版本: 0.2.0
-  - 元数据版本: 0.2.0
-  - 发布版本: N/A
-- 总下载量: 0
-- 作者: [Alex3236](https://github.com/alex3236)
-- 仓库: https://github.com/MCDReforged/Aluminum
-- 仓库插件页: https://github.com/MCDReforged/Aluminum/tree/master/src
-- 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个 MCDR 插件管理器。
-
-### 插件依赖
-
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
-
-### 包依赖
-
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
-| [requests](https://pypi.org/project/requests) |  |
-
-### 介绍
-
-一个 MCDR 插件管理器。
-
-:warning: **务必在使用前阅读仓库中的 README！**
-
-### 下载
-
-> :warning: 注意：使用插件之前，先阅读仓库中的 README。
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
-
 ## auto_plugin_reloader
 
 ### 基本信息
@@ -1968,53 +1926,6 @@ Params:
 | --- | --- | --- | --- | --- | --- |
 | [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 1330 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1848 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
-
-## join_motd_plus
-
-### 基本信息
-
-- 插件 ID: `join_motd_plus`
-- 插件名: joinMOTD++
-- 版本: 3.1.3
-  - 元数据版本: 3.1.3
-  - 发布版本: N/A
-- 总下载量: 0
-- 作者: [Alex3236](https://github.com/alex3236)
-- 仓库: https://github.com/alex3236/joinMOTD_Plus
-- 仓库插件页: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
-- 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 在玩家进入服务器时展示内容。（特色功能++）
-
-### 插件依赖
-
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.2.0 |
-
-### 包依赖
-
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
-| [requests](https://pypi.org/project/requests) |  |
-
-### 介绍
-
-在玩家进入服务器时展示内容。
-
-特色功能：
-- 自定义几乎所有信息的显示方式
-- 支持从网络抓取 Json
-- 兼容大部分天数获取插件
-- ...
-
-:warning: **务必在使用前阅读仓库中的 README！**
-### 下载
-
-> :warning: 注意：使用插件之前，先阅读仓库中的 README。
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
 
 ## jrrp
 
@@ -4654,7 +4565,7 @@ example:
 - 版本: 7.5.1
   - 元数据版本: 7.5.1
   - 发布版本: 7.5.1
-- 总下载量: 7200
+- 总下载量: 7201
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
 - 仓库插件页: https://github.com/TISUnion/StatsHelper/tree/master
@@ -4683,7 +4594,7 @@ example:
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 1206 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 1207 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 135 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 79 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 

@@ -6,12 +6,11 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 29
+Plugin Amount: 28
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme.md) | [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle) | For outline-model Whitelist | 2023/01/04 | [`Management`](/labels/management/readme.md) |
-| [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | N/A | [`Management`](/labels/management/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2023/01/19 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
