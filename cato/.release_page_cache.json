@@ -3,10 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"6f4fd2db51fc8c53b85ae7a720e09109b88a1f0da1b8af58d0ba852aedf24efe\"",
+      "etag": "\"a08ee8ca077ca04e58c709a81f90bd8a2032be8f016d8f84963f33db2dcb9694\"",
       "release_tags": [
-        "cato-v1.1.0",
-        "cato-v1.0.0"
+        "cato-v1.1.0"
       ],
       "empty": false
     },
