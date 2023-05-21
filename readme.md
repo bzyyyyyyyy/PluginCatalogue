@@ -104,7 +104,7 @@ Plugin Amount: 94
 | [The Offline ops](/plugins/the_offline_ops/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Check the player's IP to prevent impersonation of logging into the offline server | 2023/02/04 | [`Management`](/labels/management/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2023/03/26 | [`Management`](/labels/management/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/03/19 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
-| [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2023/02/26 | [`Tool`](/labels/tool/readme.md) |
+| [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2023/05/21 | [`Tool`](/labels/tool/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/02/03 | [`Information`](/labels/information/readme.md) |
 | [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Query players' coordinates | 2022/07/20 | [`Information`](/labels/information/readme.md) |
