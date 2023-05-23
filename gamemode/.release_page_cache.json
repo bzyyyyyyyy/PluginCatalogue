@@ -3,8 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"5767aec80d843bf8d8c6fc762ed5c57988735661e4ebce2c7d8743ee94f9828d\"",
+      "etag": "\"095bea4daa4d7604ed18cbd3ea80ab8748e976ab021138c4eb73a21d6979918e\"",
       "release_tags": [
+        "gamemode-v1.0.1",
         "gamemode-v1.0.0",
         "gamemode-v0.1.0"
       ],
