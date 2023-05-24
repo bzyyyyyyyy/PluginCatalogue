@@ -69,7 +69,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 351
+- Total downloads: 352
 - Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
 - Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
@@ -99,7 +99,7 @@ Offline server whitelist management
 | --- | --- | --- | --- | --- | --- |
 | [AdvancedWhitelistR-v1.0.3.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.3) | 1.0.3 | 2023/01/04 02:59:30 | 3.73KB | 102 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.3/AdvancedWhitelistR-v1.0.3.mcdr) |
 | [AdvancedWhitelistR-v1.0.2.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2) | 1.0.2 | 2022/01/24 15:38:16 | 3.5KB | 231 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.2/AdvancedWhitelistR-v1.0.2.mcdr) |
-| [AdvancedWhitelistR-v1.0.1.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1) | 1.0.1 | 2022/01/24 11:46:47 | 3.5KB | 18 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr) |
+| [AdvancedWhitelistR-v1.0.1.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1) | 1.0.1 | 2022/01/24 11:46:47 | 3.5KB | 19 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr) |
 
 ## allow_suicide
 
@@ -110,7 +110,7 @@ Offline server whitelist management
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 174
+- Total downloads: 175
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/allow_suicide
 - Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
@@ -137,7 +137,7 @@ Allow player suicide without op
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 174 | [Download](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
+| [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 175 | [Download](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
 
 ## auto_plugin_reloader
 
@@ -474,7 +474,7 @@ flowchart LR
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 453
+- Total downloads: 454
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
@@ -504,7 +504,7 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 453 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
+| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 454 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -556,7 +556,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 284
+- Total downloads: 287
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
 - Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
@@ -584,9 +584,9 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetTick-v1.1.1.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 16:04:57 | 3.46KB | 164 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.1/CarpetTick-v1.1.1.mcdr) |
-| [CarpetTick-v1.1.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0) | 1.1.0 | 2022/04/07 09:28:18 | 3.48KB | 98 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr) |
-| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 22 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
+| [CarpetTick-v1.1.1.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 16:04:57 | 3.46KB | 165 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.1/CarpetTick-v1.1.1.mcdr) |
+| [CarpetTick-v1.1.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0) | 1.1.0 | 2022/04/07 09:28:18 | 3.48KB | 99 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr) |
+| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 23 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
 
 ## carpetbotlist
 
@@ -639,7 +639,7 @@ Help you manage your carpet fake player
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 483
+- Total downloads: 484
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
 - Repository plugin page: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
@@ -678,7 +678,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 442 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
-| [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 41 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
+| [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 42 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
 
 ## chatbridge
 
@@ -832,7 +832,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 98
+- Total downloads: 101
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
 - Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
@@ -879,9 +879,9 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRCommandExporter-v1.2.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.2.0) | 1.2.0 | 2023/02/04 17:28:11 | 1.85KB | 51 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.2.0/MCDRCommandExporter-v1.2.0.mcdr) |
-| [MCDRCommandExporter-v1.1.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.1.0) | 1.1.0 | 2023/01/22 02:25:45 | 1.85KB | 22 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.1.0/MCDRCommandExporter-v1.1.0.mcdr) |
-| [MCDRCommandExporter-v1.0.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.0.0) | 1.0.0 | 2023/01/18 13:25:58 | 1.83KB | 25 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.0.0/MCDRCommandExporter-v1.0.0.mcdr) |
+| [MCDRCommandExporter-v1.2.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.2.0) | 1.2.0 | 2023/02/04 17:28:11 | 1.85KB | 52 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.2.0/MCDRCommandExporter-v1.2.0.mcdr) |
+| [MCDRCommandExporter-v1.1.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.1.0) | 1.1.0 | 2023/01/22 02:25:45 | 1.85KB | 23 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.1.0/MCDRCommandExporter-v1.1.0.mcdr) |
+| [MCDRCommandExporter-v1.0.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.0.0) | 1.0.0 | 2023/01/18 13:25:58 | 1.83KB | 26 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.0.0/MCDRCommandExporter-v1.0.0.mcdr) |
 
 ## cpu_temp
 
@@ -1498,7 +1498,7 @@ Params:
 - Version: 0.2
   - Metadata version: 0.2
   - Release version: 0.2
-- Total downloads: 83
+- Total downloads: 85
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
 - Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
@@ -1528,8 +1528,8 @@ Params:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [EasyBotManager-v0.2.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.2) | 0.2 | 2022/06/23 07:16:44 | 9.15KB | 76 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.2/EasyBotManager-v0.2.mcdr) |
-| [EasyBotManager-v0.1.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.1) | 0.1 | 2022/06/23 07:15:45 | 7.37KB | 7 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.1/EasyBotManager-v0.1.mcdr) |
+| [EasyBotManager-v0.2.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.2) | 0.2 | 2022/06/23 07:16:44 | 9.15KB | 77 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.2/EasyBotManager-v0.2.mcdr) |
+| [EasyBotManager-v0.1.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.1) | 0.1 | 2022/06/23 07:15:45 | 7.37KB | 8 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.1/EasyBotManager-v0.1.mcdr) |
 
 ## eulagree
 
@@ -1744,7 +1744,7 @@ Make file transfers faster!
 - Version: 1.0.3
   - Metadata version: 1.0.0
   - Release version: 1.0.3
-- Total downloads: 79
+- Total downloads: 82
 - Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
 - Repository: https://github.com/HIM049/MCDR_HibernateR
 - Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
@@ -1774,9 +1774,9 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [HibernateR.v1.0.3.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.3) | 1.0.3 | 2023/02/16 08:08:36 | 4.64KB | 59 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.3/HibernateR.v1.0.3.mcdr) |
-| [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.1) | 1.0.1 | 2023/02/14 06:01:55 | 4.63KB | 10 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.1/HibernateR.mcdr) |
-| [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/0.1.0) | 0.1.0 | 2023/02/13 17:53:02 | 11.76KB | 10 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/0.1.0/HibernateR.mcdr) |
+| [HibernateR.v1.0.3.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.3) | 1.0.3 | 2023/02/16 08:08:36 | 4.64KB | 60 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.3/HibernateR.v1.0.3.mcdr) |
+| [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.1) | 1.0.1 | 2023/02/14 06:01:55 | 4.63KB | 11 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.1/HibernateR.mcdr) |
+| [HibernateR.mcdr](https://github.com/HIM049/MCDR_HibernateR/releases/tag/0.1.0) | 0.1.0 | 2023/02/13 17:53:02 | 11.76KB | 11 | [Download](https://github.com/HIM049/MCDR_HibernateR/releases/download/0.1.0/HibernateR.mcdr) |
 
 ## hooks
 
@@ -2062,7 +2062,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 2776
+- Total downloads: 2778
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
 - Repository plugin page: https://github.com/Lazy-Bing-Server/lazytp/tree/master
@@ -2093,8 +2093,8 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1452 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
-| [LazyTeleport-v2.0.0.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0) | 2.0.0 | 2021/08/27 16:04:24 | 7.38KB | 1324 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr) |
+| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1453 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
+| [LazyTeleport-v2.0.0.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0) | 2.0.0 | 2021/08/27 16:04:24 | 7.38KB | 1325 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr) |
 
 ## leader_reforged
 
@@ -2105,7 +2105,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.1.2
   - Metadata version: 1.1.2
   - Release version: 1.1.2
-- Total downloads: 211
+- Total downloads: 214
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
 - Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
@@ -2133,9 +2133,9 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [leader_reforged-v1.1.2.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2) | 1.1.2 | 2022/04/09 08:33:45 | 10.28KB | 163 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.2/leader_reforged-v1.1.2.mcdr) |
-| [leader_reforged-v1.1.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.1) | 1.1.1 | 2022/03/31 06:34:39 | 10.13KB | 13 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.1/leader_reforged-v1.1.1.mcdr) |
-| [leader_reforged-v1.1.0-patched.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched) | 1.1.0-patched | 2022/03/22 06:09:16 | 9.69KB | 10 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0-patched/leader_reforged-v1.1.0-patched.mcdr) |
+| [leader_reforged-v1.1.2.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2) | 1.1.2 | 2022/04/09 08:33:45 | 10.28KB | 164 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.2/leader_reforged-v1.1.2.mcdr) |
+| [leader_reforged-v1.1.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.1) | 1.1.1 | 2022/03/31 06:34:39 | 10.13KB | 14 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.1/leader_reforged-v1.1.1.mcdr) |
+| [leader_reforged-v1.1.0-patched.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched) | 1.1.0-patched | 2022/03/22 06:09:16 | 9.69KB | 11 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0-patched/leader_reforged-v1.1.0-patched.mcdr) |
 
 ## let_me_click_and_send
 
@@ -2190,7 +2190,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 4181
+- Total downloads: 4184
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
 - Repository plugin page: https://github.com/MCDReforged/LiteFileManager/tree/master
@@ -2220,9 +2220,9 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LiteFileManager-v1.3.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0) | 1.3.0 | 2021/08/26 13:57:51 | 24.63KB | 1546 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr) |
-| [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 1323 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
-| [LiteFileManager-v1.2.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0) | 1.2.0 | 2021/08/16 17:07:34 | 12.46KB | 1312 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr) |
+| [LiteFileManager-v1.3.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0) | 1.3.0 | 2021/08/26 13:57:51 | 24.63KB | 1547 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr) |
+| [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 1324 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
+| [LiteFileManager-v1.2.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0) | 1.2.0 | 2021/08/16 17:07:34 | 12.46KB | 1313 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr) |
 
 ## location_marker
 
@@ -2482,7 +2482,7 @@ Shows tasks of project in progress
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 3102
+- Total downloads: 3104
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
@@ -2512,8 +2512,8 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1779 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
-| [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1323 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
+| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1780 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
+| [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1324 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
 
 ## mcdreforged_plugin_manager
 
@@ -2524,7 +2524,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 2.0.0
   - Metadata version: 2.0.0
   - Release version: 2.0.0
-- Total downloads: 670
+- Total downloads: 673
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
@@ -2556,7 +2556,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 | --- | --- | --- | --- | --- | --- |
 | [MCDReforgedPluginManager-v2.0.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v2.0.0) | 2.0.0 | 2023/04/14 16:46:28 | 22.64KB | 60 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v2.0.0/MCDReforgedPluginManager-v2.0.0.mcdr) |
 | [MCDReforgedPluginManager-v1.3.3.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.3) | 1.3.3 | 2023/04/02 14:32:45 | 21.79KB | 41 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.3/MCDReforgedPluginManager-v1.3.3.mcdr) |
-| [MCDReforgedPluginManager-v1.3.2.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.2) | 1.3.2 | 2023/02/20 13:52:39 | 21.6KB | 76 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.2/MCDReforgedPluginManager-v1.3.2.mcdr) |
+| [MCDReforgedPluginManager-v1.3.2.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.2) | 1.3.2 | 2023/02/20 13:52:39 | 21.6KB | 77 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.2/MCDReforgedPluginManager-v1.3.2.mcdr) |
 
 ## mcdrpost
 
@@ -2567,7 +2567,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 2.1.0
   - Metadata version: 2.1.0
   - Release version: 2.1.0
-- Total downloads: 237
+- Total downloads: 238
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
 - Repository plugin page: https://github.com/Flyky/MCDRpost/tree/master
@@ -2597,7 +2597,7 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 237 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
+| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 238 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
 
 ## minecraft_command_register
 
@@ -2721,7 +2721,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 128
+- Total downloads: 131
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
 - Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
@@ -2750,9 +2750,9 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftVersionAPI-v1.1.1.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 15:59:41 | 3.05KB | 60 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.1/MinecraftVersionAPI-v1.1.1.mcdr) |
-| [MinecraftVersionAPI-v1.1.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0) | 1.1.0 | 2022/04/05 05:25:12 | 3.08KB | 60 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr) |
-| [MinecraftVersionAPI-v1.0.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0) | 1.0.0 | 2022/04/02 16:19:02 | 2.97KB | 8 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.0.0/MinecraftVersionAPI-v1.0.0.mcdr) |
+| [MinecraftVersionAPI-v1.1.1.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 15:59:41 | 3.05KB | 61 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.1/MinecraftVersionAPI-v1.1.1.mcdr) |
+| [MinecraftVersionAPI-v1.1.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0) | 1.1.0 | 2022/04/05 05:25:12 | 3.08KB | 61 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr) |
+| [MinecraftVersionAPI-v1.0.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0) | 1.0.0 | 2022/04/02 16:19:02 | 2.97KB | 9 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.0.0/MinecraftVersionAPI-v1.0.0.mcdr) |
 
 ## mirror_control
 
@@ -2848,7 +2848,7 @@ config.json
 - Version: 1.0.7
   - Metadata version: 1.0.7
   - Release version: 1.0.7
-- Total downloads: 761
+- Total downloads: 768
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
@@ -2940,9 +2940,9 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.7.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.7) | 1.0.7 | 2023/02/24 03:17:23 | 15.6KB | 142 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.7/MirrorServerReforged-v1.0.7.mcdr) |
-| [MirrorServerReforged-v1.0.6.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.6) | 1.0.6 | 2023/02/23 07:25:33 | 15.48KB | 16 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.6/MirrorServerReforged-v1.0.6.mcdr) |
-| [MirrorServerReforged-v1.0.5.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.5) | 1.0.5 | 2023/02/05 14:09:32 | 8.61KB | 32 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.5/MirrorServerReforged-v1.0.5.mcdr) |
+| [MirrorServerReforged-v1.0.7.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.7) | 1.0.7 | 2023/02/24 03:17:23 | 15.6KB | 143 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.7/MirrorServerReforged-v1.0.7.mcdr) |
+| [MirrorServerReforged-v1.0.6.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.6) | 1.0.6 | 2023/02/23 07:25:33 | 15.48KB | 17 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.6/MirrorServerReforged-v1.0.6.mcdr) |
+| [MirrorServerReforged-v1.0.5.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.5) | 1.0.5 | 2023/02/05 14:09:32 | 8.61KB | 33 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.5/MirrorServerReforged-v1.0.5.mcdr) |
 
 ## mirror_server_sync
 
@@ -2992,7 +2992,7 @@ Now, I'll introduce the content of the config file:
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 331
+- Total downloads: 334
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
 - Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
@@ -3020,9 +3020,9 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 212 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
-| [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 35 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
-| [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 64 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
+| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 213 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
+| [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 36 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
+| [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 65 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 
 ## more_command_nodes
 
@@ -3112,7 +3112,7 @@ classDiagram
 - Version: 0.2.0
   - Metadata version: 0.2.0
   - Release version: 0.2.0
-- Total downloads: 97
+- Total downloads: 99
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
 - Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
@@ -3153,8 +3153,8 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Mount-v0.2.0.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.2.0) | 0.2.0 | 2023/02/20 09:14:32 | 27.21KB | 18 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.2.0/Mount-v0.2.0.pyz) |
-| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 79 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
+| [Mount-v0.2.0.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.2.0) | 0.2.0 | 2023/02/20 09:14:32 | 27.21KB | 19 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.2.0/Mount-v0.2.0.pyz) |
+| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 80 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
 
 ## multi_rcon_api
 
@@ -3165,7 +3165,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 1645
+- Total downloads: 1648
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
 - Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
@@ -3194,9 +3194,9 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 379 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
-| [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 27 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1239 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
+| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 380 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
+| [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 28 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
+| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1240 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
 
@@ -3287,7 +3287,7 @@ A whitelist plugin with multiple server
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 1211
+- Total downloads: 1213
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
 - Repository plugin page: https://github.com/HuajiMUR233/OneBotAPI/tree/master
@@ -3317,8 +3317,8 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.1.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.1.1) | 1.1.1 | 2022/11/16 13:02:15 | 3.71KB | 25 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.1.1/OneBotAPI-v1.1.1.mcdr) |
-| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1186 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
+| [OneBotAPI-v1.1.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.1.1) | 1.1.1 | 2022/11/16 13:02:15 | 3.71KB | 26 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.1.1/OneBotAPI-v1.1.1.mcdr) |
+| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1187 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
 
 ## online
 
@@ -3329,7 +3329,7 @@ A whitelist plugin with multiple server
 - Version: 1.4.0
   - Metadata version: 1.4.1-alpha1
   - Release version: 1.4.0
-- Total downloads: 3939
+- Total downloads: 3942
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Repository plugin page: https://github.com/FAS-Server/Online/tree/master
@@ -3360,9 +3360,9 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1507 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
-| [Online-v1.3.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.3.0) | 1.3.0 | 2021/09/07 03:11:37 | 1.96KB | 1112 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.3.0/Online-v1.3.0.mcdr) |
-| [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 1320 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
+| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1508 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
+| [Online-v1.3.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.3.0) | 1.3.0 | 2021/09/07 03:11:37 | 1.96KB | 1113 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.3.0/Online-v1.3.0.mcdr) |
+| [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 1321 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
 
 ## online_player_api
 
@@ -3431,7 +3431,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.0
   - Metadata version: 1.4.0
   - Release version: 1.4.0
-- Total downloads: 753
+- Total downloads: 756
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
@@ -3464,9 +3464,9 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0) | 1.4.0 | 2022/09/30 15:07:46 | 103.03KB | 306 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz) |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 252 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3) | 1.2.3 | 2022/03/28 07:00:16 | 101.56KB | 125 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0) | 1.4.0 | 2022/09/30 15:07:46 | 103.03KB | 307 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 253 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3) | 1.2.3 | 2022/03/28 07:00:16 | 101.56KB | 126 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz) |
 
 ## permanent_backup
 
@@ -3477,7 +3477,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 4615
+- Total downloads: 4617
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Repository plugin page: https://github.com/MCDReforged/PermanentBackup/tree/master
@@ -3506,8 +3506,8 @@ Display the online players for Group server, with click event to quickly join ev
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1987 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
-| [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1315 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
-| [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1313 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
+| [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1316 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
+| [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1314 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
 
 ## player_last_play
 
@@ -3558,7 +3558,7 @@ Record the last playing time of server members to facilitate the statistics of s
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
-- Total downloads: 62
+- Total downloads: 64
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
 - Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
@@ -3591,8 +3591,8 @@ Database-based Carpet fake player management
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 56 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 6 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
+| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 57 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
+| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 7 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
 
 ## qq_api
 
@@ -4064,7 +4064,7 @@ A plugin for run command quickly
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1191
+- Total downloads: 1192
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
 - Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
@@ -4092,7 +4092,7 @@ Allow players to clone non-renewable items.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1191 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
+| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1192 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
 
 ## run_some_commands
 
@@ -4103,7 +4103,7 @@ Allow players to clone non-renewable items.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1597
+- Total downloads: 1598
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
@@ -4129,7 +4129,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1597 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1598 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## seed
 
@@ -4225,7 +4225,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 3755
+- Total downloads: 3756
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
 - Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
@@ -4254,7 +4254,7 @@ You don't need to manually specify the seed in the configuration file, the plugi
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 2426 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
-| [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1329 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
+| [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1330 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
 
 ## simple_test
 
@@ -4649,7 +4649,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.1.1
   - Metadata version: 1.1.1
   - Release version: 1.1.1
-- Total downloads: 148
+- Total downloads: 152
 - Authors: [Flash-Z](https://github.com/Flash-Z)
 - Repository: https://github.com/Flash-Z/MCDReforgedPlugins
 - Repository plugin page: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
@@ -4697,8 +4697,8 @@ Worried about infrequent backups leading to serious progress losses due to the w
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [ToDoList-v1.1.1.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.1.1) | 1.1.1 | 2023/03/19 05:37:52 | 4.02KB | 60 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.1.1/ToDoList-v1.1.1.mcdr) |
-| [ToDoList-v1.0.3.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.3) | 1.0.3 | 2023/02/15 09:50:19 | 3.32KB | 35 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.3/ToDoList-v1.0.3.mcdr) |
-| [ToDoList-v1.0.2.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.2) | 1.0.2 | 2023/02/05 06:01:13 | 3.27KB | 23 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.2/ToDoList-v1.0.2.mcdr) |
+| [ToDoList-v1.0.3.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.3) | 1.0.3 | 2023/02/15 09:50:19 | 3.32KB | 36 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.3/ToDoList-v1.0.3.mcdr) |
+| [ToDoList-v1.0.2.mcdr](https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.2) | 1.0.2 | 2023/02/05 06:01:13 | 3.27KB | 24 | [Download](https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.2/ToDoList-v1.0.2.mcdr) |
 
 ## tpm
 
@@ -4806,7 +4806,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 145
+- Total downloads: 147
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/Welcome_MSG
 - Repository plugin page: https://github.com/JAs0n319/Welcome_MSG/tree/master
@@ -4833,8 +4833,8 @@ Send welcome message
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 136 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
-| [welcome_msg-v1.0.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.0.0) | 1.0.0 | 2023/02/02 03:52:13 | 1.29KB | 9 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.0.0/welcome_msg-v1.0.0.mcdr) |
+| [welcome_msg-v1.1.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.1.0) | 1.1.0 | 2023/02/03 09:05:01 | 1.36KB | 137 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.1.0/welcome_msg-v1.1.0.mcdr) |
+| [welcome_msg-v1.0.0.mcdr](https://github.com/JAs0n319/Welcome_MSG/releases/tag/welcome_msg-v1.0.0) | 1.0.0 | 2023/02/02 03:52:13 | 1.29KB | 10 | [Download](https://github.com/JAs0n319/Welcome_MSG/releases/download/welcome_msg-v1.0.0/welcome_msg-v1.0.0.mcdr) |
 
 ## where_is
 
@@ -4845,7 +4845,7 @@ Send welcome message
 - Version: 2.0.2
   - Metadata version: 2.0.2+build.6
   - Release version: 2.0.2
-- Total downloads: 1217
+- Total downloads: 1221
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
@@ -4876,8 +4876,8 @@ Send welcome message
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 745 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
-| [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 78 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
-| [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 16 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
+| [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 79 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
+| [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 17 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
 
 ## whisper
 
@@ -4961,7 +4961,7 @@ Use triggers (default<strong>'**'</strong>) to send private messages to everyone
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 383
+- Total downloads: 384
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
@@ -4990,7 +4990,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 383 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
+| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 384 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 
 ## world_copier
 
@@ -5001,7 +5001,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 - Version: 0.1.0
   - Metadata version: 0.1.0
   - Release version: 0.1.0
-- Total downloads: 166
+- Total downloads: 167
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
 - Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
@@ -5028,5 +5028,5 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 166 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
+| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 167 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
 
