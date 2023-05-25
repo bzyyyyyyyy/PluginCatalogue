@@ -3,9 +3,8 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"700c14f8f15e97f2e4c8dccc28bd052bfdfc9b1973c5c71b583758e1948e4302\"",
+      "etag": "\"aba171cbe8e10ce19dcdabfb1c4deef0b988ac09af7e610012c813746314e8fd\"",
       "release_tags": [
-        "lowercase_mcdr_command-v1.2.2",
         "lowercase_mcdr_command-v1.2.1",
         "lowercase_mcdr_command-v1.2.0",
         "lowercase_mcdr_command-v1.1.2",
