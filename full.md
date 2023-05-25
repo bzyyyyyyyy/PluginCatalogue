@@ -148,7 +148,7 @@ Allow player suicide without op
 - Version: 1.1.3
   - Metadata version: 1.1.3
   - Release version: 1.1.3
-- Total downloads: 4892
+- Total downloads: 4894
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
@@ -178,7 +178,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 1214 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
+| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 1216 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
 | [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 107 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
 | [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 893 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
@@ -832,7 +832,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 101
+- Total downloads: 103
 - Authors: [DancingSnow](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
 - Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
@@ -879,7 +879,7 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRCommandExporter-v1.2.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.2.0) | 1.2.0 | 2023/02/04 17:28:11 | 1.85KB | 52 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.2.0/MCDRCommandExporter-v1.2.0.mcdr) |
+| [MCDRCommandExporter-v1.2.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.2.0) | 1.2.0 | 2023/02/04 17:28:11 | 1.85KB | 54 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.2.0/MCDRCommandExporter-v1.2.0.mcdr) |
 | [MCDRCommandExporter-v1.1.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.1.0) | 1.1.0 | 2023/01/22 02:25:45 | 1.85KB | 23 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.1.0/MCDRCommandExporter-v1.1.0.mcdr) |
 | [MCDRCommandExporter-v1.0.0.mcdr](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/tag/1.0.0) | 1.0.0 | 2023/01/18 13:25:58 | 1.83KB | 26 | [Download](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases/download/1.0.0/MCDRCommandExporter-v1.0.0.mcdr) |
 
@@ -2021,7 +2021,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.5
   - Metadata version: 1.4.5
   - Release version: 1.4.5
-- Total downloads: 390
+- Total downloads: 393
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -3518,7 +3518,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 37
+- Total downloads: 38
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
@@ -3546,7 +3546,7 @@ Record the last playing time of server members to facilitate the statistics of s
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [playerLastPlay-v1.0.3.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.3) | 1.0.3 | 2023/05/16 03:42:15 | 3.57KB | 12 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.3/playerLastPlay-v1.0.3.mcdr) |
-| [playerLastPlay-v1.0.2.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.2) | 1.0.2 | 2023/05/04 16:43:05 | 3.57KB | 14 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.2/playerLastPlay-v1.0.2.mcdr) |
+| [playerLastPlay-v1.0.2.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.2) | 1.0.2 | 2023/05/04 16:43:05 | 3.57KB | 15 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.2/playerLastPlay-v1.0.2.mcdr) |
 | [playerLastPlay-v1.0.1.mcdr](https://github.com/Aimerny/playerLastPlay/releases/tag/v1.0.1) | 1.0.1 | 2023/04/29 06:51:38 | 1.94KB | 9 | [Download](https://github.com/Aimerny/playerLastPlay/releases/download/v1.0.1/playerLastPlay-v1.0.1.mcdr) |
 
 ## player_manager
@@ -4433,7 +4433,7 @@ testing basic server problem.
 - Version: 0.1.0
   - Metadata version: 0.1.0
   - Release version: 0.1.0
-- Total downloads: 515
+- Total downloads: 517
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/start_stop_helper_r
@@ -4492,7 +4492,7 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.1.0) | 0.1.0 | 2022/06/30 10:01:17 | 1.71KB | 515 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.1.0/StartStopHelperR-v0.1.0.mcdr) |
+| [StartStopHelperR-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.1.0) | 0.1.0 | 2022/06/30 10:01:17 | 1.71KB | 517 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.1.0/StartStopHelperR-v0.1.0.mcdr) |
 
 ## stats_helper
 
