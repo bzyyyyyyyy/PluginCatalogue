@@ -37,6 +37,41 @@
           "zh_cn": "当玩家加入游戏时向其发送欢迎信息"
         }
       }
+    },
+    {
+      "url": "https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0",
+      "name": " joinMOTD v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2021-08-22T04:14:05Z",
+      "assets": [
+        {
+          "name": "JoinMOTD-v1.2.0.mcdr",
+          "size": 1564,
+          "download_count": 1852,
+          "created_at": "2021-08-22T04:18:37Z",
+          "browser_download_url": "https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr"
+        }
+      ],
+      "description": "MCDR2 plugin format, better config support",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "join_motd",
+        "name": "Join MOTD",
+        "version": "1.2.0",
+        "repository": "https://github.com/TISUnion/joinMOTD",
+        "link": "https://github.com/TISUnion/joinMOTD",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Send player a MOTD when he joins",
+          "zh_cn": "当玩家加入游戏时向其发送欢迎信息"
+        }
+      }
     }
   ]
 }
