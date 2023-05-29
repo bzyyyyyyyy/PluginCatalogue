@@ -2022,7 +2022,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.5
   - Metadata version: 1.4.5
   - Release version: 1.4.5
-- Total downloads: 401
+- Total downloads: 402
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -3432,7 +3432,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.4.0
   - Metadata version: 1.4.0
   - Release version: 1.4.0
-- Total downloads: 770
+- Total downloads: 771
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master

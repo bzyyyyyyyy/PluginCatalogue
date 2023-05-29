@@ -2020,7 +2020,7 @@ Params:
 - 版本: 1.4.5
   - 元数据版本: 1.4.5
   - 发布版本: 1.4.5
-- 总下载量: 401
+- 总下载量: 402
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -3497,7 +3497,7 @@ classDiagram
 - 版本: 1.4.0
   - 元数据版本: 1.4.0
   - 发布版本: 1.4.0
-- 总下载量: 770
+- 总下载量: 771
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/Fallen-Breath/PCRC
 - 仓库插件页: https://github.com/Fallen-Breath/PCRC/tree/master
