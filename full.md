@@ -472,7 +472,7 @@ flowchart LR
 - Plugin ID: `bot_plugin`
 - Plugin Name: Bot Plugin
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: 1.0.0
 - Total downloads: 470
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)

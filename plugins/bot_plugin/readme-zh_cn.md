@@ -9,7 +9,7 @@
 - 插件 ID: `bot_plugin`
 - 插件名: Bot Plugin
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0
   - 发布版本: 1.0.0
 - 总下载量: 470
 - 作者: [DancingSnow0517](https://github.com/DancingSnow0517)
