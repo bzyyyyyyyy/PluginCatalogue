@@ -11,7 +11,7 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 3
+- 总下载量: 5
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/hooks
 - 仓库插件页: https://github.com/OptiJava/hooks/tree/master
@@ -41,6 +41,6 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [hooks-v1.1.0.mcdr](https://github.com/OptiJava/hooks/releases/tag/v1.1.0) | 1.1.0 | 2023/05/27 12:06:27 | 25.36KB | 1 | [下载](https://github.com/OptiJava/hooks/releases/download/v1.1.0/hooks-v1.1.0.mcdr) |
+| [hooks-v1.1.0.mcdr](https://github.com/OptiJava/hooks/releases/tag/v1.1.0) | 1.1.0 | 2023/05/27 12:06:27 | 25.36KB | 3 | [下载](https://github.com/OptiJava/hooks/releases/download/v1.1.0/hooks-v1.1.0.mcdr) |
 | [hooks-v1.0.0.mcdr](https://github.com/OptiJava/hooks/releases/tag/v1.0) | 1.0 | 2023/05/20 10:06:51 | 9.92KB | 2 | [下载](https://github.com/OptiJava/hooks/releases/download/v1.0/hooks-v1.0.0.mcdr) |
 
