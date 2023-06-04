@@ -20,7 +20,24 @@
       "description": "[Support] HMCL 3.4.209 / Cato 1.1.1",
       "prerelease": false,
       "parsed_version": "1.1.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/Harry-zklcdc/MCDR-Cato/cato-v1.1.0/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 Resource temporarily unavailable</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 Resource temporarily unavailable</h1>\\n    <p>Resource temporarily unavailable</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000156-IAD 1685884990 104508064</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": {
+        "schema_version": 3,
+        "id": "cato",
+        "name": "Cato Plugin",
+        "version": "1.1.0",
+        "repository": "https://github.com/Harry-zklcdc/MCDR-Cato",
+        "link": "https://github.com/Harry-zklcdc/MCDR-Cato",
+        "authors": [
+          "Harry-zklcdc"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-alpha.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Plugin Cato"
+        }
+      }
     },
     {
       "url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0",
