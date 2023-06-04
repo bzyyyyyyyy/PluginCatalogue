@@ -12,7 +12,7 @@
         {
           "name": "jrrp2.3.2.mcdr",
           "size": 2771,
-          "download_count": 142,
+          "download_count": 143,
           "created_at": "2022-03-20T01:21:46Z",
           "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr"
         }
@@ -77,7 +77,7 @@
       "description": "Added a little language blessing\r\nOptimized some code）",
       "prerelease": false,
       "parsed_version": "1.1.0",
-      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/SkyDynamic/jrrps/1.1.0/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 backend read error</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 backend read error</h1>\\n    <p>backend read error</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000031-IAD 1685859986 2618719743</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
+      "meta": "wrong plugin id in mcdreforged.plugin.json, expected jrrps but found jrrp"
     },
     {
       "url": "https://github.com/SkyDynamic/jrrps/releases/tag/1.0.0",
@@ -96,7 +96,7 @@
       "description": "First Releases\r\nMaybe have some bug ：）",
       "prerelease": false,
       "parsed_version": "1.0.0",
-      "meta": "wrong plugin id in mcdreforged.plugin.json, expected jrrps but found jrrp"
+      "meta": "Failed to decode json from response! url: https://raw.githubusercontent.com/SkyDynamic/jrrps/1.0.0/mcdreforged.plugin.json, status_code 503: b'\\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n<html>\\n  <head>\\n    <title>503 backend read error</title>\\n  </head>\\n  <body>\\n    <h1>Error 503 backend read error</h1>\\n    <p>backend read error</p>\\n    <h3>Error 54113</h3>\\n    <p>Details: cache-iad-kiad7000037-IAD 1685863211 439548871</p>\\n    <hr>\\n    <p>Varnish cache server</p>\\n  </body>\\n</html>\\n'"
     }
   ]
 }
