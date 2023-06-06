@@ -3,8 +3,9 @@
   "release_pages": [
     {
       "index": 1,
-      "etag": "\"d7f9d068d7691b9425fbe8d555e2bb8cd49e58cfdb122e61936626ac81fabed2\"",
+      "etag": "\"5e0f2b5ad3b33ba1b132aee174d73a4a083ea21a64e2bad1697409c6de4ac3e6\"",
       "release_tags": [
+        "v1.3.2",
         "v1.3.1"
       ],
       "empty": false
