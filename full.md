@@ -1787,7 +1787,7 @@ Make file transfers faster!
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 11
+- Total downloads: 13
 - Authors: [OptiJava](https://github.com/OptiJava)
 - Repository: https://github.com/OptiJava/hooks
 - Repository plugin page: https://github.com/OptiJava/hooks/tree/master
@@ -1817,7 +1817,7 @@ Pursuing full automation in server management and maintenance!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [hooks-v2.0.1.mcdr](https://github.com/OptiJava/hooks/releases/tag/v2.0.1) | 2.0.1 | 2023/06/06 11:41:48 | 13.34KB | 0 | [Download](https://github.com/OptiJava/hooks/releases/download/v2.0.1/hooks-v2.0.1.mcdr) |
+| [hooks-v2.0.1.mcdr](https://github.com/OptiJava/hooks/releases/tag/v2.0.1) | 2.0.1 | 2023/06/06 11:41:48 | 13.34KB | 2 | [Download](https://github.com/OptiJava/hooks/releases/download/v2.0.1/hooks-v2.0.1.mcdr) |
 | [hooks-v2.0.0.mcdr](https://github.com/OptiJava/hooks/releases/tag/v2.0.0) | 2.0.0 | 2023/06/05 10:46:35 | 13.03KB | 2 | [Download](https://github.com/OptiJava/hooks/releases/download/v2.0.0/hooks-v2.0.0.mcdr) |
 | [hooks-v1.1.0.mcdr](https://github.com/OptiJava/hooks/releases/tag/v1.1.0) | 1.1.0 | 2023/05/27 12:06:27 | 25.36KB | 7 | [Download](https://github.com/OptiJava/hooks/releases/download/v1.1.0/hooks-v1.1.0.mcdr) |
 
